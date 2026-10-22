@@ -1,7 +1,8 @@
 """India Drought Analysis (State: Odisha) – Plotly Dash dashboard (Odisha only since the 2026-10-09 scope change).
 
 Run locally:   python app.py            -> open http://127.0.0.1:8050
-Deploy later:  gunicorn app:server      (e.g. Render / Hugging Face Spaces; not deployed yet)
+Live:          https://piyushpatnaik.pythonanywhere.com/  (free PythonAnywhere hosting; see DEPLOY_PYTHONANYWHERE.md)
+Other hosts:   gunicorn app:server      (e.g. Render / Hugging Face Spaces)
 
 The app reads only data/clean/ (Odisha CSV tables + one small district GeoJSON made by dashboard/make_geojson.py).
 

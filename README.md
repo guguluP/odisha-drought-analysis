@@ -6,6 +6,10 @@ Odisha statewide series and all 30 districts. The work goes from data cleaning t
 tests and a set of charts and district maps, then AI-assisted summarisation with a fact-checker, and ends with an interactive
 Plotly Dash dashboard.
 
+**Live dashboard: <https://piyushpatnaik.pythonanywhere.com/>** — hosted on a free PythonAnywhere account, so the first load
+can be a little slow, and the site has to be renewed from the PythonAnywhere *Web* tab before it expires (free web apps
+run for a limited period at a time). Hosting notes: [`DEPLOY_PYTHONANYWHERE.md`](DEPLOY_PYTHONANYWHERE.md).
+
 ![Dashboard, default view: whole Odisha, 1991–2025, SPEI-1](reports/figures/dashboard_default_odisha_whole_state.png)
 
 ## Course and team
