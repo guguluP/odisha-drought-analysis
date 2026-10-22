@@ -1,0 +1,316 @@
+fact,value,description
+rows_odisha_month,1500.0,rows in odisha_month.csv
+cols_odisha_month,12.0,columns in odisha_month.csv
+rows_odisha_district_month,45000.0,rows in odisha_district_month.csv
+cols_odisha_district_month,14.0,columns in odisha_district_month.csv (without the group column added here)
+n_districts,30.0,number of Odisha districts
+odisha_missing_spei4,3.0,"missing SPEI-4 values, statewide"
+odisha_missing_spei12,11.0,"missing SPEI-12 values, statewide"
+odisha_iqr_outliers_spei1,0.0,IQR outliers in statewide SPEI-1
+district_iqr_outliers_spei1,29.0,IQR outliers in district SPEI-1
+odisha_drought_months,243.0,"Odisha drought months (SPEI-1 <= -1), 1901-2025"
+odisha_drought_share_pct,16.2,"Odisha drought months, % of all months 1901-2025"
+odisha_severe_or_worse_months,107.0,Odisha months with SPEI-1 <= -1.5
+odisha_extreme_months,28.0,Odisha months with SPEI-1 <= -2
+odisha_share_1901_1960,9.444444444444445,"Odisha drought share %, 1901-1960"
+odisha_share_1961_2025,22.435897435897438,"Odisha drought share %, 1961-2025"
+odisha_share_1991_2025,24.761904761904763,"Odisha drought share %, 1991-2025"
+odisha_change_pp,15.317460317460318,"Odisha change in drought share, 1991-2025 minus 1901-1960 (points)"
+odisha_drought_months_1901_1960,68.0,Odisha drought months 1901-1960
+odisha_drought_months_1991_2025,104.0,Odisha drought months 1991-2025
+chi2_period,47.39160936513276,"chi-square, Odisha period (1901-1960 vs 1991-2025) x drought month"
+decade_share_1900,13.88888888888889,"Odisha drought share %, 1900s"
+decade_share_1910,9.166666666666666,"Odisha drought share %, 1910s"
+decade_share_1920,9.166666666666666,"Odisha drought share %, 1920s"
+decade_share_1930,10.0,"Odisha drought share %, 1930s"
+decade_share_1940,5.0,"Odisha drought share %, 1940s"
+decade_share_1950,8.333333333333332,"Odisha drought share %, 1950s"
+decade_share_1960,18.333333333333332,"Odisha drought share %, 1960s"
+decade_share_1970,21.666666666666668,"Odisha drought share %, 1970s"
+decade_share_1980,20.833333333333336,"Odisha drought share %, 1980s"
+decade_share_1990,18.333333333333332,"Odisha drought share %, 1990s"
+decade_share_2000,32.5,"Odisha drought share %, 2000s"
+decade_share_2010,24.166666666666668,"Odisha drought share %, 2010s"
+decade_share_2020,20.833333333333336,"Odisha drought share %, 2020s"
+odisha_2000s_drought_months,39.0,Odisha drought months in the 2000s
+odisha_2010s_drought_months,29.0,Odisha drought months in the 2010s
+odisha_2000s_district_month_drought_pct,31.36111111111111,% of Odisha district-months in drought in the 2000s
+odisha_2000s_district_month_extreme_pct,6.611111111111111,% of Odisha district-months extreme (SPEI-1 <= -2) in the 2000s
+group_2000s_share_west,34.166666666666664,"West drought share %, 2000s"
+group_2000s_share_coastal,28.61111111111111,"Coastal drought share %, 2000s"
+group_2000s_share_south,36.52777777777778,"South drought share %, 2000s"
+group_2000s_share_nc,26.041666666666668,"North & Central drought share %, 2000s"
+season_winter_1901_1960,4.166666666666666,"Odisha drought share % in Winter (JF), 1901-1960"
+season_winter_1991_2025,37.142857142857146,"Odisha drought share % in Winter (JF), 1991-2025"
+season_premonsoon_1901_1960,10.555555555555555,"Odisha drought share % in Pre-monsoon (MAM), 1901-1960"
+season_premonsoon_1991_2025,24.761904761904763,"Odisha drought share % in Pre-monsoon (MAM), 1991-2025"
+season_monsoon_1901_1960,13.750000000000002,"Odisha drought share % in Monsoon (JJAS), 1901-1960"
+season_monsoon_1991_2025,17.142857142857142,"Odisha drought share % in Monsoon (JJAS), 1991-2025"
+season_postmonsoon_1901_1960,6.111111111111111,"Odisha drought share % in Post-monsoon (OND), 1901-1960"
+season_postmonsoon_1991_2025,26.666666666666668,"Odisha drought share % in Post-monsoon (OND), 1991-2025"
+odisha_dry_season_change,21.2797619047619,Odisha change in dry-season drought share (points)
+odisha_monsoon_change,3.3928571428571406,Odisha change in monsoon-season drought share (points)
+trend_tau_spei1_mean,-0.21806451612903224,"Kendall tau, Odisha spei1_mean vs year"
+trend_p_spei1_mean,0.000310344123965887,"Mann-Kendall p, Odisha spei1_mean"
+trend_sen_spei1_mean,-0.027810616741741748,"Sen's slope per decade, Odisha spei1_mean"
+trend_tau_monsoon,-0.0754887413662351,"Kendall tau, Odisha monsoon_spei4_sep vs year"
+trend_p_monsoon,0.21188102298497957,"Mann-Kendall p, Odisha monsoon_spei4_sep"
+trend_sen_monsoon,-0.029584120577121266,"Sen's slope per decade, Odisha monsoon_spei4_sep"
+trend_tau_annual,-0.07406451612903225,"Kendall tau, Odisha annual_spei12_dec vs year"
+trend_p_annual,0.22060060281204075,"Mann-Kendall p, Odisha annual_spei12_dec"
+trend_sen_annual,-0.03124181487856187,"Sen's slope per decade, Odisha annual_spei12_dec"
+trend_tau_dm,0.33129805812622415,"Kendall tau, Odisha drought_months vs year"
+trend_p_dm,4.451235975502004e-07,"Mann-Kendall p, Odisha drought_months"
+trend_sen_dm,0.16666666666666666,"Sen's slope per decade, Odisha drought_months"
+sep_spei4_1974,-2.8797,Odisha September SPEI-4 in 1974
+sep_spei4_1987,-2.5587,Odisha September SPEI-4 in 1987
+sep_spei4_1979,-2.1736,Odisha September SPEI-4 in 1979
+sep_spei4_1965,-2.0693,Odisha September SPEI-4 in 1965
+sep_spei4_2002,-1.825,Odisha September SPEI-4 in 2002
+sep_spei4_1924,-1.7913,Odisha September SPEI-4 in 1924
+sep_spei4_1901,-1.7104,Odisha September SPEI-4 in 1901
+sep_spei4_1998,-1.6548,Odisha September SPEI-4 in 1998
+sep_spei4_1996,-1.6321,Odisha September SPEI-4 in 1996
+sep_spei4_2000,-1.5109,Odisha September SPEI-4 in 2000
+sep_spei4_1972,-0.45256,Odisha September SPEI-4 in 1972
+odisha_monsoon_drought_years,20.0,years with Odisha September SPEI-4 <= -1
+odisha_annual_drought_years,18.0,years with Odisha December SPEI-12 <= -1
+dec_spei12_1974,-2.8045,Odisha December SPEI-12 in 1974
+dec_spei12_1979,-2.7222,Odisha December SPEI-12 in 1979
+odisha_min_spei1,-2.7172,lowest Odisha statewide SPEI-1
+stripe_years_1901_1960,1.0,"Odisha years with mean SPEI-1 < -0.3, 1901-1960"
+stripe_years_1961_1990,9.0,"Odisha years with mean SPEI-1 < -0.3, 1961-1990"
+stripe_years_1991_2025,10.0,"Odisha years with mean SPEI-1 < -0.3, 1991-2025"
+odisha_events_spei1,184.0,"Odisha SPEI-1 drought events (run theory), 1901-2025"
+odisha_longest_event,8.0,longest Odisha SPEI-1 event (months)
+odisha_events_1_month,145.0,Odisha events lasting one month
+odisha_events_1991_2025,72.0,Odisha events starting 1991-2025
+odisha_total_severity_1991_2025,165.04899999999998,"Odisha total event severity, events starting 1991-2025"
+rank_Angul,23.0,"Angul composite rank, 1991-2025"
+share_1991_2025_Angul,22.857142857142858,"Angul drought share %, 1991-2025"
+share_1901_1960_Angul,9.722222222222223,"Angul drought share %, 1901-1960"
+change_pp_Angul,13.134920634920634,Angul change in drought share (points)
+severity_Angul,147.5936,"Angul total event severity, events starting 1991-2025"
+longest_Angul,5.0,"Angul longest event (months), events starting 1991-2025"
+rank_Balangir,2.0,"Balangir composite rank, 1991-2025"
+share_1991_2025_Balangir,27.61904761904762,"Balangir drought share %, 1991-2025"
+share_1901_1960_Balangir,6.527777777777779,"Balangir drought share %, 1901-1960"
+change_pp_Balangir,21.091269841269842,Balangir change in drought share (points)
+severity_Balangir,187.89640000000003,"Balangir total event severity, events starting 1991-2025"
+longest_Balangir,7.0,"Balangir longest event (months), events starting 1991-2025"
+rank_Balasore,30.0,"Balasore composite rank, 1991-2025"
+share_1991_2025_Balasore,19.047619047619047,"Balasore drought share %, 1991-2025"
+share_1901_1960_Balasore,14.166666666666666,"Balasore drought share %, 1901-1960"
+change_pp_Balasore,4.880952380952381,Balasore change in drought share (points)
+severity_Balasore,110.44109999999998,"Balasore total event severity, events starting 1991-2025"
+longest_Balasore,5.0,"Balasore longest event (months), events starting 1991-2025"
+rank_Bargarh,8.0,"Bargarh composite rank, 1991-2025"
+share_1991_2025_Bargarh,26.904761904761905,"Bargarh drought share %, 1991-2025"
+share_1901_1960_Bargarh,6.25,"Bargarh drought share %, 1901-1960"
+change_pp_Bargarh,20.654761904761905,Bargarh change in drought share (points)
+severity_Bargarh,182.7024,"Bargarh total event severity, events starting 1991-2025"
+longest_Bargarh,5.0,"Bargarh longest event (months), events starting 1991-2025"
+rank_Bhadrak,28.0,"Bhadrak composite rank, 1991-2025"
+share_1991_2025_Bhadrak,20.714285714285715,"Bhadrak drought share %, 1991-2025"
+share_1901_1960_Bhadrak,11.25,"Bhadrak drought share %, 1901-1960"
+change_pp_Bhadrak,9.464285714285715,Bhadrak change in drought share (points)
+severity_Bhadrak,126.1633,"Bhadrak total event severity, events starting 1991-2025"
+longest_Bhadrak,5.0,"Bhadrak longest event (months), events starting 1991-2025"
+rank_Boudh,7.0,"Boudh composite rank, 1991-2025"
+share_1991_2025_Boudh,25.952380952380956,"Boudh drought share %, 1991-2025"
+share_1901_1960_Boudh,7.777777777777778,"Boudh drought share %, 1901-1960"
+change_pp_Boudh,18.174603174603178,Boudh change in drought share (points)
+severity_Boudh,166.8626,"Boudh total event severity, events starting 1991-2025"
+longest_Boudh,6.0,"Boudh longest event (months), events starting 1991-2025"
+rank_Cuttack,25.0,"Cuttack composite rank, 1991-2025"
+share_1991_2025_Cuttack,20.952380952380953,"Cuttack drought share %, 1991-2025"
+share_1901_1960_Cuttack,10.972222222222221,"Cuttack drought share %, 1901-1960"
+change_pp_Cuttack,9.980158730158731,Cuttack change in drought share (points)
+severity_Cuttack,133.89520000000002,"Cuttack total event severity, events starting 1991-2025"
+longest_Cuttack,6.0,"Cuttack longest event (months), events starting 1991-2025"
+rank_Deogarh,19.0,"Deogarh composite rank, 1991-2025"
+share_1991_2025_Deogarh,23.333333333333332,"Deogarh drought share %, 1991-2025"
+share_1901_1960_Deogarh,9.166666666666666,"Deogarh drought share %, 1901-1960"
+change_pp_Deogarh,14.166666666666666,Deogarh change in drought share (points)
+severity_Deogarh,150.3087,"Deogarh total event severity, events starting 1991-2025"
+longest_Deogarh,5.0,"Deogarh longest event (months), events starting 1991-2025"
+rank_Dhenkanal,23.0,"Dhenkanal composite rank, 1991-2025"
+share_1991_2025_Dhenkanal,21.904761904761905,"Dhenkanal drought share %, 1991-2025"
+share_1901_1960_Dhenkanal,12.63888888888889,"Dhenkanal drought share %, 1901-1960"
+change_pp_Dhenkanal,9.265873015873016,Dhenkanal change in drought share (points)
+severity_Dhenkanal,138.77970000000002,"Dhenkanal total event severity, events starting 1991-2025"
+longest_Dhenkanal,6.0,"Dhenkanal longest event (months), events starting 1991-2025"
+rank_Gajapati,13.0,"Gajapati composite rank, 1991-2025"
+share_1991_2025_Gajapati,25.238095238095237,"Gajapati drought share %, 1991-2025"
+share_1901_1960_Gajapati,11.38888888888889,"Gajapati drought share %, 1901-1960"
+change_pp_Gajapati,13.849206349206348,Gajapati change in drought share (points)
+severity_Gajapati,154.19320000000002,"Gajapati total event severity, events starting 1991-2025"
+longest_Gajapati,6.0,"Gajapati longest event (months), events starting 1991-2025"
+rank_Ganjam,13.0,"Ganjam composite rank, 1991-2025"
+share_1991_2025_Ganjam,25.0,"Ganjam drought share %, 1991-2025"
+share_1901_1960_Ganjam,9.166666666666666,"Ganjam drought share %, 1901-1960"
+change_pp_Ganjam,15.833333333333334,Ganjam change in drought share (points)
+severity_Ganjam,154.5707,"Ganjam total event severity, events starting 1991-2025"
+longest_Ganjam,6.0,"Ganjam longest event (months), events starting 1991-2025"
+rank_Jagatsinghpur,22.0,"Jagatsinghpur composite rank, 1991-2025"
+share_1991_2025_Jagatsinghpur,20.714285714285715,"Jagatsinghpur drought share %, 1991-2025"
+share_1901_1960_Jagatsinghpur,12.222222222222221,"Jagatsinghpur drought share %, 1901-1960"
+change_pp_Jagatsinghpur,8.492063492063494,Jagatsinghpur change in drought share (points)
+severity_Jagatsinghpur,127.07840000000002,"Jagatsinghpur total event severity, events starting 1991-2025"
+longest_Jagatsinghpur,8.0,"Jagatsinghpur longest event (months), events starting 1991-2025"
+rank_Jajpur,26.0,"Jajpur composite rank, 1991-2025"
+share_1991_2025_Jajpur,22.142857142857142,"Jajpur drought share %, 1991-2025"
+share_1901_1960_Jajpur,12.5,"Jajpur drought share %, 1901-1960"
+change_pp_Jajpur,9.642857142857142,Jajpur change in drought share (points)
+severity_Jajpur,136.34330000000006,"Jajpur total event severity, events starting 1991-2025"
+longest_Jajpur,5.0,"Jajpur longest event (months), events starting 1991-2025"
+rank_Jharsuguda,5.0,"Jharsuguda composite rank, 1991-2025"
+share_1991_2025_Jharsuguda,25.71428571428571,"Jharsuguda drought share %, 1991-2025"
+share_1901_1960_Jharsuguda,8.75,"Jharsuguda drought share %, 1901-1960"
+change_pp_Jharsuguda,16.96428571428571,Jharsuguda change in drought share (points)
+severity_Jharsuguda,164.84230000000002,"Jharsuguda total event severity, events starting 1991-2025"
+longest_Jharsuguda,8.0,"Jharsuguda longest event (months), events starting 1991-2025"
+rank_Kalahandi,4.0,"Kalahandi composite rank, 1991-2025"
+share_1991_2025_Kalahandi,26.42857142857143,"Kalahandi drought share %, 1991-2025"
+share_1901_1960_Kalahandi,7.777777777777778,"Kalahandi drought share %, 1901-1960"
+change_pp_Kalahandi,18.650793650793652,Kalahandi change in drought share (points)
+severity_Kalahandi,174.2269,"Kalahandi total event severity, events starting 1991-2025"
+longest_Kalahandi,7.0,"Kalahandi longest event (months), events starting 1991-2025"
+rank_Kandhamal,12.0,"Kandhamal composite rank, 1991-2025"
+share_1991_2025_Kandhamal,25.0,"Kandhamal drought share %, 1991-2025"
+share_1901_1960_Kandhamal,8.333333333333332,"Kandhamal drought share %, 1901-1960"
+change_pp_Kandhamal,16.666666666666668,Kandhamal change in drought share (points)
+severity_Kandhamal,158.0217,"Kandhamal total event severity, events starting 1991-2025"
+longest_Kandhamal,6.0,"Kandhamal longest event (months), events starting 1991-2025"
+rank_Kendrapara,15.0,"Kendrapara composite rank, 1991-2025"
+share_1991_2025_Kendrapara,22.857142857142858,"Kendrapara drought share %, 1991-2025"
+share_1901_1960_Kendrapara,10.13888888888889,"Kendrapara drought share %, 1901-1960"
+change_pp_Kendrapara,12.718253968253968,Kendrapara change in drought share (points)
+severity_Kendrapara,144.8231,"Kendrapara total event severity, events starting 1991-2025"
+longest_Kendrapara,8.0,"Kendrapara longest event (months), events starting 1991-2025"
+rank_Keonjhar,27.0,"Keonjhar composite rank, 1991-2025"
+share_1991_2025_Keonjhar,22.142857142857142,"Keonjhar drought share %, 1991-2025"
+share_1901_1960_Keonjhar,11.527777777777779,"Keonjhar drought share %, 1901-1960"
+change_pp_Keonjhar,10.615079365079364,Keonjhar change in drought share (points)
+severity_Keonjhar,135.13720000000004,"Keonjhar total event severity, events starting 1991-2025"
+longest_Keonjhar,5.0,"Keonjhar longest event (months), events starting 1991-2025"
+rank_Khordha,17.0,"Khordha composite rank, 1991-2025"
+share_1991_2025_Khordha,22.142857142857142,"Khordha drought share %, 1991-2025"
+share_1901_1960_Khordha,9.583333333333334,"Khordha drought share %, 1901-1960"
+change_pp_Khordha,12.559523809523808,Khordha change in drought share (points)
+severity_Khordha,143.7303,"Khordha total event severity, events starting 1991-2025"
+longest_Khordha,6.0,"Khordha longest event (months), events starting 1991-2025"
+rank_Koraput,6.0,"Koraput composite rank, 1991-2025"
+share_1991_2025_Koraput,25.476190476190474,"Koraput drought share %, 1991-2025"
+share_1901_1960_Koraput,9.722222222222223,"Koraput drought share %, 1901-1960"
+change_pp_Koraput,15.753968253968251,Koraput change in drought share (points)
+severity_Koraput,165.9708,"Koraput total event severity, events starting 1991-2025"
+longest_Koraput,7.0,"Koraput longest event (months), events starting 1991-2025"
+rank_Malkangiri,9.0,"Malkangiri composite rank, 1991-2025"
+share_1991_2025_Malkangiri,24.761904761904763,"Malkangiri drought share %, 1991-2025"
+share_1901_1960_Malkangiri,9.027777777777777,"Malkangiri drought share %, 1901-1960"
+change_pp_Malkangiri,15.734126984126986,Malkangiri change in drought share (points)
+severity_Malkangiri,163.22899999999998,"Malkangiri total event severity, events starting 1991-2025"
+longest_Malkangiri,7.0,"Malkangiri longest event (months), events starting 1991-2025"
+rank_Mayurbhanj,29.0,"Mayurbhanj composite rank, 1991-2025"
+share_1991_2025_Mayurbhanj,19.28571428571429,"Mayurbhanj drought share %, 1991-2025"
+share_1901_1960_Mayurbhanj,13.055555555555557,"Mayurbhanj drought share %, 1901-1960"
+change_pp_Mayurbhanj,6.230158730158731,Mayurbhanj change in drought share (points)
+severity_Mayurbhanj,115.449,"Mayurbhanj total event severity, events starting 1991-2025"
+longest_Mayurbhanj,5.0,"Mayurbhanj longest event (months), events starting 1991-2025"
+rank_Nabarangpur,3.0,"Nabarangpur composite rank, 1991-2025"
+share_1991_2025_Nabarangpur,28.095238095238095,"Nabarangpur drought share %, 1991-2025"
+share_1901_1960_Nabarangpur,6.527777777777779,"Nabarangpur drought share %, 1901-1960"
+change_pp_Nabarangpur,21.567460317460316,Nabarangpur change in drought share (points)
+severity_Nabarangpur,194.88950000000003,"Nabarangpur total event severity, events starting 1991-2025"
+longest_Nabarangpur,6.0,"Nabarangpur longest event (months), events starting 1991-2025"
+rank_Nayagarh,17.0,"Nayagarh composite rank, 1991-2025"
+share_1991_2025_Nayagarh,22.61904761904762,"Nayagarh drought share %, 1991-2025"
+share_1901_1960_Nayagarh,9.444444444444445,"Nayagarh drought share %, 1901-1960"
+change_pp_Nayagarh,13.174603174603176,Nayagarh change in drought share (points)
+severity_Nayagarh,143.42740000000006,"Nayagarh total event severity, events starting 1991-2025"
+longest_Nayagarh,6.0,"Nayagarh longest event (months), events starting 1991-2025"
+rank_Nuapada,1.0,"Nuapada composite rank, 1991-2025"
+share_1991_2025_Nuapada,30.952380952380953,"Nuapada drought share %, 1991-2025"
+share_1901_1960_Nuapada,5.555555555555555,"Nuapada drought share %, 1901-1960"
+change_pp_Nuapada,25.3968253968254,Nuapada change in drought share (points)
+severity_Nuapada,211.24880000000002,"Nuapada total event severity, events starting 1991-2025"
+longest_Nuapada,7.0,"Nuapada longest event (months), events starting 1991-2025"
+rank_Puri,19.0,"Puri composite rank, 1991-2025"
+share_1991_2025_Puri,21.666666666666668,"Puri drought share %, 1991-2025"
+share_1901_1960_Puri,10.833333333333334,"Puri drought share %, 1901-1960"
+change_pp_Puri,10.833333333333334,Puri change in drought share (points)
+severity_Puri,135.6153,"Puri total event severity, events starting 1991-2025"
+longest_Puri,7.0,"Puri longest event (months), events starting 1991-2025"
+rank_Rayagada,10.0,"Rayagada composite rank, 1991-2025"
+share_1991_2025_Rayagada,25.71428571428571,"Rayagada drought share %, 1991-2025"
+share_1901_1960_Rayagada,10.277777777777777,"Rayagada drought share %, 1901-1960"
+change_pp_Rayagada,15.436507936507935,Rayagada change in drought share (points)
+severity_Rayagada,161.67119999999997,"Rayagada total event severity, events starting 1991-2025"
+longest_Rayagada,6.0,"Rayagada longest event (months), events starting 1991-2025"
+rank_Sambalpur,16.0,"Sambalpur composite rank, 1991-2025"
+share_1991_2025_Sambalpur,25.0,"Sambalpur drought share %, 1991-2025"
+share_1901_1960_Sambalpur,8.75,"Sambalpur drought share %, 1901-1960"
+change_pp_Sambalpur,16.25,Sambalpur change in drought share (points)
+severity_Sambalpur,162.2377,"Sambalpur total event severity, events starting 1991-2025"
+longest_Sambalpur,5.0,"Sambalpur longest event (months), events starting 1991-2025"
+rank_Subarnapur,10.0,"Subarnapur composite rank, 1991-2025"
+share_1991_2025_Subarnapur,26.42857142857143,"Subarnapur drought share %, 1991-2025"
+share_1901_1960_Subarnapur,7.916666666666666,"Subarnapur drought share %, 1901-1960"
+change_pp_Subarnapur,18.511904761904766,Subarnapur change in drought share (points)
+severity_Subarnapur,175.50539999999998,"Subarnapur total event severity, events starting 1991-2025"
+longest_Subarnapur,5.0,"Subarnapur longest event (months), events starting 1991-2025"
+rank_Sundargarh,19.0,"Sundargarh composite rank, 1991-2025"
+share_1991_2025_Sundargarh,23.095238095238095,"Sundargarh drought share %, 1991-2025"
+share_1901_1960_Sundargarh,9.305555555555555,"Sundargarh drought share %, 1901-1960"
+change_pp_Sundargarh,13.78968253968254,Sundargarh change in drought share (points)
+severity_Sundargarh,151.1051,"Sundargarh total event severity, events starting 1991-2025"
+longest_Sundargarh,5.0,"Sundargarh longest event (months), events starting 1991-2025"
+n_districts_more_drought,30.0,districts with a higher drought share in 1991-2025 than 1901-1960
+spearman_district_early_vs_recent,-0.8638139260636946,Spearman r between district shares 1901-1960 and 1991-2025
+spearman_share_severity,0.980842934503778,Spearman r between 1991-2025 share and total severity
+n_districts_sig_drying,19.0,"Odisha districts with significant drying (MK p < 0.05), yearly mean SPEI-1"
+n_districts_sig_wetting,0.0,districts with significant wetting
+sig_drying_west,10.0,significant drying districts in West
+mean_sen_west,-0.0386823143376312,"mean Sen's slope per decade, West"
+sig_drying_coastal,0.0,significant drying districts in Coastal
+mean_sen_coastal,-0.009348571775661632,"mean Sen's slope per decade, Coastal"
+sig_drying_south,5.0,significant drying districts in South
+mean_sen_south,-0.026082568002388586,"mean Sen's slope per decade, South"
+sig_drying_nc,4.0,significant drying districts in North & Central
+mean_sen_nc,-0.014118066284846884,"mean Sen's slope per decade, North & Central"
+sen_Nuapada,-0.054263637530193226,Nuapada Sen's slope per decade
+tau_Nuapada,-0.35845161290322575,Nuapada Kendall tau
+n_districts_sig_drying_monsoon,9.0,districts with a significant drying trend in monsoon_spei4_sep
+n_districts_sig_drying_annual,11.0,districts with a significant drying trend in annual_spei12_dec
+west_mean_share,26.142857142857146,West mean drought share 1991-2025
+coastal_mean_share,21.666666666666668,Coastal mean drought share 1991-2025
+west_coastal_welch_p_share,0.0017001991697054382,"Welch p, West vs Coastal drought share 1991-2025"
+west_coastal_mw_p_share,0.003335017950531942,"Mann-Whitney p, West vs Coastal drought share 1991-2025"
+west_mean_change,18.365079365079364,West mean change since 1901-1960
+coastal_mean_change,10.370370370370372,Coastal mean change since 1901-1960
+west_coastal_welch_p_change,0.0016844050966638975,"Welch p, West vs Coastal change since 1901-1960"
+west_coastal_mw_p_change,0.000999000999000999,"Mann-Whitney p, West vs Coastal change since 1901-1960"
+west_mean_severity,172.69363,West mean total severity
+coastal_mean_severity,133.11531666666667,Coastal mean total severity
+west_coastal_welch_p_severity,0.0005763721213161581,"Welch p, West vs Coastal total severity"
+west_coastal_mw_p_severity,0.000999000999000999,"Mann-Whitney p, West vs Coastal total severity"
+west_mean_share_1901_1960,7.777777777777779,"West mean drought share %, 1901-1960"
+coastal_mean_share_1901_1960,11.296296296296298,"Coastal mean drought share %, 1901-1960"
+south_mean_share_1991_2025,25.71428571428571,"South mean drought share %, 1991-2025"
+nc_mean_share_1991_2025,21.75595238095238,"North & Central mean drought share %, 1991-2025"
+chi2_west_coastal,16.835679184905256,"chi-square, West vs Coastal district-months 1991-2025"
+coherence_mean_r,0.8438986461262475,mean r of district SPEI-1 with statewide SPEI-1
+coherence_min_r,0.6912493561038862,lowest district r with statewide SPEI-1
+coherence_max_r,0.9291683542984591,highest district r with statewide SPEI-1
+pct_district_drought_also_state,71.97337401192623,% of district drought months that are also statewide drought months
+mean_districts_in_state_drought,21.358024691358025,mean number of districts in drought during a statewide drought month
+r_spei1_spei4,0.5224461503953989,"r, statewide SPEI-1 vs SPEI-4"
+r_spei4_spei12,0.5654731034736826,"r, statewide SPEI-4 vs SPEI-12"
+r_spei1_spei12,0.30011591323914233,"r, statewide SPEI-1 vs SPEI-12"
+district_corr_mean_all,0.4756974652768864,mean r over 435 district pairs (Sep SPEI-4)
+district_corr_same_group,0.6459422111005448,"mean r, same-group pairs"
+district_corr_diff_group,0.42288057124123335,"mean r, different-group pairs"
+district_corr_west_coastal,0.37368895685377373,"mean r, West vs Coastal"
+district_corr_khordha_puri,0.9650701423383662,"r, Khordha vs Puri"
+district_corr_jharsuguda_gajapati,-0.059068114662261466,"r, Jharsuguda vs Gajapati"

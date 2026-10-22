@@ -1,0 +1,54 @@
+Folder Name : Administrative-Boundaries_Shapefile
+This folder contains the shapefiles of India's administrative boundaries, including states, districts, and subdistricts (taluka) that have been used in the analysis. The details of the desired administrative level (state, district, or subdistrict) can be obtained from the attribute table of the shapefiles available in this directory.
+
+Available shapefiles in the directory:
+
+"India_Country_Boundary.shp" ---------------- This is the shapefile of the country boundary of India
+"STATE_BOUNDARY.shp"         ---------------- This is the shapefile of the states boundaries of India
+"DISTRICT_BOUNDARY.shp"      ---------------- This is the shapefile of the districts boundaries of India
+"SUBDISTRICT_BOUNDARY.shp"   ---------------- This is the shapefile of the subdistricts (taluka) boundaries of India
+___________________________________________________________________________________________________________________________________________________________
+
+Folder Name : DroughtAtlas
+This folder contains the drought atlas of India for each year between 1901 to 2020. Drought condition for each year is plotted at taluka level.
+
+File type: PNG file
+___________________________________________________________________________________________________________________________________________________________
+
+Folder Name : Gidded_SPEI
+
+This folder contains the gridded SPEI values for all the 0.05-degree spatial grids that falls in India. The gridded SPEI is available at 1-month, 4-month, and 12-month scales. The file name in the format of data_<latitude>_<longitude> (<latitude> & <longitude> can be obtained from latlon_India_0.05degree.csv)
+
+Data arrangement in file "data_YY_XX" (total 6 columns)>> 
+SNo. Year Month SPEI-1month SPEI-4month SPEI-12month
+___________________________________________________________________________________________________________________________________________________________
+
+Folder Name : Z-score
+This folder contains 4 sub-folders.
+
+Sub-Folder1 Name: India ------------ This folder contains the average SPEI (z-score) for India
+
+Data arrangement in file "India" (total 5 columns)>>  Year Month SPEI-1month SPEI-4month SPEI-12month
+__________________________________________
+Sub-Folder2 Name: States ------------ This folder contains the average SPEI (z-score) for each state of India at 1-month, 4-month, and 12-month scales. The file name in the format of data_statewise_id_<ID> (<ID> can be obtained from India_States.xlsx)
+
+Data arrangement in file "data_statewise_id_XX" (total 5 columns)>>  Year Month SPEI-1month SPEI-4month SPEI-12month
+__________________________________________
+Sub-Folder3 Name: Districts ------------ This folder contains the average SPEI (z-score) for each district of India at 1-month, 4-month, and 12-month scales. The file name in the format of data_distwise_id_<ID> (<ID> can be obtained from India_Districts.xlsx)
+
+Data arrangement in file "data_distwise_id_XX" (total 5 columns)>>  Year Month SPEI-1month SPEI-4month SPEI-12month
+__________________________________________
+Sub-Folder4 Name: Talukas ------------ This folder contains the average SPEI (z-score) for each taluka of India at 1-month, 4-month, and 12-month scales. The file name in the format of data_talukwise_id_<ID> (<ID> can be obtained from India_SubDistricts.xlsx)
+
+Data arrangement in file "data_talukwise_id_XX" (total 5 columns)>>  Year Month SPEI-1month SPEI-4month SPEI-12month
+____________________________________________________________________________________________________________________________________________________________
+
+File Name : latlon_India_0.05degree.csv
+
+This file contains the latitude and longitude information of all the spatial grids (0.05-degree) that falls in India. The SPEI values for all these grids are available in "Gidded_SPEI" folder of this directory.
+
+Data arrangement in file "latlon_India_0.05degree.csv" (total 2 columns) >> 
+latitude longitude
+_______________________________________________________________________________________________________________________________________________________
+
+

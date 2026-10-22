@@ -1,0 +1,18 @@
+# Looser requirements for running on your own computer (Python 3.10 - 3.13, Windows / Mac / Linux).
+# Install with:  pip install -r requirements-user.txt
+pandas>=2.0
+numpy>=1.26
+scipy>=1.11
+matplotlib>=3.8
+seaborn>=0.13
+plotly>=5.18
+geopandas>=0.14
+pyogrio>=0.7
+shapely>=2.0
+pyproj>=3.6
+openpyxl>=3.1
+dash>=2.14
+jupyter
+notebook
+ipykernel
+nbconvert

@@ -1,0 +1,24 @@
+# Python 3.13 environment (Odisha-only project; dash + gunicorn for the dashboard)
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+seaborn==0.13.2
+plotly==7.1.0
+geopandas==1.2.0
+pyogrio==0.13.0
+shapely==2.2.0
+pyproj==3.8.0
+openpyxl==3.1.5
+jupyter==1.1.1
+notebook==7.6.3
+nbconvert==7.17.1
+nbformat==5.11.1
+ipykernel==7.4.0
+# Week 6 dashboard (app.py); gunicorn is the production server for a later deployment
+dash==4.4.1
+gunicorn==26.2.0
+# Optional: only used to convert the Markdown report to .docx (bundles pandoc)
+pypandoc_binary
+# Optional, tests only: tests/http_and_screenshots.py takes browser screenshots
+# (pip install playwright==1.63.0 requests==2.34.2 && python -m playwright install chromium)

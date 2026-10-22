@@ -1,0 +1,26 @@
+/* Simple, clean layout for the drought dashboard (Dash loads every file in assets/ automatically) */
+body { margin: 0; background: #f4f5f7; font-family: "Segoe UI", Roboto, Arial, sans-serif; color: #222; }
+.page { max-width: 1240px; margin: 0 auto; padding: 16px; }
+.header h1 { margin: 4px 0; font-size: 26px; color: #7f0000; }
+.header p { margin: 4px 0 12px; color: #555; }
+.card { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); padding: 10px; margin-bottom: 14px; }
+.controls { display: grid; grid-template-columns: 1fr 1.2fr 1.6fr; gap: 12px 24px; align-items: start; }
+.control label { font-weight: 600; font-size: 13px; display: block; margin-bottom: 6px; }
+.control.wide { grid-column: 1 / -1; }
+.radio label { margin-right: 14px; font-weight: normal; font-size: 14px; display: inline-block; }
+.selection-title { font-size: 18px; margin: 6px 0 10px; color: #333; }
+.kpi-row { display: grid; grid-template-columns: repeat(4, 1fr); gap: 14px; margin-bottom: 14px; }
+.kpi { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.12); padding: 12px 14px;
+       border-top: 4px solid #b2182b; }
+.kpi-label { font-size: 13px; color: #666; text-transform: uppercase; letter-spacing: 0.04em; }
+.kpi-value { font-size: 30px; font-weight: 700; margin: 4px 0; color: #b2182b; }
+.kpi-note { font-size: 12px; color: #666; }
+.row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+.half { margin-bottom: 14px; }
+.download button { background: #2166ac; color: white; border: none; border-radius: 6px; padding: 8px 14px; cursor: pointer; }
+.footer { font-size: 12px; color: #555; border-top: 1px solid #ddd; margin-top: 8px; padding-top: 8px; }
+.footer p { margin: 4px 0; }
+@media (max-width: 900px) {
+  .controls, .row { grid-template-columns: 1fr; }
+  .kpi-row { grid-template-columns: repeat(2, 1fr); }
+}

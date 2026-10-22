@@ -1,0 +1,19 @@
+Raw data is not included in the package (the source zip is ~3 GB, 120,966 files).
+You only need it to RE-RUN notebook 01 (cleaning) and notebook 03 (district maps).
+Notebooks 02 and 04, the dashboard and the tests use data/clean/ only and need NO raw data.
+
+1. Download DroughtAtlas_v2.zip from https://zenodo.org/records/20368514
+2. From this folder (data/raw) extract only the parts that are used (Odisha state file, district files, lookup tables, shapefiles):
+
+   unzip DroughtAtlas_v2.zip "DroughtAtlas_v2/readme" \
+     "DroughtAtlas_v2/Z-score/States/*" \
+     "DroughtAtlas_v2/Z-score/Districts/*" "DroughtAtlas_v2/Z-score/*.xlsx" \
+     "DroughtAtlas_v2/Administrative-Boundaries_Shapefile/STATE_BOUNDARY*" \
+     "DroughtAtlas_v2/Administrative-Boundaries_Shapefile/DISTRICT_BOUNDARY*"
+
+   (On Windows you can also open the zip in File Explorer / 7-Zip and copy the same folders to data/raw/DroughtAtlas_v2/.
+    Gridded_SPEI/, Talukas/ and the DroughtAtlas PNG maps are not needed.)
+3. Run notebooks/01_data_loading_cleaning_eda.ipynb (then 02 and 03).
+
+The dashboard (app.py) does NOT need raw data. It reads data/clean/ and the small GeoJSON file data/clean/geo/odisha_districts.geojson.
+That GeoJSON file was made once from the shapefiles with:  python dashboard/make_geojson.py   (needs the shapefiles above)

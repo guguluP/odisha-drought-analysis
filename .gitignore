@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Local settings and secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Raw Drought Atlas data (about 3 GB, download from Zenodo).
+# Only the atlas readme and the download instructions are kept.
+data/raw/DroughtAtlas_v2/*
+!data/raw/DroughtAtlas_v2/readme
+data/raw/*.zip
+
+# Scratch
+*.zip
+*.log

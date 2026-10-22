@@ -1,0 +1,1501 @@
+area,date,year,month,decade,season,spei_1,spei_4,spei_12,drought,severity,spei1_iqr_outlier
+Odisha,1901-01-01,1901,1,1900,Winter (JF),1.4937,,,0,No drought,0
+Odisha,1901-02-01,1901,2,1900,Winter (JF),1.7757,,,0,No drought,0
+Odisha,1901-03-01,1901,3,1900,Pre-monsoon (MAM),-0.21321,,,0,No drought,0
+Odisha,1901-04-01,1901,4,1900,Pre-monsoon (MAM),0.63873,1.5741,,0,No drought,0
+Odisha,1901-05-01,1901,5,1900,Pre-monsoon (MAM),0.14834,1.0397,,0,No drought,0
+Odisha,1901-06-01,1901,6,1900,Monsoon (JJAS),-2.0914,-1.4493,,1,Extreme,0
+Odisha,1901-07-01,1901,7,1900,Monsoon (JJAS),-0.47508,-1.434,,0,No drought,0
+Odisha,1901-08-01,1901,8,1900,Monsoon (JJAS),-0.14684,-1.4216,,0,No drought,0
+Odisha,1901-09-01,1901,9,1900,Monsoon (JJAS),-0.62009,-1.7104,,0,No drought,0
+Odisha,1901-10-01,1901,10,1900,Post-monsoon (OND),-0.29881,-0.8686,,0,No drought,0
+Odisha,1901-11-01,1901,11,1900,Post-monsoon (OND),1.2526,-0.14328,,0,No drought,0
+Odisha,1901-12-01,1901,12,1900,Post-monsoon (OND),-0.15905,-0.27118,-0.61809,0,No drought,0
+Odisha,1902-01-01,1902,1,1900,Winter (JF),-0.16899,0.011214,-0.83588,0,No drought,0
+Odisha,1902-02-01,1902,2,1900,Winter (JF),-0.45751,0.4121,-1.3038,0,No drought,0
+Odisha,1902-03-01,1902,3,1900,Pre-monsoon (MAM),0.20636,-0.58167,-1.253,0,No drought,0
+Odisha,1902-04-01,1902,4,1900,Pre-monsoon (MAM),1.6384,0.58921,-1.0475,0,No drought,0
+Odisha,1902-05-01,1902,5,1900,Pre-monsoon (MAM),-0.19489,0.42779,-1.149,0,No drought,0
+Odisha,1902-06-01,1902,6,1900,Monsoon (JJAS),-1.5994,-0.72729,-0.98928,1,Severe,0
+Odisha,1902-07-01,1902,7,1900,Monsoon (JJAS),1.0373,0.1522,-0.22776,0,No drought,0
+Odisha,1902-08-01,1902,8,1900,Monsoon (JJAS),0.20237,-0.13176,-0.13933,0,No drought,0
+Odisha,1902-09-01,1902,9,1900,Monsoon (JJAS),-1.125,-0.63028,-0.35745,1,Moderate,0
+Odisha,1902-10-01,1902,10,1900,Post-monsoon (OND),-1.0058,-0.39589,-0.57865,1,Moderate,0
+Odisha,1902-11-01,1902,11,1900,Post-monsoon (OND),-0.029994,-1.2256,-1.0016,0,No drought,0
+Odisha,1902-12-01,1902,12,1900,Post-monsoon (OND),1.5704,-1.1161,-0.77789,0,No drought,0
+Odisha,1903-01-01,1903,1,1900,Winter (JF),1.0266,-0.35068,-0.62414,0,No drought,0
+Odisha,1903-02-01,1903,2,1900,Winter (JF),0.48102,0.83565,-0.5251,0,No drought,0
+Odisha,1903-03-01,1903,3,1900,Pre-monsoon (MAM),-0.15002,0.85659,-0.54616,0,No drought,0
+Odisha,1903-04-01,1903,4,1900,Pre-monsoon (MAM),0.10338,0.24326,-0.85087,0,No drought,0
+Odisha,1903-05-01,1903,5,1900,Pre-monsoon (MAM),0.48955,0.15543,-0.79592,0,No drought,0
+Odisha,1903-06-01,1903,6,1900,Monsoon (JJAS),-0.73068,-0.60437,-0.52096,0,No drought,0
+Odisha,1903-07-01,1903,7,1900,Monsoon (JJAS),0.87117,0.057505,-0.73279,0,No drought,0
+Odisha,1903-08-01,1903,8,1900,Monsoon (JJAS),-0.58922,-0.31611,-0.93115,0,No drought,0
+Odisha,1903-09-01,1903,9,1900,Monsoon (JJAS),0.62983,-0.11715,-0.4266,0,No drought,0
+Odisha,1903-10-01,1903,10,1900,Post-monsoon (OND),1.5275,1.1131,0.68936,0,No drought,0
+Odisha,1903-11-01,1903,11,1900,Post-monsoon (OND),0.8645,1.0665,0.89683,0,No drought,0
+Odisha,1903-12-01,1903,12,1900,Post-monsoon (OND),0.77474,1.5479,0.81193,0,No drought,0
+Odisha,1904-01-01,1904,1,1900,Winter (JF),-0.47657,1.6231,0.6841,0,No drought,0
+Odisha,1904-02-01,1904,2,1900,Winter (JF),0.10685,0.40212,0.65126,0,No drought,0
+Odisha,1904-03-01,1904,3,1900,Pre-monsoon (MAM),0.5871,0.21873,0.72407,0,No drought,0
+Odisha,1904-04-01,1904,4,1900,Pre-monsoon (MAM),-0.97873,-0.64349,0.60178,0,No drought,0
+Odisha,1904-05-01,1904,5,1900,Pre-monsoon (MAM),0.80209,0.1703,0.69097,0,No drought,0
+Odisha,1904-06-01,1904,6,1900,Monsoon (JJAS),1.4582,1.2171,1.6258,0,No drought,0
+Odisha,1904-07-01,1904,7,1900,Monsoon (JJAS),-0.062636,0.90849,1.3303,0,No drought,0
+Odisha,1904-08-01,1904,8,1900,Monsoon (JJAS),-0.014042,0.89849,1.3504,0,No drought,0
+Odisha,1904-09-01,1904,9,1900,Monsoon (JJAS),-0.57504,0.45244,1.1433,0,No drought,0
+Odisha,1904-10-01,1904,10,1900,Post-monsoon (OND),-0.17607,-0.56225,0.33323,0,No drought,0
+Odisha,1904-11-01,1904,11,1900,Post-monsoon (OND),-0.51512,-0.75386,0.058408,0,No drought,0
+Odisha,1904-12-01,1904,12,1900,Post-monsoon (OND),-0.27771,-0.88654,-0.05831,0,No drought,0
+Odisha,1905-01-01,1905,1,1900,Winter (JF),0.78172,-0.33852,0.080754,0,No drought,0
+Odisha,1905-02-01,1905,2,1900,Winter (JF),0.44693,-0.061595,0.13207,0,No drought,0
+Odisha,1905-03-01,1905,3,1900,Pre-monsoon (MAM),1.7343,1.3247,0.43323,0,No drought,0
+Odisha,1905-04-01,1905,4,1900,Pre-monsoon (MAM),0.87775,1.6104,0.67251,0,No drought,0
+Odisha,1905-05-01,1905,5,1900,Pre-monsoon (MAM),0.82818,1.4729,0.6609,0,No drought,0
+Odisha,1905-06-01,1905,6,1900,Monsoon (JJAS),-1.9484,-0.20478,-0.75333,1,Severe,0
+Odisha,1905-07-01,1905,7,1900,Monsoon (JJAS),-0.06298,-0.79419,-0.72611,0,No drought,0
+Odisha,1905-08-01,1905,8,1900,Monsoon (JJAS),-0.76759,-1.3078,-0.91707,0,No drought,0
+Odisha,1905-09-01,1905,9,1900,Monsoon (JJAS),1.3642,-0.76115,-0.18812,0,No drought,0
+Odisha,1905-10-01,1905,10,1900,Post-monsoon (OND),-1.0539,-0.33772,-0.49912,1,Moderate,0
+Odisha,1905-11-01,1905,11,1900,Post-monsoon (OND),-0.75649,-0.48441,-0.53165,0,No drought,0
+Odisha,1905-12-01,1905,12,1900,Post-monsoon (OND),-0.10578,0.034598,-0.52604,0,No drought,0
+Odisha,1906-01-01,1906,1,1900,Winter (JF),0.93311,-1.0906,-0.47968,0,No drought,0
+Odisha,1906-02-01,1906,2,1900,Winter (JF),1.6438,0.90584,-0.086279,0,No drought,0
+Odisha,1906-03-01,1906,3,1900,Pre-monsoon (MAM),1.0424,1.5151,-0.29407,0,No drought,0
+Odisha,1906-04-01,1906,4,1900,Pre-monsoon (MAM),-1.0129,1.2101,-0.57093,1,Moderate,0
+Odisha,1906-05-01,1906,5,1900,Pre-monsoon (MAM),-0.6376,0.69188,-0.87248,0,No drought,0
+Odisha,1906-06-01,1906,6,1900,Monsoon (JJAS),0.18359,-0.17005,-0.14766,0,No drought,0
+Odisha,1906-07-01,1906,7,1900,Monsoon (JJAS),0.21083,-0.32305,-0.062904,0,No drought,0
+Odisha,1906-08-01,1906,8,1900,Monsoon (JJAS),-1.0935,-0.7385,-0.17187,1,Moderate,0
+Odisha,1906-09-01,1906,9,1900,Monsoon (JJAS),0.26212,-0.49413,-0.71243,0,No drought,0
+Odisha,1906-10-01,1906,10,1900,Post-monsoon (OND),-0.2687,-0.69771,-0.42599,0,No drought,0
+Odisha,1906-11-01,1906,11,1900,Post-monsoon (OND),0.065614,-0.94253,-0.37488,0,No drought,0
+Odisha,1906-12-01,1906,12,1900,Post-monsoon (OND),1.272,0.033711,-0.15459,0,No drought,0
+Odisha,1907-01-01,1907,1,1900,Winter (JF),-0.035869,-0.13973,-0.27192,0,No drought,0
+Odisha,1907-02-01,1907,2,1900,Winter (JF),0.38652,0.40264,-0.70637,0,No drought,0
+Odisha,1907-03-01,1907,3,1900,Pre-monsoon (MAM),1.4186,1.2424,-0.60808,0,No drought,0
+Odisha,1907-04-01,1907,4,1900,Pre-monsoon (MAM),1.8106,1.6057,-0.12369,0,No drought,0
+Odisha,1907-05-01,1907,5,1900,Pre-monsoon (MAM),-0.80932,1.1283,-0.17878,0,No drought,0
+Odisha,1907-06-01,1907,6,1900,Monsoon (JJAS),0.40596,0.97657,-0.046415,0,No drought,0
+Odisha,1907-07-01,1907,7,1900,Monsoon (JJAS),-1.7621,-0.54704,-0.78867,1,Severe,0
+Odisha,1907-08-01,1907,8,1900,Monsoon (JJAS),1.7948,0.30343,0.63117,0,No drought,0
+Odisha,1907-09-01,1907,9,1900,Monsoon (JJAS),-0.46362,0.21468,0.45001,0,No drought,0
+Odisha,1907-10-01,1907,10,1900,Post-monsoon (OND),-1.5763,-0.57284,0.067226,1,Severe,0
+Odisha,1907-11-01,1907,11,1900,Post-monsoon (OND),-0.38233,0.21353,0.040634,0,No drought,0
+Odisha,1907-12-01,1907,12,1900,Post-monsoon (OND),1.7708,-0.91481,0.068084,0,No drought,0
+Odisha,1908-01-01,1908,1,1900,Winter (JF),1.1092,-0.63043,0.25846,0,No drought,0
+Odisha,1908-02-01,1908,2,1900,Winter (JF),-0.65073,0.56527,0.1499,0,No drought,0
+Odisha,1908-03-01,1908,3,1900,Pre-monsoon (MAM),-0.42785,0.64826,-0.13209,0,No drought,0
+Odisha,1908-04-01,1908,4,1900,Pre-monsoon (MAM),-1.3861,-0.82296,-0.65266,1,Moderate,0
+Odisha,1908-05-01,1908,5,1900,Pre-monsoon (MAM),-0.27867,-1.4543,-0.60533,0,No drought,0
+Odisha,1908-06-01,1908,6,1900,Monsoon (JJAS),0.45396,-0.29718,-0.53969,0,No drought,0
+Odisha,1908-07-01,1908,7,1900,Monsoon (JJAS),0.22666,0.0069659,0.19227,0,No drought,0
+Odisha,1908-08-01,1908,8,1900,Monsoon (JJAS),2.0666,1.4018,0.27956,0,No drought,0
+Odisha,1908-09-01,1908,9,1900,Monsoon (JJAS),-0.2646,1.4044,0.36281,0,No drought,0
+Odisha,1908-10-01,1908,10,1900,Post-monsoon (OND),-1.0691,0.61611,0.42735,1,Moderate,0
+Odisha,1908-11-01,1908,11,1900,Post-monsoon (OND),-0.80343,0.39149,0.37435,0,No drought,0
+Odisha,1908-12-01,1908,12,1900,Post-monsoon (OND),-0.87621,-1.277,0.12684,0,No drought,0
+Odisha,1909-01-01,1909,1,1900,Winter (JF),0.17857,-1.4154,-0.021592,0,No drought,0
+Odisha,1909-02-01,1909,2,1900,Winter (JF),-0.2093,-0.97947,0.019269,0,No drought,0
+Odisha,1909-03-01,1909,3,1900,Pre-monsoon (MAM),-1.3854,-1.0833,-0.039506,1,Moderate,0
+Odisha,1909-04-01,1909,4,1900,Pre-monsoon (MAM),2.6803,1.4336,0.78777,0,No drought,0
+Odisha,1909-05-01,1909,5,1900,Pre-monsoon (MAM),-0.5008,1.0356,0.7753,0,No drought,0
+Odisha,1909-06-01,1909,6,1900,Monsoon (JJAS),0.94542,1.3662,0.96411,0,No drought,0
+Odisha,1909-07-01,1909,7,1900,Monsoon (JJAS),1.1667,1.9023,1.2891,0,No drought,0
+Odisha,1909-08-01,1909,8,1900,Monsoon (JJAS),-1.5976,0.18661,-0.20756,1,Severe,0
+Odisha,1909-09-01,1909,9,1900,Monsoon (JJAS),0.023204,0.27185,-0.12273,0,No drought,0
+Odisha,1909-10-01,1909,10,1900,Post-monsoon (OND),-1.2668,-0.80164,-0.13058,1,Moderate,0
+Odisha,1909-11-01,1909,11,1900,Post-monsoon (OND),-0.37619,-1.8023,-0.12035,0,No drought,0
+Odisha,1909-12-01,1909,12,1900,Post-monsoon (OND),2.0585,-0.14975,0.46176,0,No drought,0
+Odisha,1910-01-01,1910,1,1910,Winter (JF),0.072044,-0.39443,0.47047,0,No drought,0
+Odisha,1910-02-01,1910,2,1910,Winter (JF),-0.47701,0.56843,0.43658,0,No drought,0
+Odisha,1910-03-01,1910,3,1910,Pre-monsoon (MAM),-0.15612,0.76351,0.50436,0,No drought,0
+Odisha,1910-04-01,1910,4,1910,Pre-monsoon (MAM),0.81348,-0.11746,-0.072296,0,No drought,0
+Odisha,1910-05-01,1910,5,1910,Pre-monsoon (MAM),-0.4545,-0.42056,-0.095082,0,No drought,0
+Odisha,1910-06-01,1910,6,1910,Monsoon (JJAS),0.66007,0.31251,-0.30685,0,No drought,0
+Odisha,1910-07-01,1910,7,1910,Monsoon (JJAS),0.45632,0.52723,-0.68878,0,No drought,0
+Odisha,1910-08-01,1910,8,1910,Monsoon (JJAS),0.3558,0.46021,0.090971,0,No drought,0
+Odisha,1910-09-01,1910,9,1910,Monsoon (JJAS),0.1696,0.59926,0.09974,0,No drought,0
+Odisha,1910-10-01,1910,10,1910,Post-monsoon (OND),1.3534,0.97922,0.99694,0,No drought,0
+Odisha,1910-11-01,1910,11,1910,Post-monsoon (OND),-0.30692,0.82275,1.0395,0,No drought,0
+Odisha,1910-12-01,1910,12,1910,Post-monsoon (OND),-0.46652,0.76055,0.62021,0,No drought,0
+Odisha,1911-01-01,1911,1,1910,Winter (JF),-0.254,0.88283,0.5981,0,No drought,0
+Odisha,1911-02-01,1911,2,1910,Winter (JF),-0.78617,-1.1288,0.58366,0,No drought,0
+Odisha,1911-03-01,1911,3,1910,Pre-monsoon (MAM),0.1508,-0.72828,0.64025,0,No drought,0
+Odisha,1911-04-01,1911,4,1910,Pre-monsoon (MAM),-0.50583,-0.8833,0.4813,0,No drought,0
+Odisha,1911-05-01,1911,5,1910,Pre-monsoon (MAM),-0.41443,-0.94304,0.49148,0,No drought,0
+Odisha,1911-06-01,1911,6,1910,Monsoon (JJAS),1.6438,1.077,1.0277,0,No drought,0
+Odisha,1911-07-01,1911,7,1910,Monsoon (JJAS),-2.5346,-0.49507,0.082158,1,Extreme,0
+Odisha,1911-08-01,1911,8,1910,Monsoon (JJAS),0.43012,-0.09917,0.17864,0,No drought,0
+Odisha,1911-09-01,1911,9,1910,Monsoon (JJAS),0.49034,0.28471,0.35973,0,No drought,0
+Odisha,1911-10-01,1911,10,1910,Post-monsoon (OND),-0.062729,-0.85069,-0.41684,0,No drought,0
+Odisha,1911-11-01,1911,11,1910,Post-monsoon (OND),0.040778,0.26809,-0.4186,0,No drought,0
+Odisha,1911-12-01,1911,12,1910,Post-monsoon (OND),0.25092,0.0013055,-0.31694,0,No drought,0
+Odisha,1912-01-01,1912,1,1910,Winter (JF),-0.83468,-0.3601,-0.32361,0,No drought,0
+Odisha,1912-02-01,1912,2,1910,Winter (JF),1.5823,0.67584,0.066725,0,No drought,0
+Odisha,1912-03-01,1912,3,1910,Pre-monsoon (MAM),-0.77758,0.60422,-0.011399,0,No drought,0
+Odisha,1912-04-01,1912,4,1910,Pre-monsoon (MAM),0.80425,0.75337,0.16691,0,No drought,0
+Odisha,1912-05-01,1912,5,1910,Pre-monsoon (MAM),-0.96791,0.39423,0.085227,0,No drought,0
+Odisha,1912-06-01,1912,6,1910,Monsoon (JJAS),-1.5466,-1.501,-1.3045,1,Severe,0
+Odisha,1912-07-01,1912,7,1910,Monsoon (JJAS),0.59584,-0.68467,-0.14973,0,No drought,0
+Odisha,1912-08-01,1912,8,1910,Monsoon (JJAS),0.83742,-0.33126,-0.11103,0,No drought,0
+Odisha,1912-09-01,1912,9,1910,Monsoon (JJAS),-0.15766,-0.20757,-0.35909,0,No drought,0
+Odisha,1912-10-01,1912,10,1910,Post-monsoon (OND),-0.73553,0.12252,-0.46769,0,No drought,0
+Odisha,1912-11-01,1912,11,1910,Post-monsoon (OND),0.86363,0.024177,-0.30724,0,No drought,0
+Odisha,1912-12-01,1912,12,1910,Post-monsoon (OND),-0.12007,-0.49338,-0.37927,0,No drought,0
+Odisha,1913-01-01,1913,1,1910,Winter (JF),-0.20475,-0.57929,-0.33679,0,No drought,0
+Odisha,1913-02-01,1913,2,1910,Winter (JF),1.4962,0.98106,-0.3949,0,No drought,0
+Odisha,1913-03-01,1913,3,1910,Pre-monsoon (MAM),0.34506,0.7409,-0.30966,0,No drought,0
+Odisha,1913-04-01,1913,4,1910,Pre-monsoon (MAM),-0.67232,0.39642,-0.55225,0,No drought,0
+Odisha,1913-05-01,1913,5,1910,Pre-monsoon (MAM),0.58655,0.74491,-0.30948,0,No drought,0
+Odisha,1913-06-01,1913,6,1910,Monsoon (JJAS),0.55626,0.36153,0.49767,0,No drought,0
+Odisha,1913-07-01,1913,7,1910,Monsoon (JJAS),0.98511,0.82034,0.67751,0,No drought,0
+Odisha,1913-08-01,1913,8,1910,Monsoon (JJAS),-0.12314,0.76809,0.29305,0,No drought,0
+Odisha,1913-09-01,1913,9,1910,Monsoon (JJAS),-1.4709,-0.0044649,-0.14311,1,Moderate,0
+Odisha,1913-10-01,1913,10,1910,Post-monsoon (OND),0.64475,0.046754,0.35445,0,No drought,0
+Odisha,1913-11-01,1913,11,1910,Post-monsoon (OND),0.53422,-0.46024,0.26883,0,No drought,0
+Odisha,1913-12-01,1913,12,1910,Post-monsoon (OND),0.43297,-0.44758,0.28709,0,No drought,0
+Odisha,1914-01-01,1914,1,1910,Winter (JF),0.020561,0.42979,0.30508,0,No drought,0
+Odisha,1914-02-01,1914,2,1910,Winter (JF),0.31885,0.075514,0.075875,0,No drought,0
+Odisha,1914-03-01,1914,3,1910,Pre-monsoon (MAM),-0.10273,-0.18774,0.03812,0,No drought,0
+Odisha,1914-04-01,1914,4,1910,Pre-monsoon (MAM),1.1552,0.43632,0.33392,0,No drought,0
+Odisha,1914-05-01,1914,5,1910,Pre-monsoon (MAM),2.0166,1.739,0.89056,0,No drought,0
+Odisha,1914-06-01,1914,6,1910,Monsoon (JJAS),0.39406,1.3579,0.8235,0,No drought,0
+Odisha,1914-07-01,1914,7,1910,Monsoon (JJAS),0.68311,1.7445,0.78361,0,No drought,0
+Odisha,1914-08-01,1914,8,1910,Monsoon (JJAS),-0.44258,1.1479,0.60869,0,No drought,0
+Odisha,1914-09-01,1914,9,1910,Monsoon (JJAS),1.0707,0.8615,1.4501,0,No drought,0
+Odisha,1914-10-01,1914,10,1910,Post-monsoon (OND),-1.5512,-0.024728,0.75513,1,Severe,0
+Odisha,1914-11-01,1914,11,1910,Post-monsoon (OND),-0.69037,-0.61731,0.62018,0,No drought,0
+Odisha,1914-12-01,1914,12,1910,Post-monsoon (OND),0.27457,-0.43469,0.62943,0,No drought,0
+Odisha,1915-01-01,1915,1,1910,Winter (JF),0.46766,-1.5424,0.67922,0,No drought,0
+Odisha,1915-02-01,1915,2,1910,Winter (JF),0.36022,-0.3251,0.68741,0,No drought,0
+Odisha,1915-03-01,1915,3,1910,Pre-monsoon (MAM),0.49298,0.37542,0.77128,0,No drought,0
+Odisha,1915-04-01,1915,4,1910,Pre-monsoon (MAM),0.24876,0.36218,0.6168,0,No drought,0
+Odisha,1915-05-01,1915,5,1910,Pre-monsoon (MAM),0.8143,0.60819,0.04507,0,No drought,0
+Odisha,1915-06-01,1915,6,1910,Monsoon (JJAS),-0.63132,-0.19013,-0.35608,0,No drought,0
+Odisha,1915-07-01,1915,7,1910,Monsoon (JJAS),-1.3712,-1.1335,-1.2317,1,Moderate,0
+Odisha,1915-08-01,1915,8,1910,Monsoon (JJAS),-0.6375,-1.3191,-1.1694,0,No drought,0
+Odisha,1915-09-01,1915,9,1910,Monsoon (JJAS),0.68668,-1.1954,-1.5859,0,No drought,0
+Odisha,1915-10-01,1915,10,1910,Post-monsoon (OND),0.62825,-0.50401,-0.69267,0,No drought,0
+Odisha,1915-11-01,1915,11,1910,Post-monsoon (OND),1.7101,0.83445,-0.072508,0,No drought,0
+Odisha,1915-12-01,1915,12,1910,Post-monsoon (OND),0.25696,1.1919,-0.083539,0,No drought,0
+Odisha,1916-01-01,1916,1,1910,Winter (JF),-0.50244,1.0085,-0.13247,0,No drought,0
+Odisha,1916-02-01,1916,2,1910,Winter (JF),-0.063658,1.0357,-0.19387,0,No drought,0
+Odisha,1916-03-01,1916,3,1910,Pre-monsoon (MAM),-1.0489,-1.0462,-0.35719,1,Moderate,0
+Odisha,1916-04-01,1916,4,1910,Pre-monsoon (MAM),-0.075742,-0.99731,-0.4013,0,No drought,0
+Odisha,1916-05-01,1916,5,1910,Pre-monsoon (MAM),-0.35025,-0.96375,-0.66052,0,No drought,0
+Odisha,1916-06-01,1916,6,1910,Monsoon (JJAS),1.4408,0.78294,0.37179,0,No drought,0
+Odisha,1916-07-01,1916,7,1910,Monsoon (JJAS),-1.4608,0.011188,0.34186,1,Moderate,0
+Odisha,1916-08-01,1916,8,1910,Monsoon (JJAS),-0.10187,-0.084123,0.48566,0,No drought,0
+Odisha,1916-09-01,1916,9,1910,Monsoon (JJAS),-0.76876,-0.37211,0.032181,0,No drought,0
+Odisha,1916-10-01,1916,10,1910,Post-monsoon (OND),1.2696,-0.39898,0.39622,0,No drought,0
+Odisha,1916-11-01,1916,11,1910,Post-monsoon (OND),1.3389,0.6402,0.14328,0,No drought,0
+Odisha,1916-12-01,1916,12,1910,Post-monsoon (OND),-0.039835,0.70883,0.13515,0,No drought,0
+Odisha,1917-01-01,1917,1,1910,Winter (JF),-0.30702,1.2662,0.15822,0,No drought,0
+Odisha,1917-02-01,1917,2,1910,Winter (JF),1.4676,1.2749,0.5006,0,No drought,0
+Odisha,1917-03-01,1917,3,1910,Pre-monsoon (MAM),-0.1208,0.64185,0.56993,0,No drought,0
+Odisha,1917-04-01,1917,4,1910,Pre-monsoon (MAM),-0.61017,0.40812,0.52831,0,No drought,0
+Odisha,1917-05-01,1917,5,1910,Pre-monsoon (MAM),0.65034,0.78886,0.75343,0,No drought,0
+Odisha,1917-06-01,1917,6,1910,Monsoon (JJAS),1.4737,1.1689,0.70678,0,No drought,0
+Odisha,1917-07-01,1917,7,1910,Monsoon (JJAS),-0.37137,0.81301,1.1101,0,No drought,0
+Odisha,1917-08-01,1917,8,1910,Monsoon (JJAS),-0.25786,0.61689,0.93042,0,No drought,0
+Odisha,1917-09-01,1917,9,1910,Monsoon (JJAS),0.61548,0.74347,1.4371,0,No drought,0
+Odisha,1917-10-01,1917,10,1910,Post-monsoon (OND),2.2686,1.6016,2.0356,0,No drought,0
+Odisha,1917-11-01,1917,11,1910,Post-monsoon (OND),0.039976,1.8586,1.9193,0,No drought,0
+Odisha,1917-12-01,1917,12,1910,Post-monsoon (OND),0.035756,1.9989,1.9266,0,No drought,0
+Odisha,1918-01-01,1918,1,1910,Winter (JF),-0.026327,2.1291,1.9596,0,No drought,0
+Odisha,1918-02-01,1918,2,1910,Winter (JF),-1.2099,-0.77459,1.6488,1,Moderate,0
+Odisha,1918-03-01,1918,3,1910,Pre-monsoon (MAM),0.44899,-0.45822,1.6763,0,No drought,0
+Odisha,1918-04-01,1918,4,1910,Pre-monsoon (MAM),-0.47976,-0.58785,1.705,0,No drought,0
+Odisha,1918-05-01,1918,5,1910,Pre-monsoon (MAM),1.4135,0.54776,1.9483,0,No drought,0
+Odisha,1918-06-01,1918,6,1910,Monsoon (JJAS),1.5437,1.7458,2.0596,0,No drought,0
+Odisha,1918-07-01,1918,7,1910,Monsoon (JJAS),-1.5333,0.84685,1.6926,1,Severe,0
+Odisha,1918-08-01,1918,8,1910,Monsoon (JJAS),-0.12703,0.68024,1.5726,0,No drought,0
+Odisha,1918-09-01,1918,9,1910,Monsoon (JJAS),-0.74184,-0.16433,1.3637,0,No drought,0
+Odisha,1918-10-01,1918,10,1910,Post-monsoon (OND),-1.5675,-1.9296,-0.51099,1,Severe,0
+Odisha,1918-11-01,1918,11,1910,Post-monsoon (OND),-0.27033,-1.4534,-0.58336,0,No drought,0
+Odisha,1918-12-01,1918,12,1910,Post-monsoon (OND),0.29524,-1.5649,-0.56215,0,No drought,0
+Odisha,1919-01-01,1919,1,1910,Winter (JF),1.9268,-0.58829,-0.23478,0,No drought,0
+Odisha,1919-02-01,1919,2,1910,Winter (JF),1.3766,1.4499,0.18179,0,No drought,0
+Odisha,1919-03-01,1919,3,1910,Pre-monsoon (MAM),0.13906,1.6252,0.1425,0,No drought,0
+Odisha,1919-04-01,1919,4,1910,Pre-monsoon (MAM),-0.42934,1.4602,0.095354,0,No drought,0
+Odisha,1919-05-01,1919,5,1910,Pre-monsoon (MAM),-0.1194,0.44045,-0.38458,0,No drought,0
+Odisha,1919-06-01,1919,6,1910,Monsoon (JJAS),1.1358,0.59156,-0.69824,0,No drought,0
+Odisha,1919-07-01,1919,7,1910,Monsoon (JJAS),-0.34305,0.2526,-0.28666,0,No drought,0
+Odisha,1919-08-01,1919,8,1910,Monsoon (JJAS),0.91036,0.81849,0.16786,0,No drought,0
+Odisha,1919-09-01,1919,9,1910,Monsoon (JJAS),-1.6162,0.23694,-0.065132,1,Severe,0
+Odisha,1919-10-01,1919,10,1910,Post-monsoon (OND),0.27873,-0.39574,0.4795,0,No drought,0
+Odisha,1919-11-01,1919,11,1910,Post-monsoon (OND),1.5004,0.60427,1.1797,0,No drought,0
+Odisha,1919-12-01,1919,12,1910,Post-monsoon (OND),0.29034,0.026038,1.183,0,No drought,0
+Odisha,1920-01-01,1920,1,1920,Winter (JF),-0.51242,0.74629,0.85886,0,No drought,0
+Odisha,1920-02-01,1920,2,1920,Winter (JF),-0.077938,0.83392,0.55953,0,No drought,0
+Odisha,1920-03-01,1920,3,1920,Pre-monsoon (MAM),1.0931,0.38104,0.73698,0,No drought,0
+Odisha,1920-04-01,1920,4,1920,Pre-monsoon (MAM),-0.10645,0.22608,0.75564,0,No drought,0
+Odisha,1920-05-01,1920,5,1920,Pre-monsoon (MAM),-0.12357,0.19543,0.76392,0,No drought,0
+Odisha,1920-06-01,1920,6,1920,Monsoon (JJAS),-0.043428,0.074892,0.078484,0,No drought,0
+Odisha,1920-07-01,1920,7,1920,Monsoon (JJAS),0.8507,0.56544,0.79915,0,No drought,0
+Odisha,1920-08-01,1920,8,1920,Monsoon (JJAS),-0.42331,0.40077,0.3262,0,No drought,0
+Odisha,1920-09-01,1920,9,1920,Monsoon (JJAS),-1.072,0.00039874,0.44586,1,Moderate,0
+Odisha,1920-10-01,1920,10,1920,Post-monsoon (OND),-1.0033,-0.45301,0.099742,1,Moderate,0
+Odisha,1920-11-01,1920,11,1920,Post-monsoon (OND),-0.59987,-1.5661,-0.59652,0,No drought,0
+Odisha,1920-12-01,1920,12,1920,Post-monsoon (OND),-0.13619,-1.5663,-0.61301,0,No drought,0
+Odisha,1921-01-01,1921,1,1920,Winter (JF),1.5746,-0.70808,-0.32954,0,No drought,0
+Odisha,1921-02-01,1921,2,1920,Winter (JF),-0.73032,-0.070745,-0.39083,0,No drought,0
+Odisha,1921-03-01,1921,3,1920,Pre-monsoon (MAM),-0.49224,0.086346,-0.62964,0,No drought,0
+Odisha,1921-04-01,1921,4,1920,Pre-monsoon (MAM),-0.44554,-0.06542,-0.62936,0,No drought,0
+Odisha,1921-05-01,1921,5,1920,Pre-monsoon (MAM),-1.5439,-1.7848,-0.85354,1,Severe,0
+Odisha,1921-06-01,1921,6,1920,Monsoon (JJAS),0.3936,-0.50867,-0.75111,0,No drought,0
+Odisha,1921-07-01,1921,7,1920,Monsoon (JJAS),-0.28768,-0.58164,-1.6392,0,No drought,0
+Odisha,1921-08-01,1921,8,1920,Monsoon (JJAS),-0.62499,-0.80292,-1.5504,0,No drought,0
+Odisha,1921-09-01,1921,9,1920,Monsoon (JJAS),1.3532,0.35793,-0.67057,0,No drought,0
+Odisha,1921-10-01,1921,10,1920,Post-monsoon (OND),-0.66078,-0.20935,-0.55213,0,No drought,0
+Odisha,1921-11-01,1921,11,1920,Post-monsoon (OND),-0.67147,-0.15139,-0.56606,0,No drought,0
+Odisha,1921-12-01,1921,12,1920,Post-monsoon (OND),-0.32642,0.16616,-0.5692,0,No drought,0
+Odisha,1922-01-01,1922,1,1920,Winter (JF),1.0093,-0.78852,-0.71633,0,No drought,0
+Odisha,1922-02-01,1922,2,1920,Winter (JF),-0.59705,-0.61551,-0.71393,0,No drought,0
+Odisha,1922-03-01,1922,3,1920,Pre-monsoon (MAM),-0.44703,-0.44384,-0.70413,0,No drought,0
+Odisha,1922-04-01,1922,4,1920,Pre-monsoon (MAM),-0.67754,-0.75394,-0.77895,0,No drought,0
+Odisha,1922-05-01,1922,5,1920,Pre-monsoon (MAM),-0.45093,-1.3271,-0.66863,0,No drought,0
+Odisha,1922-06-01,1922,6,1920,Monsoon (JJAS),0.70336,-0.095552,-0.53945,0,No drought,0
+Odisha,1922-07-01,1922,7,1920,Monsoon (JJAS),0.98639,0.62532,0.03882,0,No drought,0
+Odisha,1922-08-01,1922,8,1920,Monsoon (JJAS),-0.87366,0.21358,-0.051123,0,No drought,0
+Odisha,1922-09-01,1922,9,1920,Monsoon (JJAS),1.1327,0.88876,-0.22415,0,No drought,0
+Odisha,1922-10-01,1922,10,1920,Post-monsoon (OND),-0.69994,0.10499,-0.26857,0,No drought,0
+Odisha,1922-11-01,1922,11,1920,Post-monsoon (OND),0.68542,-0.32187,-0.1102,0,No drought,0
+Odisha,1922-12-01,1922,12,1920,Post-monsoon (OND),0.062328,0.22433,-0.099493,0,No drought,0
+Odisha,1923-01-01,1923,1,1920,Winter (JF),-0.63594,-0.7718,-0.22076,0,No drought,0
+Odisha,1923-02-01,1923,2,1920,Winter (JF),1.4152,0.80385,0.13636,0,No drought,0
+Odisha,1923-03-01,1923,3,1920,Pre-monsoon (MAM),-0.63724,0.36757,0.13697,0,No drought,0
+Odisha,1923-04-01,1923,4,1920,Pre-monsoon (MAM),-0.71176,0.033698,0.15117,0,No drought,0
+Odisha,1923-05-01,1923,5,1920,Pre-monsoon (MAM),-0.91879,-0.33166,0.092953,0,No drought,0
+Odisha,1923-06-01,1923,6,1920,Monsoon (JJAS),-1.4363,-1.928,-0.70356,1,Moderate,0
+Odisha,1923-07-01,1923,7,1920,Monsoon (JJAS),-0.4868,-1.7547,-1.357,0,No drought,0
+Odisha,1923-08-01,1923,8,1920,Monsoon (JJAS),-0.26927,-1.4397,-0.90168,0,No drought,0
+Odisha,1923-09-01,1923,9,1920,Monsoon (JJAS),-0.18737,-1.2762,-1.5466,0,No drought,0
+Odisha,1923-10-01,1923,10,1920,Post-monsoon (OND),0.23666,-0.38441,-1.0427,0,No drought,0
+Odisha,1923-11-01,1923,11,1920,Post-monsoon (OND),1.2794,0.31089,-0.76762,0,No drought,0
+Odisha,1923-12-01,1923,12,1920,Post-monsoon (OND),0.23341,0.15887,-0.75848,0,No drought,0
+Odisha,1924-01-01,1924,1,1920,Winter (JF),1.0137,0.70379,-0.58656,0,No drought,0
+Odisha,1924-02-01,1924,2,1920,Winter (JF),0.014325,1.0298,-0.89145,0,No drought,0
+Odisha,1924-03-01,1924,3,1920,Pre-monsoon (MAM),-1.2525,-0.28787,-0.92902,1,Moderate,0
+Odisha,1924-04-01,1924,4,1920,Pre-monsoon (MAM),-1.2196,-0.87044,-0.9909,1,Moderate,0
+Odisha,1924-05-01,1924,5,1920,Pre-monsoon (MAM),0.64353,-0.60916,-0.74414,0,No drought,0
+Odisha,1924-06-01,1924,6,1920,Monsoon (JJAS),-1.5786,-1.5232,-0.79538,1,Severe,0
+Odisha,1924-07-01,1924,7,1920,Monsoon (JJAS),-1.5829,-2.0733,-1.1884,1,Severe,0
+Odisha,1924-08-01,1924,8,1920,Monsoon (JJAS),-0.38055,-1.7432,-1.2358,0,No drought,0
+Odisha,1924-09-01,1924,9,1920,Monsoon (JJAS),0.42142,-1.7913,-1.1471,0,No drought,0
+Odisha,1924-10-01,1924,10,1920,Post-monsoon (OND),0.26597,-0.91876,-1.1329,0,No drought,0
+Odisha,1924-11-01,1924,11,1920,Post-monsoon (OND),2.2246,0.8565,-0.7146,0,No drought,0
+Odisha,1924-12-01,1924,12,1920,Post-monsoon (OND),-0.49528,1.1308,-0.73374,0,No drought,0
+Odisha,1925-01-01,1925,1,1920,Winter (JF),-0.23303,1.1966,-0.85079,0,No drought,0
+Odisha,1925-02-01,1925,2,1920,Winter (JF),-0.17714,1.5819,-0.87163,0,No drought,0
+Odisha,1925-03-01,1925,3,1920,Pre-monsoon (MAM),-0.45291,-0.89605,-0.81176,0,No drought,0
+Odisha,1925-04-01,1925,4,1920,Pre-monsoon (MAM),1.1107,-0.068573,-0.54981,0,No drought,0
+Odisha,1925-05-01,1925,5,1920,Pre-monsoon (MAM),1.3081,0.93246,-0.36862,0,No drought,0
+Odisha,1925-06-01,1925,6,1920,Monsoon (JJAS),1.6299,1.7562,0.97604,0,No drought,0
+Odisha,1925-07-01,1925,7,1920,Monsoon (JJAS),1.277,2.2102,1.9116,0,No drought,0
+Odisha,1925-08-01,1925,8,1920,Monsoon (JJAS),1.1053,2.3556,2.1585,0,No drought,0
+Odisha,1925-09-01,1925,9,1920,Monsoon (JJAS),-0.39272,1.9527,2.1515,0,No drought,0
+Odisha,1925-10-01,1925,10,1920,Post-monsoon (OND),1.1205,1.6909,2.4516,0,No drought,0
+Odisha,1925-11-01,1925,11,1920,Post-monsoon (OND),-0.30426,0.99004,2.0249,0,No drought,0
+Odisha,1925-12-01,1925,12,1920,Post-monsoon (OND),0.68526,0.43393,2.0708,0,No drought,0
+Odisha,1926-01-01,1926,1,1920,Winter (JF),1.3652,1.1893,2.2132,0,No drought,0
+Odisha,1926-02-01,1926,2,1920,Winter (JF),-0.041336,0.30919,2.2463,0,No drought,0
+Odisha,1926-03-01,1926,3,1920,Pre-monsoon (MAM),1.8419,1.6471,2.5017,0,No drought,0
+Odisha,1926-04-01,1926,4,1920,Pre-monsoon (MAM),0.53265,1.6416,2.4573,0,No drought,0
+Odisha,1926-05-01,1926,5,1920,Pre-monsoon (MAM),-0.0042259,0.98966,2.2408,0,No drought,0
+Odisha,1926-06-01,1926,6,1920,Monsoon (JJAS),-1.8162,-0.54351,1.0874,1,Severe,0
+Odisha,1926-07-01,1926,7,1920,Monsoon (JJAS),-0.63871,-1.5974,0.29257,0,No drought,0
+Odisha,1926-08-01,1926,8,1920,Monsoon (JJAS),2.1584,0.095542,0.84974,0,No drought,0
+Odisha,1926-09-01,1926,9,1920,Monsoon (JJAS),1.169,0.68424,1.4456,0,No drought,0
+Odisha,1926-10-01,1926,10,1920,Post-monsoon (OND),-0.060084,1.2245,0.70855,0,No drought,0
+Odisha,1926-11-01,1926,11,1920,Post-monsoon (OND),-0.76582,1.4954,0.67954,0,No drought,0
+Odisha,1926-12-01,1926,12,1920,Post-monsoon (OND),-0.15837,0.31414,0.63938,0,No drought,0
+Odisha,1927-01-01,1927,1,1920,Winter (JF),-0.3023,-0.64762,0.41716,0,No drought,0
+Odisha,1927-02-01,1927,2,1920,Winter (JF),0.6409,-0.48186,0.48933,0,No drought,0
+Odisha,1927-03-01,1927,3,1920,Pre-monsoon (MAM),0.1213,-0.010409,0.11254,0,No drought,0
+Odisha,1927-04-01,1927,4,1920,Pre-monsoon (MAM),-0.39496,-0.23109,-0.010604,0,No drought,0
+Odisha,1927-05-01,1927,5,1920,Pre-monsoon (MAM),-0.44857,-0.35685,-0.064717,0,No drought,0
+Odisha,1927-06-01,1927,6,1920,Monsoon (JJAS),0.20235,-0.20307,0.6956,0,No drought,0
+Odisha,1927-07-01,1927,7,1920,Monsoon (JJAS),0.87349,0.57766,1.3156,0,No drought,0
+Odisha,1927-08-01,1927,8,1920,Monsoon (JJAS),1.0963,1.091,0.71156,0,No drought,0
+Odisha,1927-09-01,1927,9,1920,Monsoon (JJAS),-0.63811,0.94355,0.14637,0,No drought,0
+Odisha,1927-10-01,1927,10,1920,Post-monsoon (OND),-0.25447,0.49791,0.059846,0,No drought,0
+Odisha,1927-11-01,1927,11,1920,Post-monsoon (OND),0.28429,0.057951,0.23707,0,No drought,0
+Odisha,1927-12-01,1927,12,1920,Post-monsoon (OND),-0.27896,-0.66202,0.23568,0,No drought,0
+Odisha,1928-01-01,1928,1,1920,Winter (JF),0.097217,-0.41293,0.26536,0,No drought,0
+Odisha,1928-02-01,1928,2,1920,Winter (JF),-0.10414,-0.24808,0.15475,0,No drought,0
+Odisha,1928-03-01,1928,3,1920,Pre-monsoon (MAM),-0.79664,-0.86227,0.081256,0,No drought,0
+Odisha,1928-04-01,1928,4,1920,Pre-monsoon (MAM),1.1595,0.056209,0.31515,0,No drought,0
+Odisha,1928-05-01,1928,5,1920,Pre-monsoon (MAM),0.029309,0.0040216,0.37129,0,No drought,0
+Odisha,1928-06-01,1928,6,1920,Monsoon (JJAS),0.74111,0.54106,0.55655,0,No drought,0
+Odisha,1928-07-01,1928,7,1920,Monsoon (JJAS),1.4999,1.4694,0.79074,0,No drought,0
+Odisha,1928-08-01,1928,8,1920,Monsoon (JJAS),-1.0428,0.62543,-0.03197,1,Moderate,0
+Odisha,1928-09-01,1928,9,1920,Monsoon (JJAS),-0.40169,0.44568,0.012666,0,No drought,0
+Odisha,1928-10-01,1928,10,1920,Post-monsoon (OND),1.3936,0.7841,0.76712,0,No drought,0
+Odisha,1928-11-01,1928,11,1920,Post-monsoon (OND),-0.56305,-0.19497,0.6097,0,No drought,0
+Odisha,1928-12-01,1928,12,1920,Post-monsoon (OND),-0.31998,0.43566,0.61033,0,No drought,0
+Odisha,1929-01-01,1929,1,1920,Winter (JF),0.74151,1.0164,0.67795,0,No drought,0
+Odisha,1929-02-01,1929,2,1920,Winter (JF),0.16284,-0.29728,0.76273,0,No drought,0
+Odisha,1929-03-01,1929,3,1920,Pre-monsoon (MAM),-0.78763,-0.21814,0.76548,0,No drought,0
+Odisha,1929-04-01,1929,4,1920,Pre-monsoon (MAM),-0.59942,-0.44922,0.54339,0,No drought,0
+Odisha,1929-05-01,1929,5,1920,Pre-monsoon (MAM),-1.2217,-1.347,0.38389,1,Moderate,0
+Odisha,1929-06-01,1929,6,1920,Monsoon (JJAS),-0.14179,-0.94917,-0.079012,0,No drought,0
+Odisha,1929-07-01,1929,7,1920,Monsoon (JJAS),1.6836,0.77831,0.3461,0,No drought,0
+Odisha,1929-08-01,1929,8,1920,Monsoon (JJAS),0.89136,1.1586,0.94497,0,No drought,0
+Odisha,1929-09-01,1929,9,1920,Monsoon (JJAS),-0.51833,1.15,1.0101,0,No drought,0
+Odisha,1929-10-01,1929,10,1920,Post-monsoon (OND),1.1001,1.6535,0.80799,0,No drought,0
+Odisha,1929-11-01,1929,11,1920,Post-monsoon (OND),-0.8269,0.59839,0.79464,0,No drought,0
+Odisha,1929-12-01,1929,12,1920,Post-monsoon (OND),1.0333,0.2729,0.89799,0,No drought,0
+Odisha,1930-01-01,1930,1,1930,Winter (JF),-0.40779,0.69633,0.82095,0,No drought,0
+Odisha,1930-02-01,1930,2,1930,Winter (JF),-0.27969,-0.64796,0.74843,0,No drought,0
+Odisha,1930-03-01,1930,3,1930,Pre-monsoon (MAM),0.1964,-0.073779,0.8047,0,No drought,0
+Odisha,1930-04-01,1930,4,1930,Pre-monsoon (MAM),0.49477,-0.22999,0.90837,0,No drought,0
+Odisha,1930-05-01,1930,5,1930,Pre-monsoon (MAM),-0.44995,-0.41828,1.0057,0,No drought,0
+Odisha,1930-06-01,1930,6,1930,Monsoon (JJAS),-0.010406,-0.27086,1.0428,0,No drought,0
+Odisha,1930-07-01,1930,7,1930,Monsoon (JJAS),0.17916,-0.15437,0.14465,0,No drought,0
+Odisha,1930-08-01,1930,8,1930,Monsoon (JJAS),-0.30804,-0.42269,-0.35678,0,No drought,0
+Odisha,1930-09-01,1930,9,1930,Monsoon (JJAS),0.48535,-0.052747,-0.041228,0,No drought,0
+Odisha,1930-10-01,1930,10,1930,Post-monsoon (OND),-0.75297,-0.4308,-0.77381,0,No drought,0
+Odisha,1930-11-01,1930,11,1930,Post-monsoon (OND),2.3611,0.63695,0.18586,0,No drought,0
+Odisha,1930-12-01,1930,12,1930,Post-monsoon (OND),-0.11768,0.89057,0.08947,0,No drought,0
+Odisha,1931-01-01,1931,1,1930,Winter (JF),-0.24791,0.87923,0.12003,0,No drought,0
+Odisha,1931-02-01,1931,2,1930,Winter (JF),0.57777,2.0709,0.27522,0,No drought,0
+Odisha,1931-03-01,1931,3,1930,Pre-monsoon (MAM),0.35358,0.20857,0.30854,0,No drought,0
+Odisha,1931-04-01,1931,4,1930,Pre-monsoon (MAM),-0.29971,0.032598,0.21517,0,No drought,0
+Odisha,1931-05-01,1931,5,1930,Pre-monsoon (MAM),-0.4012,-0.14622,0.20987,0,No drought,0
+Odisha,1931-06-01,1931,6,1930,Monsoon (JJAS),-1.4244,-1.4454,-0.25041,1,Moderate,0
+Odisha,1931-07-01,1931,7,1930,Monsoon (JJAS),-1.235,-2.1178,-0.78508,1,Moderate,0
+Odisha,1931-08-01,1931,8,1930,Monsoon (JJAS),1.5152,-0.62529,0.16017,0,No drought,0
+Odisha,1931-09-01,1931,9,1930,Monsoon (JJAS),-0.25779,-0.61224,-0.11817,0,No drought,0
+Odisha,1931-10-01,1931,10,1930,Post-monsoon (OND),1.4514,0.99477,0.87427,0,No drought,0
+Odisha,1931-11-01,1931,11,1930,Post-monsoon (OND),1.5388,1.917,0.3747,0,No drought,0
+Odisha,1931-12-01,1931,12,1930,Post-monsoon (OND),0.091736,1.1151,0.38167,0,No drought,0
+Odisha,1932-01-01,1932,1,1930,Winter (JF),-0.38769,1.5389,0.37921,0,No drought,0
+Odisha,1932-02-01,1932,2,1930,Winter (JF),0.79123,1.0384,0.34363,0,No drought,0
+Odisha,1932-03-01,1932,3,1930,Pre-monsoon (MAM),0.19416,0.07334,0.31422,0,No drought,0
+Odisha,1932-04-01,1932,4,1930,Pre-monsoon (MAM),-0.48006,-0.20966,0.30544,0,No drought,0
+Odisha,1932-05-01,1932,5,1930,Pre-monsoon (MAM),0.33049,0.099408,0.43331,0,No drought,0
+Odisha,1932-06-01,1932,6,1930,Monsoon (JJAS),-1.4109,-1.2318,0.45009,1,Moderate,0
+Odisha,1932-07-01,1932,7,1930,Monsoon (JJAS),1.252,-0.057127,1.4076,0,No drought,0
+Odisha,1932-08-01,1932,8,1930,Monsoon (JJAS),-0.7757,-0.40365,0.40651,0,No drought,0
+Odisha,1932-09-01,1932,9,1930,Monsoon (JJAS),0.42461,-0.30543,0.68079,0,No drought,0
+Odisha,1932-10-01,1932,10,1930,Post-monsoon (OND),-0.48393,0.057735,-0.35444,0,No drought,0
+Odisha,1932-11-01,1932,11,1930,Post-monsoon (OND),2.1002,0.2701,0.030373,0,No drought,0
+Odisha,1932-12-01,1932,12,1930,Post-monsoon (OND),0.18463,0.80895,0.14721,0,No drought,0
+Odisha,1933-01-01,1933,1,1930,Winter (JF),0.77771,0.90308,0.24882,0,No drought,0
+Odisha,1933-02-01,1933,2,1930,Winter (JF),1.1397,2.2209,0.41204,0,No drought,0
+Odisha,1933-03-01,1933,3,1930,Pre-monsoon (MAM),-1.0797,0.72685,0.31201,1,Moderate,0
+Odisha,1933-04-01,1933,4,1930,Pre-monsoon (MAM),-0.52978,0.23936,0.29855,0,No drought,0
+Odisha,1933-05-01,1933,5,1930,Pre-monsoon (MAM),1.5873,1.2467,0.71554,0,No drought,0
+Odisha,1933-06-01,1933,6,1930,Monsoon (JJAS),0.88635,1.0224,1.4617,0,No drought,0
+Odisha,1933-07-01,1933,7,1930,Monsoon (JJAS),0.71714,1.388,1.2527,0,No drought,0
+Odisha,1933-08-01,1933,8,1930,Monsoon (JJAS),1.1165,1.7692,1.7128,0,No drought,0
+Odisha,1933-09-01,1933,9,1930,Monsoon (JJAS),1.1118,1.7694,2.0406,0,No drought,0
+Odisha,1933-10-01,1933,10,1930,Post-monsoon (OND),0.34739,1.4103,2.161,0,No drought,0
+Odisha,1933-11-01,1933,11,1930,Post-monsoon (OND),0.046224,1.1454,1.783,0,No drought,0
+Odisha,1933-12-01,1933,12,1930,Post-monsoon (OND),0.87281,0.72213,1.7722,0,No drought,0
+Odisha,1934-01-01,1934,1,1930,Winter (JF),-0.74757,0.047941,1.6907,0,No drought,0
+Odisha,1934-02-01,1934,2,1930,Winter (JF),-0.70992,-0.61232,1.4264,0,No drought,0
+Odisha,1934-03-01,1934,3,1930,Pre-monsoon (MAM),-0.44515,-0.77197,1.4484,0,No drought,0
+Odisha,1934-04-01,1934,4,1930,Pre-monsoon (MAM),-0.58955,-1.3572,1.4438,0,No drought,0
+Odisha,1934-05-01,1934,5,1930,Pre-monsoon (MAM),-1.3804,-1.8253,0.87116,1,Moderate,0
+Odisha,1934-06-01,1934,6,1930,Monsoon (JJAS),0.43912,-0.51346,0.69785,0,No drought,0
+Odisha,1934-07-01,1934,7,1930,Monsoon (JJAS),0.52397,-0.10524,0.62822,0,No drought,0
+Odisha,1934-08-01,1934,8,1930,Monsoon (JJAS),0.88701,0.49348,0.4614,0,No drought,0
+Odisha,1934-09-01,1934,9,1930,Monsoon (JJAS),0.80527,1.1223,0.38858,0,No drought,0
+Odisha,1934-10-01,1934,10,1930,Post-monsoon (OND),0.051791,0.79962,0.084577,0,No drought,0
+Odisha,1934-11-01,1934,11,1930,Post-monsoon (OND),-0.054313,0.65397,0.078233,0,No drought,0
+Odisha,1934-12-01,1934,12,1930,Post-monsoon (OND),0.10246,0.23775,0.013252,0,No drought,0
+Odisha,1935-01-01,1935,1,1930,Winter (JF),-0.5893,-0.35042,0.032362,0,No drought,0
+Odisha,1935-02-01,1935,2,1930,Winter (JF),-0.17802,-0.62344,0.074482,0,No drought,0
+Odisha,1935-03-01,1935,3,1930,Pre-monsoon (MAM),-0.1212,-0.65461,0.11351,0,No drought,0
+Odisha,1935-04-01,1935,4,1930,Pre-monsoon (MAM),0.62772,-0.28988,0.26458,0,No drought,0
+Odisha,1935-05-01,1935,5,1930,Pre-monsoon (MAM),-1.7027,-1.015,0.21113,1,Severe,0
+Odisha,1935-06-01,1935,6,1930,Monsoon (JJAS),-1.0224,-1.4232,-0.31712,1,Moderate,0
+Odisha,1935-07-01,1935,7,1930,Monsoon (JJAS),1.8212,0.36256,0.44549,0,No drought,0
+Odisha,1935-08-01,1935,8,1930,Monsoon (JJAS),-1.9448,-0.76468,-0.57048,1,Severe,0
+Odisha,1935-09-01,1935,9,1930,Monsoon (JJAS),0.20651,-0.31625,-0.92137,0,No drought,0
+Odisha,1935-10-01,1935,10,1930,Post-monsoon (OND),-1.529,-0.43448,-1.3302,1,Severe,0
+Odisha,1935-11-01,1935,11,1930,Post-monsoon (OND),-0.84125,-2.0184,-1.4514,0,No drought,0
+Odisha,1935-12-01,1935,12,1930,Post-monsoon (OND),-0.41784,-1.109,-1.4633,0,No drought,0
+Odisha,1936-01-01,1936,1,1930,Winter (JF),0.32916,-1.6564,-1.3799,0,No drought,0
+Odisha,1936-02-01,1936,2,1930,Winter (JF),0.84037,-0.16732,-1.1804,0,No drought,0
+Odisha,1936-03-01,1936,3,1930,Pre-monsoon (MAM),-0.15942,0.20696,-1.1842,0,No drought,0
+Odisha,1936-04-01,1936,4,1930,Pre-monsoon (MAM),-0.72019,-0.071749,-1.3473,0,No drought,0
+Odisha,1936-05-01,1936,5,1930,Pre-monsoon (MAM),1.7375,1.1314,-0.48632,0,No drought,0
+Odisha,1936-06-01,1936,6,1930,Monsoon (JJAS),2.512,2.393,1.3703,0,No drought,0
+Odisha,1936-07-01,1936,7,1930,Monsoon (JJAS),0.3176,2.4367,0.62501,0,No drought,0
+Odisha,1936-08-01,1936,8,1930,Monsoon (JJAS),0.23414,2.3795,1.1959,0,No drought,0
+Odisha,1936-09-01,1936,9,1930,Monsoon (JJAS),0.1564,1.955,1.3106,0,No drought,0
+Odisha,1936-10-01,1936,10,1930,Post-monsoon (OND),0.80814,0.58115,1.8949,0,No drought,0
+Odisha,1936-11-01,1936,11,1930,Post-monsoon (OND),0.073855,0.50273,2.0232,0,No drought,0
+Odisha,1936-12-01,1936,12,1930,Post-monsoon (OND),0.27195,0.4709,2.055,0,No drought,0
+Odisha,1937-01-01,1937,1,1930,Winter (JF),-0.14348,0.55874,2.0157,0,No drought,0
+Odisha,1937-02-01,1937,2,1930,Winter (JF),2.0152,1.1397,2.255,0,No drought,0
+Odisha,1937-03-01,1937,3,1930,Pre-monsoon (MAM),0.47061,1.3259,2.2814,0,No drought,0
+Odisha,1937-04-01,1937,4,1930,Pre-monsoon (MAM),1.2055,1.6554,2.4605,0,No drought,0
+Odisha,1937-05-01,1937,5,1930,Pre-monsoon (MAM),0.25548,1.5885,2.1478,0,No drought,0
+Odisha,1937-06-01,1937,6,1930,Monsoon (JJAS),0.2641,0.58264,1.0558,0,No drought,0
+Odisha,1937-07-01,1937,7,1930,Monsoon (JJAS),1.1129,1.0399,1.3534,0,No drought,0
+Odisha,1937-08-01,1937,8,1930,Monsoon (JJAS),-0.87692,0.37278,0.98487,0,No drought,0
+Odisha,1937-09-01,1937,9,1930,Monsoon (JJAS),0.59495,0.53102,1.2254,0,No drought,0
+Odisha,1937-10-01,1937,10,1930,Post-monsoon (OND),-0.32881,0.13601,0.67607,0,No drought,0
+Odisha,1937-11-01,1937,11,1930,Post-monsoon (OND),-0.72909,-0.72124,0.58678,0,No drought,0
+Odisha,1937-12-01,1937,12,1930,Post-monsoon (OND),-0.082565,-0.2313,0.56012,0,No drought,0
+Odisha,1938-01-01,1938,1,1930,Winter (JF),0.58119,-0.70953,0.62266,0,No drought,0
+Odisha,1938-02-01,1938,2,1930,Winter (JF),0.039645,-0.5623,0.13289,0,No drought,0
+Odisha,1938-03-01,1938,3,1930,Pre-monsoon (MAM),-0.23471,-0.21125,0.068479,0,No drought,0
+Odisha,1938-04-01,1938,4,1930,Pre-monsoon (MAM),-1.1059,-0.70467,-0.22472,1,Moderate,0
+Odisha,1938-05-01,1938,5,1930,Pre-monsoon (MAM),1.2462,0.33664,0.090849,0,No drought,0
+Odisha,1938-06-01,1938,6,1930,Monsoon (JJAS),0.56919,0.61582,0.16547,0,No drought,0
+Odisha,1938-07-01,1938,7,1930,Monsoon (JJAS),-1.1821,-0.18868,-0.86791,1,Moderate,0
+Odisha,1938-08-01,1938,8,1930,Monsoon (JJAS),-0.29163,-0.17092,-0.55794,0,No drought,0
+Odisha,1938-09-01,1938,9,1930,Monsoon (JJAS),-0.012611,-0.69429,-0.88335,0,No drought,0
+Odisha,1938-10-01,1938,10,1930,Post-monsoon (OND),0.92029,-0.34038,-0.21324,0,No drought,0
+Odisha,1938-11-01,1938,11,1930,Post-monsoon (OND),0.45518,0.38721,-0.0413,0,No drought,0
+Odisha,1938-12-01,1938,12,1930,Post-monsoon (OND),0.21205,0.50584,-0.0296,0,No drought,0
+Odisha,1939-01-01,1939,1,1930,Winter (JF),0.17551,0.69298,-0.05011,0,No drought,0
+Odisha,1939-02-01,1939,2,1930,Winter (JF),0.1469,0.085828,-0.053795,0,No drought,0
+Odisha,1939-03-01,1939,3,1930,Pre-monsoon (MAM),1.1004,0.46545,0.12205,0,No drought,0
+Odisha,1939-04-01,1939,4,1930,Pre-monsoon (MAM),-0.034571,0.32354,0.21235,0,No drought,0
+Odisha,1939-05-01,1939,5,1930,Pre-monsoon (MAM),-1.4269,-0.42387,-0.39141,1,Moderate,0
+Odisha,1939-06-01,1939,6,1930,Monsoon (JJAS),-0.060309,-0.38589,-0.65548,0,No drought,0
+Odisha,1939-07-01,1939,7,1930,Monsoon (JJAS),0.7887,-0.096989,0.16503,0,No drought,0
+Odisha,1939-08-01,1939,8,1930,Monsoon (JJAS),0.34516,0.12566,0.39137,0,No drought,0
+Odisha,1939-09-01,1939,9,1930,Monsoon (JJAS),-0.052216,0.35566,0.4272,0,No drought,0
+Odisha,1939-10-01,1939,10,1930,Post-monsoon (OND),1.0789,0.92865,0.43462,0,No drought,0
+Odisha,1939-11-01,1939,11,1930,Post-monsoon (OND),0.38818,0.69774,0.36184,0,No drought,0
+Odisha,1939-12-01,1939,12,1930,Post-monsoon (OND),0.46234,0.57269,0.37665,0,No drought,0
+Odisha,1940-01-01,1940,1,1940,Winter (JF),-0.50524,0.74335,0.34518,0,No drought,0
+Odisha,1940-02-01,1940,2,1940,Winter (JF),0.76932,0.16522,0.43375,0,No drought,0
+Odisha,1940-03-01,1940,3,1940,Pre-monsoon (MAM),1.7677,1.1867,0.62502,0,No drought,0
+Odisha,1940-04-01,1940,4,1940,Pre-monsoon (MAM),0.19403,1.1416,0.65589,0,No drought,0
+Odisha,1940-05-01,1940,5,1940,Pre-monsoon (MAM),1.5327,1.8034,1.3376,0,No drought,0
+Odisha,1940-06-01,1940,6,1940,Monsoon (JJAS),0.87986,1.59,1.7102,0,No drought,0
+Odisha,1940-07-01,1940,7,1940,Monsoon (JJAS),1.873,2.2348,2.2122,0,No drought,0
+Odisha,1940-08-01,1940,8,1940,Monsoon (JJAS),0.60827,2.2075,2.0043,0,No drought,0
+Odisha,1940-09-01,1940,9,1940,Monsoon (JJAS),-1.5795,1.2466,1.8097,1,Severe,0
+Odisha,1940-10-01,1940,10,1940,Post-monsoon (OND),-0.5684,0.39922,1.2118,0,No drought,0
+Odisha,1940-11-01,1940,11,1940,Post-monsoon (OND),-0.35198,-1.0848,1.1658,0,No drought,0
+Odisha,1940-12-01,1940,12,1940,Post-monsoon (OND),0.56377,-1.5874,1.1881,0,No drought,0
+Odisha,1941-01-01,1941,1,1940,Winter (JF),1.1016,-0.45269,1.317,0,No drought,0
+Odisha,1941-02-01,1941,2,1940,Winter (JF),-0.36346,-0.045768,1.2078,0,No drought,0
+Odisha,1941-03-01,1941,3,1940,Pre-monsoon (MAM),-0.035926,0.2232,0.90997,0,No drought,0
+Odisha,1941-04-01,1941,4,1940,Pre-monsoon (MAM),-0.20537,-0.09375,0.87443,0,No drought,0
+Odisha,1941-05-01,1941,5,1940,Pre-monsoon (MAM),0.32116,-0.39944,0.42074,0,No drought,0
+Odisha,1941-06-01,1941,6,1940,Monsoon (JJAS),1.0258,0.62867,0.54132,0,No drought,0
+Odisha,1941-07-01,1941,7,1940,Monsoon (JJAS),0.031974,0.66069,-0.41254,0,No drought,0
+Odisha,1941-08-01,1941,8,1940,Monsoon (JJAS),-1.2168,-0.029522,-1.0041,1,Moderate,0
+Odisha,1941-09-01,1941,9,1940,Monsoon (JJAS),-0.72021,-0.44388,-0.92569,0,No drought,0
+Odisha,1941-10-01,1941,10,1940,Post-monsoon (OND),0.75797,-0.56936,-0.28104,0,No drought,0
+Odisha,1941-11-01,1941,11,1940,Post-monsoon (OND),1.3653,-0.33859,0.042473,0,No drought,0
+Odisha,1941-12-01,1941,12,1940,Post-monsoon (OND),0.15236,0.3598,0.014474,0,No drought,0
+Odisha,1942-01-01,1942,1,1940,Winter (JF),0.15831,0.96745,-0.089871,0,No drought,0
+Odisha,1942-02-01,1942,2,1940,Winter (JF),0.5901,0.90291,0.015187,0,No drought,0
+Odisha,1942-03-01,1942,3,1940,Pre-monsoon (MAM),-0.48803,-0.20058,-0.025595,0,No drought,0
+Odisha,1942-04-01,1942,4,1940,Pre-monsoon (MAM),0.52592,0.068386,0.092326,0,No drought,0
+Odisha,1942-05-01,1942,5,1940,Pre-monsoon (MAM),-0.55099,-0.36467,-0.064499,0,No drought,0
+Odisha,1942-06-01,1942,6,1940,Monsoon (JJAS),-0.69333,-0.9216,-0.78274,0,No drought,0
+Odisha,1942-07-01,1942,7,1940,Monsoon (JJAS),0.96019,0.013584,-0.40203,0,No drought,0
+Odisha,1942-08-01,1942,8,1940,Monsoon (JJAS),0.46075,0.1456,0.23491,0,No drought,0
+Odisha,1942-09-01,1942,9,1940,Monsoon (JJAS),0.68555,0.59335,0.70491,0,No drought,0
+Odisha,1942-10-01,1942,10,1940,Post-monsoon (OND),-0.75839,0.51945,0.074166,0,No drought,0
+Odisha,1942-11-01,1942,11,1940,Post-monsoon (OND),1.1591,0.43045,0.14465,0,No drought,0
+Odisha,1942-12-01,1942,12,1940,Post-monsoon (OND),0.3358,0.28212,0.15416,0,No drought,0
+Odisha,1943-01-01,1943,1,1940,Winter (JF),2.1526,0.72312,0.57681,0,No drought,0
+Odisha,1943-02-01,1943,2,1940,Winter (JF),-0.1075,1.7106,0.49459,0,No drought,0
+Odisha,1943-03-01,1943,3,1940,Pre-monsoon (MAM),0.36193,1.1941,0.57078,0,No drought,0
+Odisha,1943-04-01,1943,4,1940,Pre-monsoon (MAM),1.1812,1.5582,0.69182,0,No drought,0
+Odisha,1943-05-01,1943,5,1940,Pre-monsoon (MAM),-0.11906,0.27078,0.76796,0,No drought,0
+Odisha,1943-06-01,1943,6,1940,Monsoon (JJAS),0.1107,0.27084,1.0604,0,No drought,0
+Odisha,1943-07-01,1943,7,1940,Monsoon (JJAS),1.0353,0.85293,1.0871,0,No drought,0
+Odisha,1943-08-01,1943,8,1940,Monsoon (JJAS),0.51048,0.76316,1.0287,0,No drought,0
+Odisha,1943-09-01,1943,9,1940,Monsoon (JJAS),0.76123,1.139,1.187,0,No drought,0
+Odisha,1943-10-01,1943,10,1940,Post-monsoon (OND),-0.35909,0.87155,1.2531,0,No drought,0
+Odisha,1943-11-01,1943,11,1940,Post-monsoon (OND),-0.0013016,0.43433,0.97511,0,No drought,0
+Odisha,1943-12-01,1943,12,1940,Post-monsoon (OND),0.20642,0.12844,0.97495,0,No drought,0
+Odisha,1944-01-01,1944,1,1940,Winter (JF),1.1672,-0.22872,0.7387,0,No drought,0
+Odisha,1944-02-01,1944,2,1940,Winter (JF),1.7034,1.2136,1.092,0,No drought,0
+Odisha,1944-03-01,1944,3,1940,Pre-monsoon (MAM),1.6688,1.9842,1.3683,0,No drought,0
+Odisha,1944-04-01,1944,4,1940,Pre-monsoon (MAM),0.29493,2.0527,1.2648,0,No drought,0
+Odisha,1944-05-01,1944,5,1940,Pre-monsoon (MAM),-0.97321,1.2441,1.2012,0,No drought,0
+Odisha,1944-06-01,1944,6,1940,Monsoon (JJAS),-0.83667,-0.31402,0.91376,0,No drought,0
+Odisha,1944-07-01,1944,7,1940,Monsoon (JJAS),1.8753,0.57915,1.2845,0,No drought,0
+Odisha,1944-08-01,1944,8,1940,Monsoon (JJAS),1.2126,1.0167,1.3318,0,No drought,0
+Odisha,1944-09-01,1944,9,1940,Monsoon (JJAS),-1.3776,0.69036,0.8234,1,Moderate,0
+Odisha,1944-10-01,1944,10,1940,Post-monsoon (OND),0.8469,1.341,1.1678,0,No drought,0
+Odisha,1944-11-01,1944,11,1940,Post-monsoon (OND),-0.48678,0.29223,1.1368,0,No drought,0
+Odisha,1944-12-01,1944,12,1940,Post-monsoon (OND),-0.305,-0.4621,1.1273,0,No drought,0
+Odisha,1945-01-01,1945,1,1940,Winter (JF),0.94455,0.56189,1.0563,0,No drought,0
+Odisha,1945-02-01,1945,2,1940,Winter (JF),-0.44092,-0.43749,0.67903,0,No drought,0
+Odisha,1945-03-01,1945,3,1940,Pre-monsoon (MAM),-0.98155,-0.59994,0.27537,0,No drought,0
+Odisha,1945-04-01,1945,4,1940,Pre-monsoon (MAM),0.89255,0.02898,0.33437,0,No drought,0
+Odisha,1945-05-01,1945,5,1940,Pre-monsoon (MAM),-0.047968,-0.33472,0.48696,0,No drought,0
+Odisha,1945-06-01,1945,6,1940,Monsoon (JJAS),-0.87558,-0.80333,0.50067,0,No drought,0
+Odisha,1945-07-01,1945,7,1940,Monsoon (JJAS),0.72781,-0.024709,-0.086941,0,No drought,0
+Odisha,1945-08-01,1945,8,1940,Monsoon (JJAS),-0.71752,-0.61156,-0.83928,0,No drought,0
+Odisha,1945-09-01,1945,9,1940,Monsoon (JJAS),1.6006,0.38972,0.29268,0,No drought,0
+Odisha,1945-10-01,1945,10,1940,Post-monsoon (OND),1.0716,1.4813,0.60205,0,No drought,0
+Odisha,1945-11-01,1945,11,1940,Post-monsoon (OND),-0.63602,1.1564,0.58648,0,No drought,0
+Odisha,1945-12-01,1945,12,1940,Post-monsoon (OND),0.77318,1.649,0.65996,0,No drought,0
+Odisha,1946-01-01,1946,1,1940,Winter (JF),-0.5219,0.66666,0.56115,0,No drought,0
+Odisha,1946-02-01,1946,2,1940,Winter (JF),-1.1108,-1.1417,0.51976,1,Moderate,0
+Odisha,1946-03-01,1946,3,1940,Pre-monsoon (MAM),-1.4313,-1.2669,0.50486,1,Moderate,0
+Odisha,1946-04-01,1946,4,1940,Pre-monsoon (MAM),1.7965,0.18099,0.76686,0,No drought,0
+Odisha,1946-05-01,1946,5,1940,Pre-monsoon (MAM),0.9935,0.74883,1.0001,0,No drought,0
+Odisha,1946-06-01,1946,6,1940,Monsoon (JJAS),0.87469,1.2702,1.6113,0,No drought,0
+Odisha,1946-07-01,1946,7,1940,Monsoon (JJAS),0.40433,1.4213,1.4834,0,No drought,0
+Odisha,1946-08-01,1946,8,1940,Monsoon (JJAS),0.72535,1.1275,1.7948,0,No drought,0
+Odisha,1946-09-01,1946,9,1940,Monsoon (JJAS),0.30067,0.99241,1.3965,0,No drought,0
+Odisha,1946-10-01,1946,10,1940,Post-monsoon (OND),0.56689,0.81035,0.99313,0,No drought,0
+Odisha,1946-11-01,1946,11,1940,Post-monsoon (OND),0.70833,0.82393,1.1697,0,No drought,0
+Odisha,1946-12-01,1946,12,1940,Post-monsoon (OND),-0.23495,0.44381,1.107,0,No drought,0
+Odisha,1947-01-01,1947,1,1940,Winter (JF),0.72947,0.56274,1.1829,0,No drought,0
+Odisha,1947-02-01,1947,2,1940,Winter (JF),0.418,0.49365,1.2959,0,No drought,0
+Odisha,1947-03-01,1947,3,1940,Pre-monsoon (MAM),0.27427,0.25451,1.3729,0,No drought,0
+Odisha,1947-04-01,1947,4,1940,Pre-monsoon (MAM),-0.5431,0.027351,1.0091,0,No drought,0
+Odisha,1947-05-01,1947,5,1940,Pre-monsoon (MAM),-0.87472,-0.69292,0.72072,0,No drought,0
+Odisha,1947-06-01,1947,6,1940,Monsoon (JJAS),0.27865,-0.31295,0.47366,0,No drought,0
+Odisha,1947-07-01,1947,7,1940,Monsoon (JJAS),0.15856,-0.23987,0.40787,0,No drought,0
+Odisha,1947-08-01,1947,8,1940,Monsoon (JJAS),0.79335,0.24941,0.36219,0,No drought,0
+Odisha,1947-09-01,1947,9,1940,Monsoon (JJAS),-0.5762,0.15668,0.085542,0,No drought,0
+Odisha,1947-10-01,1947,10,1940,Post-monsoon (OND),0.59988,0.21943,-0.033912,0,No drought,0
+Odisha,1947-11-01,1947,11,1940,Post-monsoon (OND),-0.29705,0.13879,-0.19028,0,No drought,0
+Odisha,1947-12-01,1947,12,1940,Post-monsoon (OND),2.0747,0.57883,0.46601,0,No drought,0
+Odisha,1948-01-01,1948,1,1940,Winter (JF),0.24653,1.1187,0.45701,0,No drought,0
+Odisha,1948-02-01,1948,2,1940,Winter (JF),0.61243,1.0976,0.51326,0,No drought,0
+Odisha,1948-03-01,1948,3,1940,Pre-monsoon (MAM),0.24075,1.3608,0.50081,0,No drought,0
+Odisha,1948-04-01,1948,4,1940,Pre-monsoon (MAM),-0.22833,0.15174,0.53761,0,No drought,0
+Odisha,1948-05-01,1948,5,1940,Pre-monsoon (MAM),0.27127,0.14395,0.70805,0,No drought,0
+Odisha,1948-06-01,1948,6,1940,Monsoon (JJAS),-0.35827,-0.33292,0.48583,0,No drought,0
+Odisha,1948-07-01,1948,7,1940,Monsoon (JJAS),-0.36631,-0.57254,0.30602,0,No drought,0
+Odisha,1948-08-01,1948,8,1940,Monsoon (JJAS),-0.26321,-0.64355,-0.11117,0,No drought,0
+Odisha,1948-09-01,1948,9,1940,Monsoon (JJAS),0.43464,-0.51351,0.18139,0,No drought,0
+Odisha,1948-10-01,1948,10,1940,Post-monsoon (OND),-0.30124,-0.57311,-0.12358,0,No drought,0
+Odisha,1948-11-01,1948,11,1940,Post-monsoon (OND),1.4348,0.041153,0.20882,0,No drought,0
+Odisha,1948-12-01,1948,12,1940,Post-monsoon (OND),-0.014104,0.30581,-0.40827,0,No drought,0
+Odisha,1949-01-01,1949,1,1940,Winter (JF),-0.26913,0.11624,-0.44337,0,No drought,0
+Odisha,1949-02-01,1949,2,1940,Winter (JF),-0.36606,0.58143,-0.60782,0,No drought,0
+Odisha,1949-03-01,1949,3,1940,Pre-monsoon (MAM),-0.58698,-0.94367,-0.67192,0,No drought,0
+Odisha,1949-04-01,1949,4,1940,Pre-monsoon (MAM),0.67674,-0.35818,-0.54996,0,No drought,0
+Odisha,1949-05-01,1949,5,1940,Pre-monsoon (MAM),0.98161,0.34885,-0.43556,0,No drought,0
+Odisha,1949-06-01,1949,6,1940,Monsoon (JJAS),-0.85611,-0.34164,-0.63037,0,No drought,0
+Odisha,1949-07-01,1949,7,1940,Monsoon (JJAS),-1.0722,-0.88864,-0.86642,1,Moderate,0
+Odisha,1949-08-01,1949,8,1940,Monsoon (JJAS),-0.2575,-1.0881,-0.7572,0,No drought,0
+Odisha,1949-09-01,1949,9,1940,Monsoon (JJAS),0.45999,-1.0834,-0.8165,0,No drought,0
+Odisha,1949-10-01,1949,10,1940,Post-monsoon (OND),1.3826,0.47217,0.25352,0,No drought,0
+Odisha,1949-11-01,1949,11,1940,Post-monsoon (OND),-0.64578,0.8661,-0.1396,0,No drought,0
+Odisha,1949-12-01,1949,12,1940,Post-monsoon (OND),-0.65366,0.9363,-0.14783,0,No drought,0
+Odisha,1950-01-01,1950,1,1950,Winter (JF),-0.86285,0.83395,-0.15808,0,No drought,0
+Odisha,1950-02-01,1950,2,1950,Winter (JF),0.39486,-0.88683,-0.082401,0,No drought,0
+Odisha,1950-03-01,1950,3,1950,Pre-monsoon (MAM),1.6102,0.72827,0.24435,0,No drought,0
+Odisha,1950-04-01,1950,4,1950,Pre-monsoon (MAM),-1.1627,0.28415,-0.009433,1,Moderate,0
+Odisha,1950-05-01,1950,5,1950,Pre-monsoon (MAM),-0.27241,0.24954,-0.25647,0,No drought,0
+Odisha,1950-06-01,1950,6,1950,Monsoon (JJAS),0.45895,0.40857,0.20563,0,No drought,0
+Odisha,1950-07-01,1950,7,1950,Monsoon (JJAS),0.40212,0.08857,0.78648,0,No drought,0
+Odisha,1950-08-01,1950,8,1950,Monsoon (JJAS),-0.11885,0.22487,0.84323,0,No drought,0
+Odisha,1950-09-01,1950,9,1950,Monsoon (JJAS),-0.87291,-0.1513,0.5154,0,No drought,0
+Odisha,1950-10-01,1950,10,1950,Post-monsoon (OND),-0.74066,-0.65351,-0.67761,0,No drought,0
+Odisha,1950-11-01,1950,11,1950,Post-monsoon (OND),1.7456,-0.27479,-0.074949,0,No drought,0
+Odisha,1950-12-01,1950,12,1950,Post-monsoon (OND),-0.098912,-0.38761,-0.063514,0,No drought,0
+Odisha,1951-01-01,1951,1,1950,Winter (JF),-0.17417,0.10656,-0.024346,0,No drought,0
+Odisha,1951-02-01,1951,2,1950,Winter (JF),-1.0616,0.82731,-0.14162,1,Moderate,0
+Odisha,1951-03-01,1951,3,1950,Pre-monsoon (MAM),2.0095,0.92699,-0.0051373,0,No drought,0
+Odisha,1951-04-01,1951,4,1950,Pre-monsoon (MAM),0.85651,1.1181,0.20328,0,No drought,0
+Odisha,1951-05-01,1951,5,1950,Pre-monsoon (MAM),0.15565,1.0274,0.22829,0,No drought,0
+Odisha,1951-06-01,1951,6,1950,Monsoon (JJAS),-0.62077,0.39039,-0.15529,0,No drought,0
+Odisha,1951-07-01,1951,7,1950,Monsoon (JJAS),0.15739,-0.31897,-0.28352,0,No drought,0
+Odisha,1951-08-01,1951,8,1950,Monsoon (JJAS),0.14746,-0.36691,-0.22302,0,No drought,0
+Odisha,1951-09-01,1951,9,1950,Monsoon (JJAS),-0.95505,-0.79571,-0.29086,0,No drought,0
+Odisha,1951-10-01,1951,10,1950,Post-monsoon (OND),0.58348,-0.20542,0.18248,0,No drought,0
+Odisha,1951-11-01,1951,11,1950,Post-monsoon (OND),0.89058,-0.10211,-0.19464,0,No drought,0
+Odisha,1951-12-01,1951,12,1950,Post-monsoon (OND),0.14865,-0.16159,-0.18712,0,No drought,0
+Odisha,1952-01-01,1952,1,1950,Winter (JF),-0.95658,0.4133,-0.1991,0,No drought,0
+Odisha,1952-02-01,1952,2,1950,Winter (JF),-0.62503,-0.24795,-0.17645,0,No drought,0
+Odisha,1952-03-01,1952,3,1950,Pre-monsoon (MAM),0.76096,-0.38961,-0.51388,0,No drought,0
+Odisha,1952-04-01,1952,4,1950,Pre-monsoon (MAM),1.286,0.37801,-0.41078,0,No drought,0
+Odisha,1952-05-01,1952,5,1950,Pre-monsoon (MAM),0.18459,0.47375,-0.42334,0,No drought,0
+Odisha,1952-06-01,1952,6,1950,Monsoon (JJAS),-0.093285,0.29123,-0.16926,0,No drought,0
+Odisha,1952-07-01,1952,7,1950,Monsoon (JJAS),0.47517,0.37241,0.037076,0,No drought,0
+Odisha,1952-08-01,1952,8,1950,Monsoon (JJAS),0.48934,0.29621,0.16508,0,No drought,0
+Odisha,1952-09-01,1952,9,1950,Monsoon (JJAS),1.4167,1.1324,1.093,0,No drought,0
+Odisha,1952-10-01,1952,10,1950,Post-monsoon (OND),1.0305,1.667,1.3301,0,No drought,0
+Odisha,1952-11-01,1952,11,1950,Post-monsoon (OND),-0.76629,1.4652,1.1516,0,No drought,0
+Odisha,1952-12-01,1952,12,1950,Post-monsoon (OND),-0.079934,1.3382,1.1844,0,No drought,0
+Odisha,1953-01-01,1953,1,1950,Winter (JF),1.5535,0.93236,1.3975,0,No drought,0
+Odisha,1953-02-01,1953,2,1950,Winter (JF),-0.41608,-0.047919,1.415,0,No drought,0
+Odisha,1953-03-01,1953,3,1950,Pre-monsoon (MAM),-0.61554,0.094357,1.2781,0,No drought,0
+Odisha,1953-04-01,1953,4,1950,Pre-monsoon (MAM),-0.29067,-0.15929,1.0807,0,No drought,0
+Odisha,1953-05-01,1953,5,1950,Pre-monsoon (MAM),-0.27736,-1.0802,1.0236,0,No drought,0
+Odisha,1953-06-01,1953,6,1950,Monsoon (JJAS),0.19029,-0.44269,1.0778,0,No drought,0
+Odisha,1953-07-01,1953,7,1950,Monsoon (JJAS),-0.4622,-0.50895,0.73549,0,No drought,0
+Odisha,1953-08-01,1953,8,1950,Monsoon (JJAS),1.7118,0.64642,1.0819,0,No drought,0
+Odisha,1953-09-01,1953,9,1950,Monsoon (JJAS),-0.16586,0.64793,0.55625,0,No drought,0
+Odisha,1953-10-01,1953,10,1950,Post-monsoon (OND),-0.45122,0.2002,-0.17481,0,No drought,0
+Odisha,1953-11-01,1953,11,1950,Post-monsoon (OND),0.6358,0.64226,0.035498,0,No drought,0
+Odisha,1953-12-01,1953,12,1950,Post-monsoon (OND),-0.31915,-0.44751,-0.0038243,0,No drought,0
+Odisha,1954-01-01,1954,1,1950,Winter (JF),-0.47382,-0.52254,-0.23121,0,No drought,0
+Odisha,1954-02-01,1954,2,1950,Winter (JF),-1.0612,-0.54268,-0.26746,1,Moderate,0
+Odisha,1954-03-01,1954,3,1950,Pre-monsoon (MAM),-0.38693,-1.2275,-0.23758,0,No drought,0
+Odisha,1954-04-01,1954,4,1950,Pre-monsoon (MAM),-0.21336,-1.1494,-0.23651,0,No drought,0
+Odisha,1954-05-01,1954,5,1950,Pre-monsoon (MAM),0.10925,-0.8308,-0.17822,0,No drought,0
+Odisha,1954-06-01,1954,6,1950,Monsoon (JJAS),-0.13373,-0.44179,-0.32087,0,No drought,0
+Odisha,1954-07-01,1954,7,1950,Monsoon (JJAS),-1.8288,-1.4639,-0.85336,1,Severe,0
+Odisha,1954-08-01,1954,8,1950,Monsoon (JJAS),-0.83131,-1.6213,-1.8327,0,No drought,0
+Odisha,1954-09-01,1954,9,1950,Monsoon (JJAS),1.6173,-0.68565,-1.2025,0,No drought,0
+Odisha,1954-10-01,1954,10,1950,Post-monsoon (OND),0.10954,-0.42802,-0.76684,0,No drought,0
+Odisha,1954-11-01,1954,11,1950,Post-monsoon (OND),-1.1162,0.23261,-1.0462,1,Moderate,0
+Odisha,1954-12-01,1954,12,1950,Post-monsoon (OND),0.9875,0.93969,-0.91721,0,No drought,0
+Odisha,1955-01-01,1955,1,1950,Winter (JF),-0.12069,-0.25104,-0.88214,0,No drought,0
+Odisha,1955-02-01,1955,2,1950,Winter (JF),-0.73248,-0.88924,-0.86944,0,No drought,0
+Odisha,1955-03-01,1955,3,1950,Pre-monsoon (MAM),-0.87467,-0.66658,-0.89851,0,No drought,0
+Odisha,1955-04-01,1955,4,1950,Pre-monsoon (MAM),-0.28379,-1.1819,-0.90959,0,No drought,0
+Odisha,1955-05-01,1955,5,1950,Pre-monsoon (MAM),0.63303,-0.46152,-0.80282,0,No drought,0
+Odisha,1955-06-01,1955,6,1950,Monsoon (JJAS),0.056384,-0.048607,-0.77737,0,No drought,0
+Odisha,1955-07-01,1955,7,1950,Monsoon (JJAS),-1.3054,-0.72674,-0.55051,1,Moderate,0
+Odisha,1955-08-01,1955,8,1950,Monsoon (JJAS),0.55918,-0.2903,-0.0060355,0,No drought,0
+Odisha,1955-09-01,1955,9,1950,Monsoon (JJAS),1.7014,0.46124,0.097601,0,No drought,0
+Odisha,1955-10-01,1955,10,1950,Post-monsoon (OND),1.7621,1.5946,0.96895,0,No drought,0
+Odisha,1955-11-01,1955,11,1950,Post-monsoon (OND),1.0071,2.2771,1.2579,0,No drought,0
+Odisha,1955-12-01,1955,12,1950,Post-monsoon (OND),0.086387,2.1458,1.1779,0,No drought,0
+Odisha,1956-01-01,1956,1,1950,Winter (JF),-0.61871,1.624,1.1668,0,No drought,0
+Odisha,1956-02-01,1956,2,1950,Winter (JF),1.0603,0.79014,1.3725,0,No drought,0
+Odisha,1956-03-01,1956,3,1950,Pre-monsoon (MAM),0.075508,0.25108,1.4462,0,No drought,0
+Odisha,1956-04-01,1956,4,1950,Pre-monsoon (MAM),-1.133,-0.21921,1.3925,1,Moderate,0
+Odisha,1956-05-01,1956,5,1950,Pre-monsoon (MAM),1.81,1.2694,1.7255,0,No drought,0
+Odisha,1956-06-01,1956,6,1950,Monsoon (JJAS),1.8927,1.861,2.4293,0,No drought,0
+Odisha,1956-07-01,1956,7,1950,Monsoon (JJAS),0.89163,2.1381,2.9262,0,No drought,0
+Odisha,1956-08-01,1956,8,1950,Monsoon (JJAS),0.90602,2.3752,2.7749,0,No drought,0
+Odisha,1956-09-01,1956,9,1950,Monsoon (JJAS),0.16881,1.9888,2.6008,0,No drought,0
+Odisha,1956-10-01,1956,10,1950,Post-monsoon (OND),1.119,1.4058,2.1554,0,No drought,0
+Odisha,1956-11-01,1956,11,1950,Post-monsoon (OND),0.27182,1.0027,2.0717,0,No drought,0
+Odisha,1956-12-01,1956,12,1950,Post-monsoon (OND),0.32859,0.63274,2.087,0,No drought,0
+Odisha,1957-01-01,1957,1,1950,Winter (JF),0.65346,0.93024,2.1333,0,No drought,0
+Odisha,1957-02-01,1957,2,1950,Winter (JF),0.52939,0.27547,2.0735,0,No drought,0
+Odisha,1957-03-01,1957,3,1950,Pre-monsoon (MAM),1.1581,0.82905,2.1421,0,No drought,0
+Odisha,1957-04-01,1957,4,1950,Pre-monsoon (MAM),-0.36048,0.53766,2.2057,0,No drought,0
+Odisha,1957-05-01,1957,5,1950,Pre-monsoon (MAM),-0.95496,-0.22952,1.7502,0,No drought,0
+Odisha,1957-06-01,1957,6,1950,Monsoon (JJAS),-0.65528,-0.85776,0.69902,0,No drought,0
+Odisha,1957-07-01,1957,7,1950,Monsoon (JJAS),0.095618,-0.96699,0.39209,0,No drought,0
+Odisha,1957-08-01,1957,8,1950,Monsoon (JJAS),0.74533,-0.28965,0.31499,0,No drought,0
+Odisha,1957-09-01,1957,9,1950,Monsoon (JJAS),-0.74948,-0.30041,0.032096,0,No drought,0
+Odisha,1957-10-01,1957,10,1950,Post-monsoon (OND),-0.99374,-0.45489,-0.90045,0,No drought,0
+Odisha,1957-11-01,1957,11,1950,Post-monsoon (OND),-1.0403,-0.80612,-1.0276,1,Moderate,0
+Odisha,1957-12-01,1957,12,1950,Post-monsoon (OND),-0.46504,-1.5256,-1.0489,0,No drought,0
+Odisha,1958-01-01,1958,1,1950,Winter (JF),-0.25816,-1.4664,-1.0774,0,No drought,0
+Odisha,1958-02-01,1958,2,1950,Winter (JF),1.0859,-0.25904,-0.98279,0,No drought,0
+Odisha,1958-03-01,1958,3,1950,Pre-monsoon (MAM),0.22307,0.35744,-1.1113,0,No drought,0
+Odisha,1958-04-01,1958,4,1950,Pre-monsoon (MAM),0.30156,0.50414,-1.0328,0,No drought,0
+Odisha,1958-05-01,1958,5,1950,Pre-monsoon (MAM),-0.48371,0.15216,-1.0036,0,No drought,0
+Odisha,1958-06-01,1958,6,1950,Monsoon (JJAS),-1.2844,-1.271,-1.2405,1,Moderate,0
+Odisha,1958-07-01,1958,7,1950,Monsoon (JJAS),1.1402,-0.18407,-0.71305,0,No drought,0
+Odisha,1958-08-01,1958,8,1950,Monsoon (JJAS),-0.27694,-0.37729,-1.0817,0,No drought,0
+Odisha,1958-09-01,1958,9,1950,Monsoon (JJAS),1.6646,0.69528,-0.21065,0,No drought,0
+Odisha,1958-10-01,1958,10,1950,Post-monsoon (OND),1.3657,1.822,0.83174,0,No drought,0
+Odisha,1958-11-01,1958,11,1950,Post-monsoon (OND),1.2421,1.5604,1.1156,0,No drought,0
+Odisha,1958-12-01,1958,12,1950,Post-monsoon (OND),0.45643,1.8563,1.1528,0,No drought,0
+Odisha,1959-01-01,1959,1,1950,Winter (JF),1.0164,1.4706,1.2319,0,No drought,0
+Odisha,1959-02-01,1959,2,1950,Winter (JF),0.0021277,0.83314,1.0848,0,No drought,0
+Odisha,1959-03-01,1959,3,1950,Pre-monsoon (MAM),-1.0251,-0.27989,1.0003,1,Moderate,0
+Odisha,1959-04-01,1959,4,1950,Pre-monsoon (MAM),-0.24664,-0.51183,0.95464,0,No drought,0
+Odisha,1959-05-01,1959,5,1950,Pre-monsoon (MAM),-0.44531,-1.0593,1.0286,0,No drought,0
+Odisha,1959-06-01,1959,6,1950,Monsoon (JJAS),-0.20806,-0.74405,1.3154,0,No drought,0
+Odisha,1959-07-01,1959,7,1950,Monsoon (JJAS),0.093074,-0.42569,0.82258,0,No drought,0
+Odisha,1959-08-01,1959,8,1950,Monsoon (JJAS),-0.22165,-0.44392,0.8371,0,No drought,0
+Odisha,1959-09-01,1959,9,1950,Monsoon (JJAS),0.91267,0.084677,0.6448,0,No drought,0
+Odisha,1959-10-01,1959,10,1950,Post-monsoon (OND),0.79905,0.62355,0.25412,0,No drought,0
+Odisha,1959-11-01,1959,11,1950,Post-monsoon (OND),-0.53287,0.59332,-0.10053,0,No drought,0
+Odisha,1959-12-01,1959,12,1950,Post-monsoon (OND),0.17809,0.82981,-0.1064,0,No drought,0
+Odisha,1960-01-01,1960,1,1960,Winter (JF),0.13444,0.33801,-0.18028,0,No drought,0
+Odisha,1960-02-01,1960,2,1960,Winter (JF),-1.6748,-1.3092,-0.27696,1,Severe,0
+Odisha,1960-03-01,1960,3,1960,Pre-monsoon (MAM),1.3896,0.20346,0.014888,0,No drought,0
+Odisha,1960-04-01,1960,4,1960,Pre-monsoon (MAM),-1.2355,-0.45578,-0.092997,1,Moderate,0
+Odisha,1960-05-01,1960,5,1960,Pre-monsoon (MAM),-1.055,-0.95132,-0.20242,1,Moderate,0
+Odisha,1960-06-01,1960,6,1960,Monsoon (JJAS),0.18084,-0.19029,-0.058662,0,No drought,0
+Odisha,1960-07-01,1960,7,1960,Monsoon (JJAS),0.9971,0.19022,0.41321,0,No drought,0
+Odisha,1960-08-01,1960,8,1960,Monsoon (JJAS),0.71503,0.7825,0.78123,0,No drought,0
+Odisha,1960-09-01,1960,9,1960,Monsoon (JJAS),-0.1106,0.91892,0.44799,0,No drought,0
+Odisha,1960-10-01,1960,10,1960,Post-monsoon (OND),0.25083,0.74865,0.085054,0,No drought,0
+Odisha,1960-11-01,1960,11,1960,Post-monsoon (OND),-0.60876,0.1301,0.075972,0,No drought,0
+Odisha,1960-12-01,1960,12,1960,Post-monsoon (OND),-0.1281,-0.25989,0.15508,0,No drought,0
+Odisha,1961-01-01,1961,1,1960,Winter (JF),0.75873,-0.017129,0.23809,0,No drought,0
+Odisha,1961-02-01,1961,2,1960,Winter (JF),2.2464,1.4231,0.8742,0,No drought,0
+Odisha,1961-03-01,1961,3,1960,Pre-monsoon (MAM),-0.57085,1.5253,0.6422,0,No drought,0
+Odisha,1961-04-01,1961,4,1960,Pre-monsoon (MAM),-0.69905,1.1661,0.69977,0,No drought,0
+Odisha,1961-05-01,1961,5,1960,Pre-monsoon (MAM),0.21991,0.95697,0.86742,0,No drought,0
+Odisha,1961-06-01,1961,6,1960,Monsoon (JJAS),0.93161,0.45088,1.2251,0,No drought,0
+Odisha,1961-07-01,1961,7,1960,Monsoon (JJAS),0.47863,0.65655,0.99836,0,No drought,0
+Odisha,1961-08-01,1961,8,1960,Monsoon (JJAS),-0.59751,0.41411,0.48245,0,No drought,0
+Odisha,1961-09-01,1961,9,1960,Monsoon (JJAS),2.2154,1.6279,1.5197,0,No drought,0
+Odisha,1961-10-01,1961,10,1960,Post-monsoon (OND),1.1301,1.6154,1.7507,0,No drought,0
+Odisha,1961-11-01,1961,11,1960,Post-monsoon (OND),0.23513,1.5427,1.8584,0,No drought,0
+Odisha,1961-12-01,1961,12,1960,Post-monsoon (OND),0.64232,1.8605,1.8045,0,No drought,0
+Odisha,1962-01-01,1962,1,1960,Winter (JF),0.2127,0.8433,1.7539,0,No drought,0
+Odisha,1962-02-01,1962,2,1960,Winter (JF),0.14394,-0.080659,1.3359,0,No drought,0
+Odisha,1962-03-01,1962,3,1960,Pre-monsoon (MAM),-0.043387,-0.080135,1.3464,0,No drought,0
+Odisha,1962-04-01,1962,4,1960,Pre-monsoon (MAM),0.10219,-0.17725,1.4317,0,No drought,0
+Odisha,1962-05-01,1962,5,1960,Pre-monsoon (MAM),-0.83752,-0.73243,1.309,0,No drought,0
+Odisha,1962-06-01,1962,6,1960,Monsoon (JJAS),-0.79364,-1.1034,0.75549,0,No drought,0
+Odisha,1962-07-01,1962,7,1960,Monsoon (JJAS),-0.22941,-0.95585,0.55816,0,No drought,0
+Odisha,1962-08-01,1962,8,1960,Monsoon (JJAS),-1.6264,-1.56,0.13509,1,Severe,0
+Odisha,1962-09-01,1962,9,1960,Monsoon (JJAS),0.065618,-1.3072,-1.1044,0,No drought,0
+Odisha,1962-10-01,1962,10,1960,Post-monsoon (OND),0.53957,-0.54455,-1.1038,0,No drought,0
+Odisha,1962-11-01,1962,11,1960,Post-monsoon (OND),-0.83071,-0.81161,-1.1817,0,No drought,0
+Odisha,1962-12-01,1962,12,1960,Post-monsoon (OND),0.80082,0.23482,-1.1449,0,No drought,0
+Odisha,1963-01-01,1963,1,1960,Winter (JF),-0.5741,0.12595,-1.1775,0,No drought,0
+Odisha,1963-02-01,1963,2,1960,Winter (JF),-0.96051,-1.0558,-1.2382,0,No drought,0
+Odisha,1963-03-01,1963,3,1960,Pre-monsoon (MAM),-0.0020931,-0.59856,-1.2365,0,No drought,0
+Odisha,1963-04-01,1963,4,1960,Pre-monsoon (MAM),1.0406,-0.21949,-1.1362,0,No drought,0
+Odisha,1963-05-01,1963,5,1960,Pre-monsoon (MAM),0.5613,0.25758,-0.94444,0,No drought,0
+Odisha,1963-06-01,1963,6,1960,Monsoon (JJAS),0.092079,0.28993,-0.70655,0,No drought,0
+Odisha,1963-07-01,1963,7,1960,Monsoon (JJAS),-0.49724,-0.077391,-0.86508,0,No drought,0
+Odisha,1963-08-01,1963,8,1960,Monsoon (JJAS),0.16617,-0.15678,-0.084869,0,No drought,0
+Odisha,1963-09-01,1963,9,1960,Monsoon (JJAS),0.67482,-0.017083,0.10978,0,No drought,0
+Odisha,1963-10-01,1963,10,1960,Post-monsoon (OND),1.1983,0.73171,0.36421,0,No drought,0
+Odisha,1963-11-01,1963,11,1960,Post-monsoon (OND),-0.40975,0.93227,0.37767,0,No drought,0
+Odisha,1963-12-01,1963,12,1960,Post-monsoon (OND),0.16774,0.96158,0.32032,0,No drought,0
+Odisha,1964-01-01,1964,1,1960,Winter (JF),-0.58913,0.69987,0.33022,0,No drought,0
+Odisha,1964-02-01,1964,2,1960,Winter (JF),0.90872,-0.26202,0.53095,0,No drought,0
+Odisha,1964-03-01,1964,3,1960,Pre-monsoon (MAM),-0.88191,-0.27827,0.47989,0,No drought,0
+Odisha,1964-04-01,1964,4,1960,Pre-monsoon (MAM),-0.13924,-0.33368,0.34731,0,No drought,0
+Odisha,1964-05-01,1964,5,1960,Pre-monsoon (MAM),-0.2504,-0.28604,0.20262,0,No drought,0
+Odisha,1964-06-01,1964,6,1960,Monsoon (JJAS),-0.80141,-0.99761,-0.085826,0,No drought,0
+Odisha,1964-07-01,1964,7,1960,Monsoon (JJAS),0.37256,-0.46634,0.25543,0,No drought,0
+Odisha,1964-08-01,1964,8,1960,Monsoon (JJAS),1.2868,0.37676,0.66231,0,No drought,0
+Odisha,1964-09-01,1964,9,1960,Monsoon (JJAS),-0.66131,0.088028,0.24077,0,No drought,0
+Odisha,1964-10-01,1964,10,1960,Post-monsoon (OND),-0.18766,0.25397,-0.47367,0,No drought,0
+Odisha,1964-11-01,1964,11,1960,Post-monsoon (OND),-0.24826,-0.0076131,-0.47935,0,No drought,0
+Odisha,1964-12-01,1964,12,1960,Post-monsoon (OND),-0.93969,-0.88396,-0.50686,0,No drought,0
+Odisha,1965-01-01,1965,1,1960,Winter (JF),-0.2308,-0.6769,-0.46745,0,No drought,0
+Odisha,1965-02-01,1965,2,1960,Winter (JF),0.06964,-0.75228,-0.60116,0,No drought,0
+Odisha,1965-03-01,1965,3,1960,Pre-monsoon (MAM),1.0683,0.25,-0.36073,0,No drought,0
+Odisha,1965-04-01,1965,4,1960,Pre-monsoon (MAM),0.8193,0.64238,-0.26472,0,No drought,0
+Odisha,1965-05-01,1965,5,1960,Pre-monsoon (MAM),-0.67491,0.25139,-0.38206,0,No drought,0
+Odisha,1965-06-01,1965,6,1960,Monsoon (JJAS),-1.4782,-0.9946,-0.61379,1,Moderate,0
+Odisha,1965-07-01,1965,7,1960,Monsoon (JJAS),0.33497,-0.83851,-0.62167,0,No drought,0
+Odisha,1965-08-01,1965,8,1960,Monsoon (JJAS),-2.3511,-2.0568,-1.9292,1,Extreme,0
+Odisha,1965-09-01,1965,9,1960,Monsoon (JJAS),-0.58128,-2.0693,-2.1135,0,No drought,0
+Odisha,1965-10-01,1965,10,1960,Post-monsoon (OND),-0.95548,-1.6251,-2.0744,0,No drought,0
+Odisha,1965-11-01,1965,11,1960,Post-monsoon (OND),-1.4356,-2.3632,-2.1716,1,Moderate,0
+Odisha,1965-12-01,1965,12,1960,Post-monsoon (OND),-0.21213,-1.2734,-2.1413,0,No drought,0
+Odisha,1966-01-01,1966,1,1960,Winter (JF),1.786,-0.65095,-1.7701,0,No drought,0
+Odisha,1966-02-01,1966,2,1960,Winter (JF),-1.1611,-0.23184,-1.8618,1,Moderate,0
+Odisha,1966-03-01,1966,3,1960,Pre-monsoon (MAM),-1.4206,-0.11032,-2.1083,1,Moderate,0
+Odisha,1966-04-01,1966,4,1960,Pre-monsoon (MAM),-0.53383,-0.29031,-2.2704,0,No drought,0
+Odisha,1966-05-01,1966,5,1960,Pre-monsoon (MAM),-1.4825,-2.2093,-2.436,1,Moderate,0
+Odisha,1966-06-01,1966,6,1960,Monsoon (JJAS),0.86897,-0.22611,-1.6252,0,No drought,0
+Odisha,1966-07-01,1966,7,1960,Monsoon (JJAS),-0.027184,-0.056255,-1.8438,0,No drought,0
+Odisha,1966-08-01,1966,8,1960,Monsoon (JJAS),-2.0636,-1.0832,-1.5437,1,Extreme,0
+Odisha,1966-09-01,1966,9,1960,Monsoon (JJAS),-1.5428,-1.4535,-2.0164,1,Severe,0
+Odisha,1966-10-01,1966,10,1960,Post-monsoon (OND),-0.66364,-2.1368,-1.9089,0,No drought,0
+Odisha,1966-11-01,1966,11,1960,Post-monsoon (OND),1.2793,-1.9992,-1.5106,0,No drought,0
+Odisha,1966-12-01,1966,12,1960,Post-monsoon (OND),0.44307,-0.963,-1.4547,0,No drought,0
+Odisha,1967-01-01,1967,1,1960,Winter (JF),1.5977,0.44869,-1.4579,0,No drought,0
+Odisha,1967-02-01,1967,2,1960,Winter (JF),-2.0005,1.0068,-1.5018,1,Extreme,0
+Odisha,1967-03-01,1967,3,1960,Pre-monsoon (MAM),2.0178,1.6082,-0.89113,0,No drought,0
+Odisha,1967-04-01,1967,4,1960,Pre-monsoon (MAM),0.62545,1.6353,-0.76209,0,No drought,0
+Odisha,1967-05-01,1967,5,1960,Pre-monsoon (MAM),-1.2261,0.46316,-0.77469,1,Moderate,0
+Odisha,1967-06-01,1967,6,1960,Monsoon (JJAS),0.24054,0.60653,-1.0834,0,No drought,0
+Odisha,1967-07-01,1967,7,1960,Monsoon (JJAS),-0.11069,-0.24652,-1.08,0,No drought,0
+Odisha,1967-08-01,1967,8,1960,Monsoon (JJAS),0.33895,-0.15101,-0.16389,0,No drought,0
+Odisha,1967-09-01,1967,9,1960,Monsoon (JJAS),0.090992,0.16978,0.37042,0,No drought,0
+Odisha,1967-10-01,1967,10,1960,Post-monsoon (OND),-1.7985,-0.60943,0.11558,1,Severe,0
+Odisha,1967-11-01,1967,11,1960,Post-monsoon (OND),-1.4309,-0.7957,-0.27616,1,Moderate,0
+Odisha,1967-12-01,1967,12,1960,Post-monsoon (OND),1.356,-0.90108,-0.18433,0,No drought,0
+Odisha,1968-01-01,1968,1,1960,Winter (JF),1.3964,-1.0638,-0.2825,0,No drought,0
+Odisha,1968-02-01,1968,2,1960,Winter (JF),0.89603,0.64473,-0.081792,0,No drought,0
+Odisha,1968-03-01,1968,3,1960,Pre-monsoon (MAM),0.51466,1.1895,-0.45846,0,No drought,0
+Odisha,1968-04-01,1968,4,1960,Pre-monsoon (MAM),0.0097817,0.81161,-0.5472,0,No drought,0
+Odisha,1968-05-01,1968,5,1960,Pre-monsoon (MAM),-1.6114,-0.47207,-0.61908,1,Severe,0
+Odisha,1968-06-01,1968,6,1960,Monsoon (JJAS),-0.40965,-0.8819,-0.88886,0,No drought,0
+Odisha,1968-07-01,1968,7,1960,Monsoon (JJAS),-0.23728,-1.0393,-1.0083,0,No drought,0
+Odisha,1968-08-01,1968,8,1960,Monsoon (JJAS),-1.0548,-1.3966,-1.3769,1,Moderate,0
+Odisha,1968-09-01,1968,9,1960,Monsoon (JJAS),-0.26268,-1.0784,-1.7105,0,No drought,0
+Odisha,1968-10-01,1968,10,1960,Post-monsoon (OND),1.0129,-0.10596,-0.44647,0,No drought,0
+Odisha,1968-11-01,1968,11,1960,Post-monsoon (OND),0.31731,0.11985,-0.25942,0,No drought,0
+Odisha,1968-12-01,1968,12,1960,Post-monsoon (OND),-0.18784,0.37781,-0.39696,0,No drought,0
+Odisha,1969-01-01,1969,1,1960,Winter (JF),-1.4625,0.61618,-0.60095,1,Moderate,0
+Odisha,1969-02-01,1969,2,1960,Winter (JF),-1.7811,-1.0516,-0.80349,1,Severe,0
+Odisha,1969-03-01,1969,3,1960,Pre-monsoon (MAM),-1.7845,-2.3573,-0.95926,1,Severe,0
+Odisha,1969-04-01,1969,4,1960,Pre-monsoon (MAM),-0.40829,-2.1011,-1.0102,0,No drought,0
+Odisha,1969-05-01,1969,5,1960,Pre-monsoon (MAM),1.2214,-0.33947,-0.52221,0,No drought,0
+Odisha,1969-06-01,1969,6,1960,Monsoon (JJAS),-0.66322,-0.47423,-0.64485,0,No drought,0
+Odisha,1969-07-01,1969,7,1960,Monsoon (JJAS),0.85847,0.39757,-0.12777,0,No drought,0
+Odisha,1969-08-01,1969,8,1960,Monsoon (JJAS),-0.88643,-0.042734,-0.14609,0,No drought,0
+Odisha,1969-09-01,1969,9,1960,Monsoon (JJAS),-0.5003,-0.67353,-0.24984,0,No drought,0
+Odisha,1969-10-01,1969,10,1960,Post-monsoon (OND),-1.1899,-0.88309,-1.1889,1,Moderate,0
+Odisha,1969-11-01,1969,11,1960,Post-monsoon (OND),0.61293,-1.3053,-1.1821,0,No drought,0
+Odisha,1969-12-01,1969,12,1960,Post-monsoon (OND),0.23285,-0.86944,-1.1085,0,No drought,0
+Odisha,1970-01-01,1970,1,1970,Winter (JF),-0.11626,-0.82121,-1.0399,0,No drought,0
+Odisha,1970-02-01,1970,2,1970,Winter (JF),0.71397,0.44898,-0.81689,0,No drought,0
+Odisha,1970-03-01,1970,3,1970,Pre-monsoon (MAM),1.54,1.0892,-0.45263,0,No drought,0
+Odisha,1970-04-01,1970,4,1970,Pre-monsoon (MAM),-0.091982,0.85104,-0.42972,0,No drought,0
+Odisha,1970-05-01,1970,5,1970,Pre-monsoon (MAM),-0.3448,0.55812,-0.80011,0,No drought,0
+Odisha,1970-06-01,1970,6,1970,Monsoon (JJAS),1.1276,0.9921,-0.042706,0,No drought,0
+Odisha,1970-07-01,1970,7,1970,Monsoon (JJAS),-0.34636,0.33892,-0.46507,0,No drought,0
+Odisha,1970-08-01,1970,8,1970,Monsoon (JJAS),-0.089224,0.23079,-0.18826,0,No drought,0
+Odisha,1970-09-01,1970,9,1970,Monsoon (JJAS),-0.39081,0.13581,-0.13864,0,No drought,0
+Odisha,1970-10-01,1970,10,1970,Post-monsoon (OND),-0.65019,-0.82027,0.055475,0,No drought,0
+Odisha,1970-11-01,1970,11,1970,Post-monsoon (OND),-1.0154,-0.92279,-0.22257,1,Moderate,0
+Odisha,1970-12-01,1970,12,1970,Post-monsoon (OND),-1.814,-1.0063,-0.32192,1,Severe,0
+Odisha,1971-01-01,1971,1,1970,Winter (JF),0.63277,-1.0409,-0.23422,0,No drought,0
+Odisha,1971-02-01,1971,2,1970,Winter (JF),0.93384,-0.26532,-0.24428,0,No drought,0
+Odisha,1971-03-01,1971,3,1970,Pre-monsoon (MAM),-0.70257,-0.040163,-0.55213,0,No drought,0
+Odisha,1971-04-01,1971,4,1970,Pre-monsoon (MAM),1.804,1.1605,-0.18933,0,No drought,0
+Odisha,1971-05-01,1971,5,1970,Pre-monsoon (MAM),1.1193,1.3576,0.065257,0,No drought,0
+Odisha,1971-06-01,1971,6,1970,Monsoon (JJAS),1.3004,1.5522,0.09828,0,No drought,0
+Odisha,1971-07-01,1971,7,1970,Monsoon (JJAS),-0.56858,1.2315,0.053917,0,No drought,0
+Odisha,1971-08-01,1971,8,1970,Monsoon (JJAS),0.86606,1.0771,0.41218,0,No drought,0
+Odisha,1971-09-01,1971,9,1970,Monsoon (JJAS),-1.1641,0.34219,0.21604,1,Moderate,0
+Odisha,1971-10-01,1971,10,1970,Post-monsoon (OND),1.3177,0.35806,1.0123,0,No drought,0
+Odisha,1971-11-01,1971,11,1970,Post-monsoon (OND),-0.54142,0.53562,1.05,0,No drought,0
+Odisha,1971-12-01,1971,12,1970,Post-monsoon (OND),-0.19718,0.053909,1.0762,0,No drought,0
+Odisha,1972-01-01,1972,1,1970,Winter (JF),-1.0469,0.76686,0.99313,1,Moderate,0
+Odisha,1972-02-01,1972,2,1970,Winter (JF),0.5021,-0.77623,0.95297,0,No drought,0
+Odisha,1972-03-01,1972,3,1970,Pre-monsoon (MAM),-1.3903,-0.98074,0.91312,1,Moderate,0
+Odisha,1972-04-01,1972,4,1970,Pre-monsoon (MAM),-0.16041,-0.93424,0.56703,0,No drought,0
+Odisha,1972-05-01,1972,5,1970,Pre-monsoon (MAM),-2.3146,-1.7569,0.054176,1,Extreme,0
+Odisha,1972-06-01,1972,6,1970,Monsoon (JJAS),-1.1689,-2.1391,-0.96014,1,Moderate,0
+Odisha,1972-07-01,1972,7,1970,Monsoon (JJAS),-0.33303,-1.7104,-0.88224,0,No drought,0
+Odisha,1972-08-01,1972,8,1970,Monsoon (JJAS),-0.57421,-1.6474,-1.3236,0,No drought,0
+Odisha,1972-09-01,1972,9,1970,Monsoon (JJAS),1.0313,-0.45256,-0.59213,0,No drought,0
+Odisha,1972-10-01,1972,10,1970,Post-monsoon (OND),-0.25305,-0.11435,-1.3162,0,No drought,0
+Odisha,1972-11-01,1972,11,1970,Post-monsoon (OND),0.68021,0.1341,-1.1415,0,No drought,0
+Odisha,1972-12-01,1972,12,1970,Post-monsoon (OND),-0.13764,0.35134,-1.1398,0,No drought,0
+Odisha,1973-01-01,1973,1,1970,Winter (JF),-1.5714,-0.41787,-1.1297,1,Severe,0
+Odisha,1973-02-01,1973,2,1970,Winter (JF),-0.54598,-0.46231,-1.2474,0,No drought,0
+Odisha,1973-03-01,1973,3,1970,Pre-monsoon (MAM),0.71435,-0.43961,-1.026,0,No drought,0
+Odisha,1973-04-01,1973,4,1970,Pre-monsoon (MAM),-1.9819,-1.2577,-1.1939,1,Severe,0
+Odisha,1973-05-01,1973,5,1970,Pre-monsoon (MAM),-0.24909,-0.92495,-0.94468,0,No drought,0
+Odisha,1973-06-01,1973,6,1970,Monsoon (JJAS),-1.6535,-1.6423,-1.1372,1,Severe,0
+Odisha,1973-07-01,1973,7,1970,Monsoon (JJAS),1.3424,-0.42138,-0.37482,0,No drought,0
+Odisha,1973-08-01,1973,8,1970,Monsoon (JJAS),0.19672,0.014245,-0.086362,0,No drought,0
+Odisha,1973-09-01,1973,9,1970,Monsoon (JJAS),0.28645,0.19186,-0.35443,0,No drought,0
+Odisha,1973-10-01,1973,10,1970,Post-monsoon (OND),1.4976,1.5957,0.45639,0,No drought,0
+Odisha,1973-11-01,1973,11,1970,Post-monsoon (OND),0.234,0.99271,0.33246,0,No drought,0
+Odisha,1973-12-01,1973,12,1970,Post-monsoon (OND),0.77376,1.1293,0.42433,0,No drought,0
+Odisha,1974-01-01,1974,1,1970,Winter (JF),-0.65209,1.2373,0.45197,0,No drought,0
+Odisha,1974-02-01,1974,2,1970,Winter (JF),-0.7839,-0.53993,0.44365,0,No drought,0
+Odisha,1974-03-01,1974,3,1970,Pre-monsoon (MAM),-0.49912,-0.72308,0.33063,0,No drought,0
+Odisha,1974-04-01,1974,4,1970,Pre-monsoon (MAM),-1.123,-1.4731,0.40823,1,Moderate,0
+Odisha,1974-05-01,1974,5,1970,Pre-monsoon (MAM),-0.51188,-1.4339,0.35879,0,No drought,0
+Odisha,1974-06-01,1974,6,1970,Monsoon (JJAS),-1.1786,-1.5663,0.53698,1,Moderate,0
+Odisha,1974-07-01,1974,7,1970,Monsoon (JJAS),-1.7572,-2.482,-0.73567,1,Severe,0
+Odisha,1974-08-01,1974,8,1970,Monsoon (JJAS),-0.84033,-2.2895,-1.0049,0,No drought,0
+Odisha,1974-09-01,1974,9,1970,Monsoon (JJAS),-2.0482,-2.8797,-2.006,1,Extreme,0
+Odisha,1974-10-01,1974,10,1970,Post-monsoon (OND),0.072707,-2.1311,-2.6392,0,No drought,0
+Odisha,1974-11-01,1974,11,1970,Post-monsoon (OND),-0.329,-1.6166,-2.6845,0,No drought,0
+Odisha,1974-12-01,1974,12,1970,Post-monsoon (OND),-0.84476,-1.4748,-2.8045,0,No drought,0
+Odisha,1975-01-01,1975,1,1970,Winter (JF),-0.3078,-0.47288,-2.7691,0,No drought,0
+Odisha,1975-02-01,1975,2,1970,Winter (JF),0.53355,-0.56271,-2.6584,0,No drought,0
+Odisha,1975-03-01,1975,3,1970,Pre-monsoon (MAM),0.17883,-0.22278,-2.6406,0,No drought,0
+Odisha,1975-04-01,1975,4,1970,Pre-monsoon (MAM),-0.99466,-0.52629,-2.6191,0,No drought,0
+Odisha,1975-05-01,1975,5,1970,Pre-monsoon (MAM),-1.7942,-1.2886,-2.8344,1,Severe,0
+Odisha,1975-06-01,1975,6,1970,Monsoon (JJAS),-0.2196,-0.97416,-2.5687,0,No drought,0
+Odisha,1975-07-01,1975,7,1970,Monsoon (JJAS),-0.76087,-1.3432,-2.2749,0,No drought,0
+Odisha,1975-08-01,1975,8,1970,Monsoon (JJAS),0.70776,-0.4944,-1.3428,0,No drought,0
+Odisha,1975-09-01,1975,9,1970,Monsoon (JJAS),0.27318,-0.040643,-0.75868,0,No drought,0
+Odisha,1975-10-01,1975,10,1970,Post-monsoon (OND),0.78291,0.30578,-0.47727,0,No drought,0
+Odisha,1975-11-01,1975,11,1970,Post-monsoon (OND),0.11051,0.67055,-0.4567,0,No drought,0
+Odisha,1975-12-01,1975,12,1970,Post-monsoon (OND),-0.44771,0.33049,-0.44861,0,No drought,0
+Odisha,1976-01-01,1976,1,1970,Winter (JF),-0.35563,0.33123,-0.43653,0,No drought,0
+Odisha,1976-02-01,1976,2,1970,Winter (JF),-0.45106,-0.7461,-0.51474,0,No drought,0
+Odisha,1976-03-01,1976,3,1970,Pre-monsoon (MAM),-0.55409,-1.0108,-0.56761,0,No drought,0
+Odisha,1976-04-01,1976,4,1970,Pre-monsoon (MAM),-0.09069,-0.86674,-0.50229,0,No drought,0
+Odisha,1976-05-01,1976,5,1970,Pre-monsoon (MAM),-0.1798,-0.75756,-0.32915,0,No drought,0
+Odisha,1976-06-01,1976,6,1970,Monsoon (JJAS),-1.4051,-1.4519,-0.74958,1,Moderate,0
+Odisha,1976-07-01,1976,7,1970,Monsoon (JJAS),0.28586,-0.91997,-0.3509,0,No drought,0
+Odisha,1976-08-01,1976,8,1970,Monsoon (JJAS),0.4425,-0.54063,-0.51382,0,No drought,0
+Odisha,1976-09-01,1976,9,1970,Monsoon (JJAS),-1.2736,-1.0298,-1.0775,1,Moderate,0
+Odisha,1976-10-01,1976,10,1970,Post-monsoon (OND),-1.7203,-0.99058,-1.7722,1,Severe,0
+Odisha,1976-11-01,1976,11,1970,Post-monsoon (OND),0.61959,-1.1097,-1.6463,0,No drought,0
+Odisha,1976-12-01,1976,12,1970,Post-monsoon (OND),-1.2779,-1.6284,-1.6558,1,Moderate,0
+Odisha,1977-01-01,1977,1,1970,Winter (JF),-1.1201,-1.5438,-1.6529,1,Moderate,0
+Odisha,1977-02-01,1977,2,1970,Winter (JF),-0.95089,-0.67628,-1.6938,0,No drought,0
+Odisha,1977-03-01,1977,3,1970,Pre-monsoon (MAM),-0.97904,-1.7908,-1.7243,0,No drought,0
+Odisha,1977-04-01,1977,4,1970,Pre-monsoon (MAM),1.1817,-0.39122,-1.5129,0,No drought,0
+Odisha,1977-05-01,1977,5,1970,Pre-monsoon (MAM),1.5253,0.88945,-1.1379,0,No drought,0
+Odisha,1977-06-01,1977,6,1970,Monsoon (JJAS),-0.36394,0.49522,-0.77207,0,No drought,0
+Odisha,1977-07-01,1977,7,1970,Monsoon (JJAS),0.10225,0.55658,-0.82036,0,No drought,0
+Odisha,1977-08-01,1977,8,1970,Monsoon (JJAS),-0.22094,0.036059,-0.96229,0,No drought,0
+Odisha,1977-09-01,1977,9,1970,Monsoon (JJAS),0.16756,-0.34702,-0.60432,0,No drought,0
+Odisha,1977-10-01,1977,10,1970,Post-monsoon (OND),-1.0374,-0.59941,-0.41179,1,Moderate,0
+Odisha,1977-11-01,1977,11,1970,Post-monsoon (OND),1.832,-0.014968,-0.067347,0,No drought,0
+Odisha,1977-12-01,1977,12,1970,Post-monsoon (OND),0.64674,0.19799,0.0016399,0,No drought,0
+Odisha,1978-01-01,1978,1,1970,Winter (JF),-0.00013367,0.13518,0.053494,0,No drought,0
+Odisha,1978-02-01,1978,2,1970,Winter (JF),1.1704,1.5803,0.27891,0,No drought,0
+Odisha,1978-03-01,1978,3,1970,Pre-monsoon (MAM),1.4849,1.2296,0.5699,0,No drought,0
+Odisha,1978-04-01,1978,4,1970,Pre-monsoon (MAM),0.14307,1.1041,0.39305,0,No drought,0
+Odisha,1978-05-01,1978,5,1970,Pre-monsoon (MAM),-0.92334,0.62122,-0.089433,0,No drought,0
+Odisha,1978-06-01,1978,6,1970,Monsoon (JJAS),-0.22743,-0.086751,-0.073572,0,No drought,0
+Odisha,1978-07-01,1978,7,1970,Monsoon (JJAS),0.0056504,-0.52492,-0.14312,0,No drought,0
+Odisha,1978-08-01,1978,8,1970,Monsoon (JJAS),1.3377,0.33232,0.47202,0,No drought,0
+Odisha,1978-09-01,1978,9,1970,Monsoon (JJAS),-0.58272,0.25809,0.31052,0,No drought,0
+Odisha,1978-10-01,1978,10,1970,Post-monsoon (OND),-0.38499,0.15393,0.4792,0,No drought,0
+Odisha,1978-11-01,1978,11,1970,Post-monsoon (OND),0.41487,0.25187,0.036999,0,No drought,0
+Odisha,1978-12-01,1978,12,1970,Post-monsoon (OND),1.0591,-0.5514,0.061532,0,No drought,0
+Odisha,1979-01-01,1979,1,1970,Winter (JF),-0.22548,-0.34338,0.066368,0,No drought,0
+Odisha,1979-02-01,1979,2,1970,Winter (JF),0.67363,0.33215,-0.034507,0,No drought,0
+Odisha,1979-03-01,1979,3,1970,Pre-monsoon (MAM),-0.84194,-0.10812,-0.33073,0,No drought,0
+Odisha,1979-04-01,1979,4,1970,Pre-monsoon (MAM),-0.92185,-0.81741,-0.42871,0,No drought,0
+Odisha,1979-05-01,1979,5,1970,Pre-monsoon (MAM),-1.5102,-1.4866,-0.5532,1,Severe,0
+Odisha,1979-06-01,1979,6,1970,Monsoon (JJAS),-0.23291,-1.1571,-0.5638,0,No drought,0
+Odisha,1979-07-01,1979,7,1970,Monsoon (JJAS),-1.466,-1.7889,-1.0927,1,Moderate,0
+Odisha,1979-08-01,1979,8,1970,Monsoon (JJAS),-1.364,-2.0306,-2.0868,1,Moderate,0
+Odisha,1979-09-01,1979,9,1970,Monsoon (JJAS),-1.198,-2.1736,-2.5092,1,Moderate,0
+Odisha,1979-10-01,1979,10,1970,Post-monsoon (OND),-1.0534,-2.4852,-2.5545,1,Moderate,0
+Odisha,1979-11-01,1979,11,1970,Post-monsoon (OND),-0.91063,-2.2351,-2.6761,0,No drought,0
+Odisha,1979-12-01,1979,12,1970,Post-monsoon (OND),0.33587,-1.6925,-2.7222,0,No drought,0
+Odisha,1980-01-01,1980,1,1980,Winter (JF),-0.44022,-1.382,-2.703,0,No drought,0
+Odisha,1980-02-01,1980,2,1980,Winter (JF),-0.75848,-1.1425,-2.7926,0,No drought,0
+Odisha,1980-03-01,1980,3,1980,Pre-monsoon (MAM),0.40674,-0.38142,-2.649,0,No drought,0
+Odisha,1980-04-01,1980,4,1980,Pre-monsoon (MAM),-0.83763,-0.77619,-2.6624,0,No drought,0
+Odisha,1980-05-01,1980,5,1980,Pre-monsoon (MAM),-0.54217,-0.90468,-2.6137,0,No drought,0
+Odisha,1980-06-01,1980,6,1980,Monsoon (JJAS),1.547,0.95895,-1.9183,0,No drought,0
+Odisha,1980-07-01,1980,7,1980,Monsoon (JJAS),0.49248,0.96896,-1.1594,0,No drought,0
+Odisha,1980-08-01,1980,8,1980,Monsoon (JJAS),-1.4884,0.2151,-1.0639,1,Moderate,0
+Odisha,1980-09-01,1980,9,1980,Monsoon (JJAS),0.9098,0.74346,-0.3779,0,No drought,0
+Odisha,1980-10-01,1980,10,1980,Post-monsoon (OND),-0.53497,-0.42614,-0.1324,0,No drought,0
+Odisha,1980-11-01,1980,11,1980,Post-monsoon (OND),-1.0777,-0.92939,-0.18133,1,Moderate,0
+Odisha,1980-12-01,1980,12,1980,Post-monsoon (OND),0.67967,0.0368,-0.1535,0,No drought,0
+Odisha,1981-01-01,1981,1,1980,Winter (JF),1.2666,-0.40538,0.043691,0,No drought,0
+Odisha,1981-02-01,1981,2,1980,Winter (JF),-0.30067,0.0020098,0.093278,0,No drought,0
+Odisha,1981-03-01,1981,3,1980,Pre-monsoon (MAM),1.7071,1.3199,0.37172,0,No drought,0
+Odisha,1981-04-01,1981,4,1980,Pre-monsoon (MAM),0.59598,1.4099,0.52667,0,No drought,0
+Odisha,1981-05-01,1981,5,1980,Pre-monsoon (MAM),1.0987,1.3875,0.81745,0,No drought,0
+Odisha,1981-06-01,1981,6,1980,Monsoon (JJAS),-0.32293,0.79589,-0.0027201,0,No drought,0
+Odisha,1981-07-01,1981,7,1980,Monsoon (JJAS),-1.203,-0.61441,-0.6217,1,Moderate,0
+Odisha,1981-08-01,1981,8,1980,Monsoon (JJAS),0.37534,-0.38221,0.070822,0,No drought,0
+Odisha,1981-09-01,1981,9,1980,Monsoon (JJAS),0.52465,-0.44755,-0.096197,0,No drought,0
+Odisha,1981-10-01,1981,10,1980,Post-monsoon (OND),-1.5789,-0.98636,-0.40543,1,Severe,0
+Odisha,1981-11-01,1981,11,1980,Post-monsoon (OND),-0.95413,-0.6635,-0.42297,0,No drought,0
+Odisha,1981-12-01,1981,12,1980,Post-monsoon (OND),0.92527,-0.82504,-0.39048,0,No drought,0
+Odisha,1982-01-01,1982,1,1980,Winter (JF),-0.028393,-1.6145,-0.53067,0,No drought,0
+Odisha,1982-02-01,1982,2,1980,Winter (JF),1.1753,0.12162,-0.37471,0,No drought,0
+Odisha,1982-03-01,1982,3,1980,Pre-monsoon (MAM),2.0545,1.7011,-0.28862,0,No drought,0
+Odisha,1982-04-01,1982,4,1980,Pre-monsoon (MAM),0.75165,1.7742,-0.27819,0,No drought,0
+Odisha,1982-05-01,1982,5,1980,Pre-monsoon (MAM),-0.29804,1.4564,-0.62111,0,No drought,0
+Odisha,1982-06-01,1982,6,1980,Monsoon (JJAS),-0.059053,0.6928,-0.53277,0,No drought,0
+Odisha,1982-07-01,1982,7,1980,Monsoon (JJAS),-1.8245,-1.3209,-0.77557,1,Severe,0
+Odisha,1982-08-01,1982,8,1980,Monsoon (JJAS),1.4852,-0.19958,-0.11163,0,No drought,0
+Odisha,1982-09-01,1982,9,1980,Monsoon (JJAS),-2.135,-0.95252,-0.97795,1,Extreme,0
+Odisha,1982-10-01,1982,10,1980,Post-monsoon (OND),-1.3317,-1.4209,-0.82152,1,Moderate,0
+Odisha,1982-11-01,1982,11,1980,Post-monsoon (OND),-0.45064,-0.77821,-0.80991,0,No drought,0
+Odisha,1982-12-01,1982,12,1980,Post-monsoon (OND),-1.5384,-2.3792,-0.92217,1,Severe,0
+Odisha,1983-01-01,1983,1,1980,Winter (JF),-0.46388,-1.7148,-0.91956,0,No drought,0
+Odisha,1983-02-01,1983,2,1980,Winter (JF),1.6784,0.25298,-0.78664,0,No drought,0
+Odisha,1983-03-01,1983,3,1980,Pre-monsoon (MAM),0.21943,0.60294,-1.2326,0,No drought,0
+Odisha,1983-04-01,1983,4,1980,Pre-monsoon (MAM),0.8884,1.0107,-1.2463,0,No drought,0
+Odisha,1983-05-01,1983,5,1980,Pre-monsoon (MAM),0.46633,1.1172,-1.1551,0,No drought,0
+Odisha,1983-06-01,1983,6,1980,Monsoon (JJAS),-0.74961,-0.28779,-1.4617,0,No drought,0
+Odisha,1983-07-01,1983,7,1980,Monsoon (JJAS),-1.0391,-1.0016,-1.1813,1,Moderate,0
+Odisha,1983-08-01,1983,8,1980,Monsoon (JJAS),0.45962,-0.74138,-1.593,0,No drought,0
+Odisha,1983-09-01,1983,9,1980,Monsoon (JJAS),1.3045,-0.067018,-0.4773,0,No drought,0
+Odisha,1983-10-01,1983,10,1980,Post-monsoon (OND),0.21702,0.26368,-0.034216,0,No drought,0
+Odisha,1983-11-01,1983,11,1980,Post-monsoon (OND),-0.55525,0.67184,-0.05989,0,No drought,0
+Odisha,1983-12-01,1983,12,1980,Post-monsoon (OND),0.42538,0.62722,-0.00878,0,No drought,0
+Odisha,1984-01-01,1984,1,1980,Winter (JF),0.90396,-0.057247,0.087563,0,No drought,0
+Odisha,1984-02-01,1984,2,1980,Winter (JF),0.38248,-0.16011,-0.17052,0,No drought,0
+Odisha,1984-03-01,1984,3,1980,Pre-monsoon (MAM),-1.1886,-0.24057,-0.2948,1,Moderate,0
+Odisha,1984-04-01,1984,4,1980,Pre-monsoon (MAM),0.79266,0.15513,-0.275,0,No drought,0
+Odisha,1984-05-01,1984,5,1980,Pre-monsoon (MAM),-1.2459,-0.71869,-0.53011,1,Moderate,0
+Odisha,1984-06-01,1984,6,1980,Monsoon (JJAS),1.403,0.77966,0.46679,0,No drought,0
+Odisha,1984-07-01,1984,7,1980,Monsoon (JJAS),0.29702,0.93611,0.93535,0,No drought,0
+Odisha,1984-08-01,1984,8,1980,Monsoon (JJAS),0.74987,1.0355,1.0045,0,No drought,0
+Odisha,1984-09-01,1984,9,1980,Monsoon (JJAS),-1.8806,0.51962,-0.0011919,1,Severe,0
+Odisha,1984-10-01,1984,10,1980,Post-monsoon (OND),-0.66624,-0.6972,-0.3267,0,No drought,0
+Odisha,1984-11-01,1984,11,1980,Post-monsoon (OND),-1.4354,-1.1222,-0.39233,1,Moderate,0
+Odisha,1984-12-01,1984,12,1980,Post-monsoon (OND),-1.99,-2.0279,-0.44415,1,Severe,0
+Odisha,1985-01-01,1985,1,1980,Winter (JF),1.412,-0.83749,-0.3416,0,No drought,0
+Odisha,1985-02-01,1985,2,1980,Winter (JF),0.8024,0.075386,-0.22717,0,No drought,0
+Odisha,1985-03-01,1985,3,1980,Pre-monsoon (MAM),-1.5282,0.16969,-0.23428,1,Severe,0
+Odisha,1985-04-01,1985,4,1980,Pre-monsoon (MAM),-1.1423,-0.14363,-0.47546,1,Moderate,0
+Odisha,1985-05-01,1985,5,1980,Pre-monsoon (MAM),-0.079897,-0.82235,-0.34266,0,No drought,0
+Odisha,1985-06-01,1985,6,1980,Monsoon (JJAS),-0.057724,-0.7545,-1.0828,0,No drought,0
+Odisha,1985-07-01,1985,7,1980,Monsoon (JJAS),-0.48724,-0.80945,-1.4319,0,No drought,0
+Odisha,1985-08-01,1985,8,1980,Monsoon (JJAS),1.1219,0.18727,-1.0989,0,No drought,0
+Odisha,1985-09-01,1985,9,1980,Monsoon (JJAS),1.3446,0.91976,-0.028349,0,No drought,0
+Odisha,1985-10-01,1985,10,1980,Post-monsoon (OND),0.94041,1.3139,0.62611,0,No drought,0
+Odisha,1985-11-01,1985,11,1980,Post-monsoon (OND),-0.90249,1.461,0.65671,0,No drought,0
+Odisha,1985-12-01,1985,12,1980,Post-monsoon (OND),-0.82368,1.0273,0.67401,0,No drought,0
+Odisha,1986-01-01,1986,1,1980,Winter (JF),1.2872,0.65844,0.65102,0,No drought,0
+Odisha,1986-02-01,1986,2,1980,Winter (JF),1.3636,0.43813,0.72793,0,No drought,0
+Odisha,1986-03-01,1986,3,1980,Pre-monsoon (MAM),0.0459,0.79773,0.8023,0,No drought,0
+Odisha,1986-04-01,1986,4,1980,Pre-monsoon (MAM),0.58609,1.0353,0.96551,0,No drought,0
+Odisha,1986-05-01,1986,5,1980,Pre-monsoon (MAM),0.47437,0.8001,1.0839,0,No drought,0
+Odisha,1986-06-01,1986,6,1980,Monsoon (JJAS),1.1903,1.0502,1.6079,0,No drought,0
+Odisha,1986-07-01,1986,7,1980,Monsoon (JJAS),0.30223,1.0465,1.788,0,No drought,0
+Odisha,1986-08-01,1986,8,1980,Monsoon (JJAS),-0.75055,0.49963,1.1265,0,No drought,0
+Odisha,1986-09-01,1986,9,1980,Monsoon (JJAS),-1.0579,-0.018163,0.43111,1,Moderate,0
+Odisha,1986-10-01,1986,10,1980,Post-monsoon (OND),0.45187,-0.60118,0.12993,0,No drought,0
+Odisha,1986-11-01,1986,11,1980,Post-monsoon (OND),1.4215,-0.40097,0.55484,0,No drought,0
+Odisha,1986-12-01,1986,12,1980,Post-monsoon (OND),1.4989,0.16329,0.69211,0,No drought,0
+Odisha,1987-01-01,1987,1,1980,Winter (JF),0.50426,1.0175,0.61747,0,No drought,0
+Odisha,1987-02-01,1987,2,1980,Winter (JF),-0.48103,1.1757,0.39298,0,No drought,0
+Odisha,1987-03-01,1987,3,1980,Pre-monsoon (MAM),0.3493,0.35894,0.42735,0,No drought,0
+Odisha,1987-04-01,1987,4,1980,Pre-monsoon (MAM),-0.14873,-0.26428,0.35534,0,No drought,0
+Odisha,1987-05-01,1987,5,1980,Pre-monsoon (MAM),0.016211,-0.4016,0.26333,0,No drought,0
+Odisha,1987-06-01,1987,6,1980,Monsoon (JJAS),-1.5538,-1.3328,-0.91082,1,Severe,0
+Odisha,1987-07-01,1987,7,1980,Monsoon (JJAS),0.031111,-1.1173,-0.94799,0,No drought,0
+Odisha,1987-08-01,1987,8,1980,Monsoon (JJAS),-2.0974,-2.0574,-1.2914,1,Extreme,0
+Odisha,1987-09-01,1987,9,1980,Monsoon (JJAS),-1.3567,-2.5587,-1.5946,1,Moderate,0
+Odisha,1987-10-01,1987,10,1980,Post-monsoon (OND),-0.22516,-1.8159,-1.7723,0,No drought,0
+Odisha,1987-11-01,1987,11,1980,Post-monsoon (OND),1.9534,-1.3486,-1.6348,0,No drought,0
+Odisha,1987-12-01,1987,12,1980,Post-monsoon (OND),0.26633,-0.2017,-1.7508,0,No drought,0
+Odisha,1988-01-01,1988,1,1980,Winter (JF),-0.74714,0.49975,-1.8023,0,No drought,0
+Odisha,1988-02-01,1988,2,1980,Winter (JF),1.1559,1.6494,-1.5641,0,No drought,0
+Odisha,1988-03-01,1988,3,1980,Pre-monsoon (MAM),0.52199,0.51114,-1.5343,0,No drought,0
+Odisha,1988-04-01,1988,4,1980,Pre-monsoon (MAM),0.95857,0.84258,-1.4019,0,No drought,0
+Odisha,1988-05-01,1988,5,1980,Pre-monsoon (MAM),-0.096608,0.79157,-1.4295,0,No drought,0
+Odisha,1988-06-01,1988,6,1980,Monsoon (JJAS),0.65419,0.64946,-0.56818,0,No drought,0
+Odisha,1988-07-01,1988,7,1980,Monsoon (JJAS),-0.73524,0.045578,-0.94656,0,No drought,0
+Odisha,1988-08-01,1988,8,1980,Monsoon (JJAS),-0.88211,-0.5972,-0.41114,0,No drought,0
+Odisha,1988-09-01,1988,9,1980,Monsoon (JJAS),0.30665,-0.34084,0.062669,0,No drought,0
+Odisha,1988-10-01,1988,10,1980,Post-monsoon (OND),-0.74354,-1.1388,-0.083891,0,No drought,0
+Odisha,1988-11-01,1988,11,1980,Post-monsoon (OND),-0.95122,-1.0998,-0.72612,0,No drought,0
+Odisha,1988-12-01,1988,12,1980,Post-monsoon (OND),-0.50231,-0.74861,-0.74723,0,No drought,0
+Odisha,1989-01-01,1989,1,1980,Winter (JF),-1.0833,-1.3947,-0.73563,1,Moderate,0
+Odisha,1989-02-01,1989,2,1980,Winter (JF),-1.6627,-2.0532,-1.0283,1,Severe,0
+Odisha,1989-03-01,1989,3,1980,Pre-monsoon (MAM),-0.15147,-1.4643,-1.0823,0,No drought,0
+Odisha,1989-04-01,1989,4,1980,Pre-monsoon (MAM),-1.8569,-2.1145,-1.425,1,Severe,0
+Odisha,1989-05-01,1989,5,1980,Pre-monsoon (MAM),-0.0037696,-1.3284,-1.3657,0,No drought,0
+Odisha,1989-06-01,1989,6,1980,Monsoon (JJAS),1.6985,1.0374,-0.86053,0,No drought,0
+Odisha,1989-07-01,1989,7,1980,Monsoon (JJAS),-0.64255,0.54828,-0.81609,0,No drought,0
+Odisha,1989-08-01,1989,8,1980,Monsoon (JJAS),0.40762,0.83934,-0.28465,0,No drought,0
+Odisha,1989-09-01,1989,9,1980,Monsoon (JJAS),-0.59316,0.49227,-0.69546,0,No drought,0
+Odisha,1989-10-01,1989,10,1980,Post-monsoon (OND),-1.3443,-1.206,-0.84603,1,Moderate,0
+Odisha,1989-11-01,1989,11,1980,Post-monsoon (OND),-1.7617,-1.1952,-0.90269,1,Severe,0
+Odisha,1989-12-01,1989,12,1980,Post-monsoon (OND),0.43579,-1.5096,-0.87324,0,No drought,0
+Odisha,1990-01-01,1990,1,1990,Winter (JF),-2.3908,-1.939,-0.88232,1,Extreme,0
+Odisha,1990-02-01,1990,2,1990,Winter (JF),1.2534,-0.47978,-0.54065,0,No drought,0
+Odisha,1990-03-01,1990,3,1990,Pre-monsoon (MAM),2.0772,1.4829,-0.025806,0,No drought,0
+Odisha,1990-04-01,1990,4,1990,Pre-monsoon (MAM),0.91777,1.6805,0.28605,0,No drought,0
+Odisha,1990-05-01,1990,5,1990,Pre-monsoon (MAM),2.2668,2.6829,1.0486,0,No drought,0
+Odisha,1990-06-01,1990,6,1990,Monsoon (JJAS),0.81259,2.3024,0.60983,0,No drought,0
+Odisha,1990-07-01,1990,7,1990,Monsoon (JJAS),-0.64472,1.4348,0.67785,0,No drought,0
+Odisha,1990-08-01,1990,8,1990,Monsoon (JJAS),0.31744,1.1547,0.58522,0,No drought,0
+Odisha,1990-09-01,1990,9,1990,Monsoon (JJAS),0.45081,0.3084,0.97076,0,No drought,0
+Odisha,1990-10-01,1990,10,1990,Post-monsoon (OND),1.6672,0.93073,1.902,0,No drought,0
+Odisha,1990-11-01,1990,11,1990,Post-monsoon (OND),1.832,1.8611,2.45,0,No drought,0
+Odisha,1990-12-01,1990,12,1990,Post-monsoon (OND),-0.12943,1.8885,2.4493,0,No drought,0
+Odisha,1991-01-01,1991,1,1990,Winter (JF),1.0143,2.1235,2.5446,0,No drought,0
+Odisha,1991-02-01,1991,2,1990,Winter (JF),-1.3362,1.2801,2.3865,1,Moderate,0
+Odisha,1991-03-01,1991,3,1990,Pre-monsoon (MAM),0.43251,-0.11564,2.0833,0,No drought,0
+Odisha,1991-04-01,1991,4,1990,Pre-monsoon (MAM),0.0087104,-0.11589,1.9931,0,No drought,0
+Odisha,1991-05-01,1991,5,1990,Pre-monsoon (MAM),-1.0971,-1.0987,1.2343,1,Moderate,0
+Odisha,1991-06-01,1991,6,1990,Monsoon (JJAS),-0.40125,-0.74444,0.80267,0,No drought,0
+Odisha,1991-07-01,1991,7,1990,Monsoon (JJAS),1.3362,0.31861,1.4437,0,No drought,0
+Odisha,1991-08-01,1991,8,1990,Monsoon (JJAS),1.0597,0.81817,1.6335,0,No drought,0
+Odisha,1991-09-01,1991,9,1990,Monsoon (JJAS),-0.84771,0.71054,1.3857,0,No drought,0
+Odisha,1991-10-01,1991,10,1990,Post-monsoon (OND),-0.20177,0.66818,0.5051,0,No drought,0
+Odisha,1991-11-01,1991,11,1990,Post-monsoon (OND),0.79169,0.054763,0.057331,0,No drought,0
+Odisha,1991-12-01,1991,12,1990,Post-monsoon (OND),0.64913,-0.64855,0.10393,0,No drought,0
+Odisha,1992-01-01,1992,1,1990,Winter (JF),-0.31758,-0.15,0.0096558,0,No drought,0
+Odisha,1992-02-01,1992,2,1990,Winter (JF),0.26833,0.29348,0.13312,0,No drought,0
+Odisha,1992-03-01,1992,3,1990,Pre-monsoon (MAM),-1.6682,-0.69721,-0.012027,1,Severe,0
+Odisha,1992-04-01,1992,4,1990,Pre-monsoon (MAM),-0.899,-1.2708,-0.11815,0,No drought,0
+Odisha,1992-05-01,1992,5,1990,Pre-monsoon (MAM),0.18574,-0.84961,0.085046,0,No drought,0
+Odisha,1992-06-01,1992,6,1990,Monsoon (JJAS),-0.16925,-0.6179,0.15602,0,No drought,0
+Odisha,1992-07-01,1992,7,1990,Monsoon (JJAS),0.9872,0.32636,-0.041597,0,No drought,0
+Odisha,1992-08-01,1992,8,1990,Monsoon (JJAS),0.83312,0.79742,-0.12849,0,No drought,0
+Odisha,1992-09-01,1992,9,1990,Monsoon (JJAS),-0.74024,0.4206,-0.10548,0,No drought,0
+Odisha,1992-10-01,1992,10,1990,Post-monsoon (OND),-0.93424,0.15481,-0.22588,0,No drought,0
+Odisha,1992-11-01,1992,11,1990,Post-monsoon (OND),-0.47449,-0.48758,-0.38887,0,No drought,0
+Odisha,1992-12-01,1992,12,1990,Post-monsoon (OND),-2.0756,-1.2897,-0.47146,1,Extreme,0
+Odisha,1993-01-01,1993,1,1990,Winter (JF),-1.7442,-1.5344,-0.50524,1,Severe,0
+Odisha,1993-02-01,1993,2,1990,Winter (JF),-0.909,-1.7907,-0.61357,0,No drought,0
+Odisha,1993-03-01,1993,3,1990,Pre-monsoon (MAM),-0.25867,-1.6829,-0.53324,0,No drought,0
+Odisha,1993-04-01,1993,4,1990,Pre-monsoon (MAM),0.70946,-0.62404,-0.33335,0,No drought,0
+Odisha,1993-05-01,1993,5,1990,Pre-monsoon (MAM),0.47359,0.011571,-0.34207,0,No drought,0
+Odisha,1993-06-01,1993,6,1990,Monsoon (JJAS),0.49462,0.51605,-0.060533,0,No drought,0
+Odisha,1993-07-01,1993,7,1990,Monsoon (JJAS),-0.12419,0.41614,-0.53327,0,No drought,0
+Odisha,1993-08-01,1993,8,1990,Monsoon (JJAS),-0.63096,-0.15552,-1.0261,0,No drought,0
+Odisha,1993-09-01,1993,9,1990,Monsoon (JJAS),0.81059,0.04221,-0.58187,0,No drought,0
+Odisha,1993-10-01,1993,10,1990,Post-monsoon (OND),-0.2626,-0.38658,-0.47618,0,No drought,0
+Odisha,1993-11-01,1993,11,1990,Post-monsoon (OND),-1.1364,-0.47226,-0.56037,1,Moderate,0
+Odisha,1993-12-01,1993,12,1990,Post-monsoon (OND),-0.86057,-0.071744,-0.54027,0,No drought,0
+Odisha,1994-01-01,1994,1,1990,Winter (JF),-1.4382,-1.0343,-0.51602,1,Moderate,0
+Odisha,1994-02-01,1994,2,1990,Winter (JF),0.89818,-0.81373,-0.34084,0,No drought,0
+Odisha,1994-03-01,1994,3,1990,Pre-monsoon (MAM),-1.6402,-0.87372,-0.41489,1,Severe,0
+Odisha,1994-04-01,1994,4,1990,Pre-monsoon (MAM),1.0126,-0.060763,-0.3904,0,No drought,0
+Odisha,1994-05-01,1994,5,1990,Pre-monsoon (MAM),-0.5606,-0.18146,-0.60217,0,No drought,0
+Odisha,1994-06-01,1994,6,1990,Monsoon (JJAS),1.1151,0.73153,-0.17689,0,No drought,0
+Odisha,1994-07-01,1994,7,1990,Monsoon (JJAS),1.5181,1.5556,0.52364,0,No drought,0
+Odisha,1994-08-01,1994,8,1990,Monsoon (JJAS),1.2792,1.8361,1.1613,0,No drought,0
+Odisha,1994-09-01,1994,9,1990,Monsoon (JJAS),0.59292,2.1942,1.2234,0,No drought,0
+Odisha,1994-10-01,1994,10,1990,Post-monsoon (OND),-0.48175,1.3076,1.1256,0,No drought,0
+Odisha,1994-11-01,1994,11,1990,Post-monsoon (OND),-0.042213,0.56762,1.2036,0,No drought,0
+Odisha,1994-12-01,1994,12,1990,Post-monsoon (OND),-1.0501,-0.25591,1.2058,1,Moderate,0
+Odisha,1995-01-01,1995,1,1990,Winter (JF),1.9831,-0.037863,1.5084,0,No drought,0
+Odisha,1995-02-01,1995,2,1990,Winter (JF),0.36445,0.74103,1.4538,0,No drought,0
+Odisha,1995-03-01,1995,3,1990,Pre-monsoon (MAM),0.48597,0.99717,1.5606,0,No drought,0
+Odisha,1995-04-01,1995,4,1990,Pre-monsoon (MAM),-0.77701,0.73697,1.3608,0,No drought,0
+Odisha,1995-05-01,1995,5,1990,Pre-monsoon (MAM),2.7276,2.1825,2.6894,0,No drought,0
+Odisha,1995-06-01,1995,6,1990,Monsoon (JJAS),-1.4695,1.0986,1.9235,1,Moderate,0
+Odisha,1995-07-01,1995,7,1990,Monsoon (JJAS),-0.17154,1.069,1.2796,0,No drought,0
+Odisha,1995-08-01,1995,8,1990,Monsoon (JJAS),-0.33419,0.92069,0.61752,0,No drought,0
+Odisha,1995-09-01,1995,9,1990,Monsoon (JJAS),-0.28549,-1.2861,0.41085,0,No drought,0
+Odisha,1995-10-01,1995,10,1990,Post-monsoon (OND),0.70025,-0.1289,0.8015,0,No drought,0
+Odisha,1995-11-01,1995,11,1990,Post-monsoon (OND),1.782,0.54628,1.2741,0,No drought,0
+Odisha,1995-12-01,1995,12,1990,Post-monsoon (OND),-0.80177,0.77096,1.2871,0,No drought,0
+Odisha,1996-01-01,1996,1,1990,Winter (JF),0.6993,1.2733,1.0769,0,No drought,0
+Odisha,1996-02-01,1996,2,1990,Winter (JF),-0.15857,1.243,1.043,0,No drought,0
+Odisha,1996-03-01,1996,3,1990,Pre-monsoon (MAM),0.16431,-0.12098,1.0533,0,No drought,0
+Odisha,1996-04-01,1996,4,1990,Pre-monsoon (MAM),0.21655,0.076571,1.1485,0,No drought,0
+Odisha,1996-05-01,1996,5,1990,Pre-monsoon (MAM),-1.0218,-0.7,-0.48814,1,Moderate,0
+Odisha,1996-06-01,1996,6,1990,Monsoon (JJAS),0.4147,-0.032552,0.23917,0,No drought,0
+Odisha,1996-07-01,1996,7,1990,Monsoon (JJAS),-1.2638,-0.85526,-0.14202,1,Moderate,0
+Odisha,1996-08-01,1996,8,1990,Monsoon (JJAS),-0.25807,-0.91251,-0.078333,0,No drought,0
+Odisha,1996-09-01,1996,9,1990,Monsoon (JJAS),-2.325,-1.6321,-0.73357,1,Extreme,0
+Odisha,1996-10-01,1996,10,1990,Post-monsoon (OND),-0.76695,-2.1309,-1.3678,0,No drought,0
+Odisha,1996-11-01,1996,11,1990,Post-monsoon (OND),-0.96987,-1.9429,-1.99,0,No drought,0
+Odisha,1996-12-01,1996,12,1990,Post-monsoon (OND),-0.4088,-2.1597,-1.9755,0,No drought,0
+Odisha,1997-01-01,1997,1,1990,Winter (JF),0.67844,-1.0831,-1.9726,0,No drought,0
+Odisha,1997-02-01,1997,2,1990,Winter (JF),-0.50408,-0.88198,-2.0022,0,No drought,0
+Odisha,1997-03-01,1997,3,1990,Pre-monsoon (MAM),0.52462,-0.070404,-1.9737,0,No drought,0
+Odisha,1997-04-01,1997,4,1990,Pre-monsoon (MAM),1.7011,0.9289,-1.6824,0,No drought,0
+Odisha,1997-05-01,1997,5,1990,Pre-monsoon (MAM),-0.99234,0.19921,-1.7178,0,No drought,0
+Odisha,1997-06-01,1997,6,1990,Monsoon (JJAS),-0.16004,0.093179,-1.9965,0,No drought,0
+Odisha,1997-07-01,1997,7,1990,Monsoon (JJAS),-0.64104,-0.45041,-1.8356,0,No drought,0
+Odisha,1997-08-01,1997,8,1990,Monsoon (JJAS),1.2626,0.027187,-0.88414,0,No drought,0
+Odisha,1997-09-01,1997,9,1990,Monsoon (JJAS),0.12353,0.27145,-0.2773,0,No drought,0
+Odisha,1997-10-01,1997,10,1990,Post-monsoon (OND),-1.2443,-0.25462,-0.42795,1,Moderate,0
+Odisha,1997-11-01,1997,11,1990,Post-monsoon (OND),0.76216,0.16087,-0.28974,0,No drought,0
+Odisha,1997-12-01,1997,12,1990,Post-monsoon (OND),2.6973,0.26702,0.32573,0,No drought,0
+Odisha,1998-01-01,1998,1,1990,Winter (JF),1.3398,0.73167,0.45581,0,No drought,0
+Odisha,1998-02-01,1998,2,1990,Winter (JF),1.1165,2.1851,0.65185,0,No drought,0
+Odisha,1998-03-01,1998,3,1990,Pre-monsoon (MAM),1.6728,2.4711,0.84942,0,No drought,0
+Odisha,1998-04-01,1998,4,1990,Pre-monsoon (MAM),0.70328,1.7998,0.68256,0,No drought,0
+Odisha,1998-05-01,1998,5,1990,Pre-monsoon (MAM),-0.15724,1.0903,0.80597,0,No drought,0
+Odisha,1998-06-01,1998,6,1990,Monsoon (JJAS),-0.29979,0.32306,0.77453,0,No drought,0
+Odisha,1998-07-01,1998,7,1990,Monsoon (JJAS),-0.8606,-0.79137,0.70439,0,No drought,0
+Odisha,1998-08-01,1998,8,1990,Monsoon (JJAS),-2.1299,-1.9472,-0.61999,1,Extreme,0
+Odisha,1998-09-01,1998,9,1990,Monsoon (JJAS),0.42669,-1.6548,-0.56475,0,No drought,0
+Odisha,1998-10-01,1998,10,1990,Post-monsoon (OND),0.66492,-1.1564,0.0561,0,No drought,0
+Odisha,1998-11-01,1998,11,1990,Post-monsoon (OND),1.7501,-0.29738,0.35292,0,No drought,0
+Odisha,1998-12-01,1998,12,1990,Post-monsoon (OND),-1.6794,0.84463,-0.28529,1,Severe,0
+Odisha,1999-01-01,1999,1,1990,Winter (JF),-1.187,0.84784,-0.513,1,Moderate,0
+Odisha,1999-02-01,1999,2,1990,Winter (JF),-1.2624,0.37608,-0.76086,1,Moderate,0
+Odisha,1999-03-01,1999,3,1990,Pre-monsoon (MAM),-1.7178,-2.3867,-1.1843,1,Severe,0
+Odisha,1999-04-01,1999,4,1990,Pre-monsoon (MAM),-2.3655,-2.9059,-1.5227,1,Extreme,0
+Odisha,1999-05-01,1999,5,1990,Pre-monsoon (MAM),1.9435,0.23032,-0.82825,0,No drought,0
+Odisha,1999-06-01,1999,6,1990,Monsoon (JJAS),0.58596,0.69718,-0.45679,0,No drought,0
+Odisha,1999-07-01,1999,7,1990,Monsoon (JJAS),-1.329,0.026319,-0.61529,1,Moderate,0
+Odisha,1999-08-01,1999,8,1990,Monsoon (JJAS),-0.18863,0.19945,0.10628,0,No drought,0
+Odisha,1999-09-01,1999,9,1990,Monsoon (JJAS),0.38603,-0.51948,0.046094,0,No drought,0
+Odisha,1999-10-01,1999,10,1990,Post-monsoon (OND),0.9059,0.13559,0.46158,0,No drought,0
+Odisha,1999-11-01,1999,11,1990,Post-monsoon (OND),-0.35453,0.66379,0.098591,0,No drought,0
+Odisha,1999-12-01,1999,12,1990,Post-monsoon (OND),-0.76567,0.73783,0.11032,0,No drought,0
+Odisha,2000-01-01,2000,1,2000,Winter (JF),-1.8023,0.41977,0.10082,1,Severe,0
+Odisha,2000-02-01,2000,2,2000,Winter (JF),1.6,0.048793,0.43338,0,No drought,0
+Odisha,2000-03-01,2000,3,2000,Pre-monsoon (MAM),-1.0271,-0.099799,0.45721,1,Moderate,0
+Odisha,2000-04-01,2000,4,2000,Pre-monsoon (MAM),-0.70913,-0.27428,0.59358,0,No drought,0
+Odisha,2000-05-01,2000,5,2000,Pre-monsoon (MAM),0.64833,0.37363,0.15337,0,No drought,0
+Odisha,2000-06-01,2000,6,2000,Monsoon (JJAS),0.60902,0.20717,0.17432,0,No drought,0
+Odisha,2000-07-01,2000,7,2000,Monsoon (JJAS),-1.055,-0.36198,0.25712,1,Moderate,0
+Odisha,2000-08-01,2000,8,2000,Monsoon (JJAS),-1.0393,-0.78868,-0.011494,1,Moderate,0
+Odisha,2000-09-01,2000,9,2000,Monsoon (JJAS),-1.3397,-1.5109,-0.58808,1,Moderate,0
+Odisha,2000-10-01,2000,10,2000,Post-monsoon (OND),-1.69,-2.3287,-1.8295,1,Severe,0
+Odisha,2000-11-01,2000,11,2000,Post-monsoon (OND),-1.8408,-2.3578,-1.9844,1,Severe,0
+Odisha,2000-12-01,2000,12,2000,Post-monsoon (OND),-1.9561,-2.1738,-2.0221,1,Severe,0
+Odisha,2001-01-01,2001,1,2000,Winter (JF),-1.824,-2.4753,-1.9972,1,Severe,0
+Odisha,2001-02-01,2001,2,2000,Winter (JF),-2.007,-2.9854,-2.3744,1,Extreme,0
+Odisha,2001-03-01,2001,3,2000,Pre-monsoon (MAM),0.71747,-1.3481,-2.1775,0,No drought,0
+Odisha,2001-04-01,2001,4,2000,Pre-monsoon (MAM),0.047441,-0.76393,-2.1311,0,No drought,0
+Odisha,2001-05-01,2001,5,2000,Pre-monsoon (MAM),0.44186,-0.084703,-2.1924,0,No drought,0
+Odisha,2001-06-01,2001,6,2000,Monsoon (JJAS),1.5912,1.459,-1.662,0,No drought,0
+Odisha,2001-07-01,2001,7,2000,Monsoon (JJAS),1.5867,2.0501,-0.18371,0,No drought,0
+Odisha,2001-08-01,2001,8,2000,Monsoon (JJAS),0.64799,2.1291,0.46046,0,No drought,0
+Odisha,2001-09-01,2001,9,2000,Monsoon (JJAS),-2.0867,1.5248,0.29775,1,Extreme,0
+Odisha,2001-10-01,2001,10,2000,Post-monsoon (OND),-0.19999,0.57697,0.68962,0,No drought,0
+Odisha,2001-11-01,2001,11,2000,Post-monsoon (OND),0.29538,-0.69063,0.92647,0,No drought,0
+Odisha,2001-12-01,2001,12,2000,Post-monsoon (OND),-1.9924,-1.4646,0.93676,1,Severe,0
+Odisha,2002-01-01,2002,1,2000,Winter (JF),0.17961,-0.35343,1.0447,0,No drought,0
+Odisha,2002-02-01,2002,2,2000,Winter (JF),-1.276,-0.71404,1.0742,1,Moderate,0
+Odisha,2002-03-01,2002,3,2000,Pre-monsoon (MAM),-0.55748,-1.3411,0.9368,0,No drought,0
+Odisha,2002-04-01,2002,4,2000,Pre-monsoon (MAM),-0.23486,-0.93329,0.92943,0,No drought,0
+Odisha,2002-05-01,2002,5,2000,Pre-monsoon (MAM),0.18052,-0.66624,0.9003,0,No drought,0
+Odisha,2002-06-01,2002,6,2000,Monsoon (JJAS),-0.22686,-0.34372,0.083256,0,No drought,0
+Odisha,2002-07-01,2002,7,2000,Monsoon (JJAS),-2.6778,-1.9194,-2.0432,1,Extreme,0
+Odisha,2002-08-01,2002,8,2000,Monsoon (JJAS),0.064421,-1.5476,-2.0197,0,No drought,0
+Odisha,2002-09-01,2002,9,2000,Monsoon (JJAS),-0.55274,-1.825,-1.7673,0,No drought,0
+Odisha,2002-10-01,2002,10,2000,Post-monsoon (OND),-0.97435,-1.9602,-1.9291,0,No drought,0
+Odisha,2002-11-01,2002,11,2000,Post-monsoon (OND),-1.0123,-1.0148,-2.1372,1,Moderate,0
+Odisha,2002-12-01,2002,12,2000,Post-monsoon (OND),-2.0256,-1.2835,-2.142,1,Extreme,0
+Odisha,2003-01-01,2003,1,2000,Winter (JF),-1.2431,-1.6932,-2.2275,1,Moderate,0
+Odisha,2003-02-01,2003,2,2000,Winter (JF),0.53998,-1.1629,-2.0828,0,No drought,0
+Odisha,2003-03-01,2003,3,2000,Pre-monsoon (MAM),0.5086,-0.33862,-1.9752,0,No drought,0
+Odisha,2003-04-01,2003,4,2000,Pre-monsoon (MAM),-0.44471,-0.28254,-2.0272,0,No drought,0
+Odisha,2003-05-01,2003,5,2000,Pre-monsoon (MAM),-1.6685,-0.8088,-2.3448,1,Severe,0
+Odisha,2003-06-01,2003,6,2000,Monsoon (JJAS),-0.48187,-0.9819,-2.407,0,No drought,0
+Odisha,2003-07-01,2003,7,2000,Monsoon (JJAS),0.40796,-0.60559,-1.3042,0,No drought,0
+Odisha,2003-08-01,2003,8,2000,Monsoon (JJAS),0.69645,0.04299,-0.8537,0,No drought,0
+Odisha,2003-09-01,2003,9,2000,Monsoon (JJAS),0.5159,0.50314,-0.56137,0,No drought,0
+Odisha,2003-10-01,2003,10,2000,Post-monsoon (OND),1.9604,1.9845,1.03,0,No drought,0
+Odisha,2003-11-01,2003,11,2000,Post-monsoon (OND),-0.47027,1.958,1.0646,0,No drought,0
+Odisha,2003-12-01,2003,12,2000,Post-monsoon (OND),1.7656,1.9855,1.352,0,No drought,0
+Odisha,2004-01-01,2004,1,2000,Winter (JF),0.29901,2.028,1.4341,0,No drought,0
+Odisha,2004-02-01,2004,2,2000,Winter (JF),-0.47199,0.24517,1.3642,0,No drought,0
+Odisha,2004-03-01,2004,3,2000,Pre-monsoon (MAM),-1.6503,-0.032596,1.2119,1,Severe,0
+Odisha,2004-04-01,2004,4,2000,Pre-monsoon (MAM),0.84504,-0.33953,1.343,0,No drought,0
+Odisha,2004-05-01,2004,5,2000,Pre-monsoon (MAM),-0.88138,-0.9507,1.3987,0,No drought,0
+Odisha,2004-06-01,2004,6,2000,Monsoon (JJAS),0.032571,-0.39402,1.4434,0,No drought,0
+Odisha,2004-07-01,2004,7,2000,Monsoon (JJAS),-0.69282,-0.59634,1.1608,0,No drought,0
+Odisha,2004-08-01,2004,8,2000,Monsoon (JJAS),-0.14994,-0.84495,0.82,0,No drought,0
+Odisha,2004-09-01,2004,9,2000,Monsoon (JJAS),-1.7327,-1.3598,0.12235,1,Severe,0
+Odisha,2004-10-01,2004,10,2000,Post-monsoon (OND),0.57572,-1.045,-0.98803,0,No drought,0
+Odisha,2004-11-01,2004,11,2000,Post-monsoon (OND),-1.8031,-0.93775,-1.0797,1,Severe,0
+Odisha,2004-12-01,2004,12,2000,Post-monsoon (OND),-2.0786,-1.1136,-1.4199,1,Extreme,0
+Odisha,2005-01-01,2005,1,2000,Winter (JF),1.0325,0.14821,-1.3421,0,No drought,0
+Odisha,2005-02-01,2005,2,2000,Winter (JF),-1.1193,-1.1087,-1.3934,1,Moderate,0
+Odisha,2005-03-01,2005,3,2000,Pre-monsoon (MAM),0.41314,-0.11388,-1.2042,0,No drought,0
+Odisha,2005-04-01,2005,4,2000,Pre-monsoon (MAM),-0.50407,-0.12966,-1.3751,0,No drought,0
+Odisha,2005-05-01,2005,5,2000,Pre-monsoon (MAM),-0.78727,-1.0522,-1.377,0,No drought,0
+Odisha,2005-06-01,2005,6,2000,Monsoon (JJAS),-0.23832,-0.55408,-1.4957,0,No drought,0
+Odisha,2005-07-01,2005,7,2000,Monsoon (JJAS),0.58326,-0.1414,-0.84403,0,No drought,0
+Odisha,2005-08-01,2005,8,2000,Monsoon (JJAS),-2.0006,-1.0108,-1.4044,1,Extreme,0
+Odisha,2005-09-01,2005,9,2000,Monsoon (JJAS),1.415,0.17361,-0.26862,0,No drought,0
+Odisha,2005-10-01,2005,10,2000,Post-monsoon (OND),1.3773,0.96506,0.22849,0,No drought,0
+Odisha,2005-11-01,2005,11,2000,Post-monsoon (OND),-0.30744,0.59703,0.33597,0,No drought,0
+Odisha,2005-12-01,2005,12,2000,Post-monsoon (OND),0.73511,1.6031,0.4251,0,No drought,0
+Odisha,2006-01-01,2006,1,2000,Winter (JF),-2.126,1.0131,0.25393,1,Extreme,0
+Odisha,2006-02-01,2006,2,2000,Winter (JF),-2.7172,-1.5986,0.19005,1,Extreme,0
+Odisha,2006-03-01,2006,3,2000,Pre-monsoon (MAM),0.84658,-0.75541,0.23299,0,No drought,0
+Odisha,2006-04-01,2006,4,2000,Pre-monsoon (MAM),-0.055011,-0.96636,0.26472,0,No drought,0
+Odisha,2006-05-01,2006,5,2000,Pre-monsoon (MAM),1.3283,0.49587,0.65093,0,No drought,0
+Odisha,2006-06-01,2006,6,2000,Monsoon (JJAS),-0.31472,0.34999,0.56032,0,No drought,0
+Odisha,2006-07-01,2006,7,2000,Monsoon (JJAS),1.2343,0.87548,0.72925,0,No drought,0
+Odisha,2006-08-01,2006,8,2000,Monsoon (JJAS),2.0564,1.8534,1.952,0,No drought,0
+Odisha,2006-09-01,2006,9,2000,Monsoon (JJAS),0.57708,1.8431,1.8729,0,No drought,0
+Odisha,2006-10-01,2006,10,2000,Post-monsoon (OND),-1.3757,1.4082,0.90158,1,Moderate,0
+Odisha,2006-11-01,2006,11,2000,Post-monsoon (OND),0.089158,0.93812,0.93658,0,No drought,0
+Odisha,2006-12-01,2006,12,2000,Post-monsoon (OND),-2.3511,-0.64076,0.8557,1,Extreme,0
+Odisha,2007-01-01,2007,1,2000,Winter (JF),-1.9081,-1.7343,0.86761,1,Severe,0
+Odisha,2007-02-01,2007,2,2000,Winter (JF),0.60635,-0.45723,1.1083,0,No drought,0
+Odisha,2007-03-01,2007,3,2000,Pre-monsoon (MAM),-0.35739,-0.72467,0.98488,0,No drought,0
+Odisha,2007-04-01,2007,4,2000,Pre-monsoon (MAM),-0.86821,-0.8307,0.92835,0,No drought,0
+Odisha,2007-05-01,2007,5,2000,Pre-monsoon (MAM),0.057013,-0.33191,0.71939,0,No drought,0
+Odisha,2007-06-01,2007,6,2000,Monsoon (JJAS),1.4423,0.88581,1.3551,0,No drought,0
+Odisha,2007-07-01,2007,7,2000,Monsoon (JJAS),-0.94398,0.37684,0.77185,0,No drought,0
+Odisha,2007-08-01,2007,8,2000,Monsoon (JJAS),1.0915,0.9772,0.13329,0,No drought,0
+Odisha,2007-09-01,2007,9,2000,Monsoon (JJAS),2.1571,2.044,0.8275,0,No drought,0
+Odisha,2007-10-01,2007,10,2000,Post-monsoon (OND),-0.66257,0.88484,0.95209,0,No drought,0
+Odisha,2007-11-01,2007,11,2000,Post-monsoon (OND),-0.23427,1.3298,0.95007,0,No drought,0
+Odisha,2007-12-01,2007,12,2000,Post-monsoon (OND),-1.2413,0.88483,0.96564,1,Moderate,0
+Odisha,2008-01-01,2008,1,2000,Winter (JF),0.64418,-0.59251,1.121,0,No drought,0
+Odisha,2008-02-01,2008,2,2000,Winter (JF),0.25706,-0.11746,1.045,0,No drought,0
+Odisha,2008-03-01,2008,3,2000,Pre-monsoon (MAM),0.22532,0.21988,1.1156,0,No drought,0
+Odisha,2008-04-01,2008,4,2000,Pre-monsoon (MAM),-0.27679,0.18723,1.1729,0,No drought,0
+Odisha,2008-05-01,2008,5,2000,Pre-monsoon (MAM),-1.1221,-0.74262,1.0809,1,Moderate,0
+Odisha,2008-06-01,2008,6,2000,Monsoon (JJAS),1.7503,1.1391,1.1965,0,No drought,0
+Odisha,2008-07-01,2008,7,2000,Monsoon (JJAS),-0.31541,0.71978,1.3875,0,No drought,0
+Odisha,2008-08-01,2008,8,2000,Monsoon (JJAS),0.70915,1.1139,1.1867,0,No drought,0
+Odisha,2008-09-01,2008,9,2000,Monsoon (JJAS),1.5949,2.0092,1.0442,0,No drought,0
+Odisha,2008-10-01,2008,10,2000,Post-monsoon (OND),-1.665,0.21907,0.74729,1,Severe,0
+Odisha,2008-11-01,2008,11,2000,Post-monsoon (OND),-0.91007,0.28442,0.68008,0,No drought,0
+Odisha,2008-12-01,2008,12,2000,Post-monsoon (OND),-1.3704,-0.090472,0.6864,1,Moderate,0
+Odisha,2009-01-01,2009,1,2000,Winter (JF),-1.8456,-2.2183,0.52209,1,Severe,0
+Odisha,2009-02-01,2009,2,2000,Winter (JF),-1.9531,-2.4287,0.4004,1,Severe,0
+Odisha,2009-03-01,2009,3,2000,Pre-monsoon (MAM),-1.5773,-2.6002,0.23584,1,Severe,0
+Odisha,2009-04-01,2009,4,2000,Pre-monsoon (MAM),-2.4569,-3.1459,0.047853,1,Extreme,0
+Odisha,2009-05-01,2009,5,2000,Pre-monsoon (MAM),0.20663,-1.9705,0.24879,0,No drought,0
+Odisha,2009-06-01,2009,6,2000,Monsoon (JJAS),-2.3018,-2.5719,-1.5511,1,Extreme,0
+Odisha,2009-07-01,2009,7,2000,Monsoon (JJAS),2.1758,0.27867,-0.13061,0,No drought,0
+Odisha,2009-08-01,2009,8,2000,Monsoon (JJAS),-0.92155,0.086124,-0.73816,0,No drought,0
+Odisha,2009-09-01,2009,9,2000,Monsoon (JJAS),-1.2881,-0.50947,-1.9315,1,Moderate,0
+Odisha,2009-10-01,2009,10,2000,Post-monsoon (OND),0.070143,0.41027,-1.2233,0,No drought,0
+Odisha,2009-11-01,2009,11,2000,Post-monsoon (OND),0.53214,-1.1771,-1.0848,0,No drought,0
+Odisha,2009-12-01,2009,12,2000,Post-monsoon (OND),-0.64575,-0.80018,-1.0848,0,No drought,0
+Odisha,2010-01-01,2010,1,2010,Winter (JF),0.11948,-0.053157,-0.94606,0,No drought,0
+Odisha,2010-02-01,2010,2,2010,Winter (JF),-1.0518,-0.51224,-0.90825,1,Moderate,0
+Odisha,2010-03-01,2010,3,2010,Pre-monsoon (MAM),-1.1108,-1.2588,-0.87515,1,Moderate,0
+Odisha,2010-04-01,2010,4,2010,Pre-monsoon (MAM),-2.1457,-1.9275,-0.85349,1,Extreme,0
+Odisha,2010-05-01,2010,5,2010,Pre-monsoon (MAM),0.92785,-0.84154,-0.76437,0,No drought,0
+Odisha,2010-06-01,2010,6,2010,Monsoon (JJAS),-0.60862,-0.7865,-0.31786,0,No drought,0
+Odisha,2010-07-01,2010,7,2010,Monsoon (JJAS),-0.66662,-0.86373,-1.7933,0,No drought,0
+Odisha,2010-08-01,2010,8,2010,Monsoon (JJAS),-0.95807,-0.99357,-1.5961,0,No drought,0
+Odisha,2010-09-01,2010,9,2010,Monsoon (JJAS),-0.13717,-1.3259,-1.3607,0,No drought,0
+Odisha,2010-10-01,2010,10,2010,Post-monsoon (OND),0.54071,-0.75724,-1.1302,0,No drought,0
+Odisha,2010-11-01,2010,11,2010,Post-monsoon (OND),0.83347,-0.3992,-1.0764,0,No drought,0
+Odisha,2010-12-01,2010,12,2010,Post-monsoon (OND),2.169,0.7271,-0.67916,0,No drought,0
+Odisha,2011-01-01,2011,1,2010,Winter (JF),-0.70222,1.0358,-0.71756,0,No drought,0
+Odisha,2011-02-01,2011,2,2010,Winter (JF),-0.14781,1.0617,-0.63582,0,No drought,0
+Odisha,2011-03-01,2011,3,2010,Pre-monsoon (MAM),-1.1522,0.50538,-0.64159,1,Moderate,0
+Odisha,2011-04-01,2011,4,2010,Pre-monsoon (MAM),1.1062,-0.11359,-0.34076,0,No drought,0
+Odisha,2011-05-01,2011,5,2010,Pre-monsoon (MAM),0.5596,0.29641,-0.44054,0,No drought,0
+Odisha,2011-06-01,2011,6,2010,Monsoon (JJAS),0.35899,0.39262,-0.024549,0,No drought,0
+Odisha,2011-07-01,2011,7,2010,Monsoon (JJAS),-1.9323,-0.61014,-0.41546,1,Severe,0
+Odisha,2011-08-01,2011,8,2010,Monsoon (JJAS),0.31351,-0.56811,0.083078,0,No drought,0
+Odisha,2011-09-01,2011,9,2010,Monsoon (JJAS),1.745,0.37649,0.95667,0,No drought,0
+Odisha,2011-10-01,2011,10,2010,Post-monsoon (OND),-1.6636,-0.46572,0.21893,1,Severe,0
+Odisha,2011-11-01,2011,11,2010,Post-monsoon (OND),-1.8221,0.25467,-0.072909,1,Severe,0
+Odisha,2011-12-01,2011,12,2010,Post-monsoon (OND),-0.83459,0.1609,-0.53262,0,No drought,0
+Odisha,2012-01-01,2012,1,2010,Winter (JF),1.7708,-1.1863,-0.22333,0,No drought,0
+Odisha,2012-02-01,2012,2,2010,Winter (JF),-1.349,-0.37246,-0.30972,1,Moderate,0
+Odisha,2012-03-01,2012,3,2010,Pre-monsoon (MAM),-1.8501,-0.32662,-0.34077,1,Severe,0
+Odisha,2012-04-01,2012,4,2010,Pre-monsoon (MAM),-0.082133,-0.15316,-0.47578,0,No drought,0
+Odisha,2012-05-01,2012,5,2010,Pre-monsoon (MAM),-1.8519,-2.2026,-0.80221,1,Severe,0
+Odisha,2012-06-01,2012,6,2010,Monsoon (JJAS),-0.62179,-1.4271,-1.2141,0,No drought,0
+Odisha,2012-07-01,2012,7,2010,Monsoon (JJAS),0.078158,-0.89994,-0.51782,0,No drought,0
+Odisha,2012-08-01,2012,8,2010,Monsoon (JJAS),0.74292,-0.35996,-0.25273,0,No drought,0
+Odisha,2012-09-01,2012,9,2010,Monsoon (JJAS),0.17995,0.0048888,-1.2191,0,No drought,0
+Odisha,2012-10-01,2012,10,2010,Post-monsoon (OND),-0.50747,0.041296,-0.82084,0,No drought,0
+Odisha,2012-11-01,2012,11,2010,Post-monsoon (OND),1.6844,0.67917,-0.18506,0,No drought,0
+Odisha,2012-12-01,2012,12,2010,Post-monsoon (OND),-0.60055,0.25579,-0.17724,0,No drought,0
+Odisha,2013-01-01,2013,1,2010,Winter (JF),-0.46331,0.15326,-0.49481,0,No drought,0
+Odisha,2013-02-01,2013,2,2010,Winter (JF),-0.40031,0.80554,-0.45256,0,No drought,0
+Odisha,2013-03-01,2013,3,2010,Pre-monsoon (MAM),-1.4428,-1.4913,-0.43259,1,Moderate,0
+Odisha,2013-04-01,2013,4,2010,Pre-monsoon (MAM),0.88358,-0.57556,-0.33161,0,No drought,0
+Odisha,2013-05-01,2013,5,2010,Pre-monsoon (MAM),-0.49498,-0.57664,-0.15637,0,No drought,0
+Odisha,2013-06-01,2013,6,2010,Monsoon (JJAS),0.97186,0.5766,0.49485,0,No drought,0
+Odisha,2013-07-01,2013,7,2010,Monsoon (JJAS),0.59233,1.011,0.76227,0,No drought,0
+Odisha,2013-08-01,2013,8,2010,Monsoon (JJAS),-1.1879,0.13986,-0.029596,1,Moderate,0
+Odisha,2013-09-01,2013,9,2010,Monsoon (JJAS),-0.44756,-0.019073,-0.23802,0,No drought,0
+Odisha,2013-10-01,2013,10,2010,Post-monsoon (OND),2.4005,1.3971,1.476,0,No drought,0
+Odisha,2013-11-01,2013,11,2010,Post-monsoon (OND),-0.65607,1.1587,1.1061,0,No drought,0
+Odisha,2013-12-01,2013,12,2010,Post-monsoon (OND),-0.70425,1.6614,1.1093,0,No drought,0
+Odisha,2014-01-01,2014,1,2010,Winter (JF),-0.42394,2.1485,1.1098,0,No drought,0
+Odisha,2014-02-01,2014,2,2010,Winter (JF),0.24077,-0.86152,1.1781,0,No drought,0
+Odisha,2014-03-01,2014,3,2010,Pre-monsoon (MAM),0.76884,0.033558,1.3183,0,No drought,0
+Odisha,2014-04-01,2014,4,2010,Pre-monsoon (MAM),-1.6981,-0.5757,1.1321,1,Severe,0
+Odisha,2014-05-01,2014,5,2010,Pre-monsoon (MAM),1.09,0.42636,1.4467,0,No drought,0
+Odisha,2014-06-01,2014,6,2010,Monsoon (JJAS),-1.8245,-0.98034,0.50647,1,Severe,0
+Odisha,2014-07-01,2014,7,2010,Monsoon (JJAS),1.6628,0.29018,1.0008,0,No drought,0
+Odisha,2014-08-01,2014,8,2010,Monsoon (JJAS),0.45288,0.6469,1.3661,0,No drought,0
+Odisha,2014-09-01,2014,9,2010,Monsoon (JJAS),0.49517,0.50129,1.7322,0,No drought,0
+Odisha,2014-10-01,2014,10,2010,Post-monsoon (OND),0.042687,1.1151,0.1372,0,No drought,0
+Odisha,2014-11-01,2014,11,2010,Post-monsoon (OND),-1.2408,0.096988,0.098451,1,Moderate,0
+Odisha,2014-12-01,2014,12,2010,Post-monsoon (OND),0.069209,-0.12519,0.12112,0,No drought,0
+Odisha,2015-01-01,2015,1,2010,Winter (JF),0.38427,-0.4616,0.20312,0,No drought,0
+Odisha,2015-02-01,2015,2,2010,Winter (JF),-0.88008,-1.1833,0.10363,0,No drought,0
+Odisha,2015-03-01,2015,3,2010,Pre-monsoon (MAM),-0.028286,-0.56936,0.0063004,0,No drought,0
+Odisha,2015-04-01,2015,4,2010,Pre-monsoon (MAM),1.4968,0.42378,0.37219,0,No drought,0
+Odisha,2015-05-01,2015,5,2010,Pre-monsoon (MAM),-1.3317,-0.37119,-0.13074,1,Moderate,0
+Odisha,2015-06-01,2015,6,2010,Monsoon (JJAS),0.8477,0.54416,0.79076,0,No drought,0
+Odisha,2015-07-01,2015,7,2010,Monsoon (JJAS),-0.24067,0.41319,0.074375,0,No drought,0
+Odisha,2015-08-01,2015,8,2010,Monsoon (JJAS),-1.2104,-0.61607,-0.50928,1,Moderate,0
+Odisha,2015-09-01,2015,9,2010,Monsoon (JJAS),-0.74114,-0.5771,-0.93197,0,No drought,0
+Odisha,2015-10-01,2015,10,2010,Post-monsoon (OND),-1.699,-1.6536,-1.3819,1,Severe,0
+Odisha,2015-11-01,2015,11,2010,Post-monsoon (OND),-0.76571,-1.9458,-1.3637,0,No drought,0
+Odisha,2015-12-01,2015,12,2010,Post-monsoon (OND),0.95628,-1.4182,-1.2824,0,No drought,0
+Odisha,2016-01-01,2016,1,2010,Winter (JF),-1.3206,-1.77,-1.3603,1,Moderate,0
+Odisha,2016-02-01,2016,2,2010,Winter (JF),-0.32873,-0.73937,-1.2925,0,No drought,0
+Odisha,2016-03-01,2016,3,2010,Pre-monsoon (MAM),-0.23544,-0.45589,-1.2921,0,No drought,0
+Odisha,2016-04-01,2016,4,2010,Pre-monsoon (MAM),-2.2891,-1.7922,-1.7302,1,Extreme,0
+Odisha,2016-05-01,2016,5,2010,Pre-monsoon (MAM),-0.019539,-1.1542,-1.5458,0,No drought,0
+Odisha,2016-06-01,2016,6,2010,Monsoon (JJAS),-0.47986,-0.95219,-2.1628,0,No drought,0
+Odisha,2016-07-01,2016,7,2010,Monsoon (JJAS),-0.87798,-1.3377,-2.5109,0,No drought,0
+Odisha,2016-08-01,2016,8,2010,Monsoon (JJAS),-0.54026,-1.1075,-2.0033,0,No drought,0
+Odisha,2016-09-01,2016,9,2010,Monsoon (JJAS),0.46973,-0.9767,-1.9298,0,No drought,0
+Odisha,2016-10-01,2016,10,2010,Post-monsoon (OND),-0.13971,-0.84067,-1.3879,0,No drought,0
+Odisha,2016-11-01,2016,11,2010,Post-monsoon (OND),-1.2043,-0.58083,-1.4429,1,Moderate,0
+Odisha,2016-12-01,2016,12,2010,Post-monsoon (OND),-1.6744,-0.29517,-1.5678,1,Severe,0
+Odisha,2017-01-01,2017,1,2010,Winter (JF),-1.2286,-0.92878,-1.5438,1,Moderate,0
+Odisha,2017-02-01,2017,2,2010,Winter (JF),-1.6234,-2.2055,-1.6505,1,Severe,0
+Odisha,2017-03-01,2017,3,2010,Pre-monsoon (MAM),0.47422,-1.1421,-1.5445,0,No drought,0
+Odisha,2017-04-01,2017,4,2010,Pre-monsoon (MAM),-1.5327,-1.5403,-1.4967,1,Severe,0
+Odisha,2017-05-01,2017,5,2010,Pre-monsoon (MAM),-0.4206,-1.307,-1.6494,0,No drought,0
+Odisha,2017-06-01,2017,6,2010,Monsoon (JJAS),-0.034024,-0.43694,-1.5278,0,No drought,0
+Odisha,2017-07-01,2017,7,2010,Monsoon (JJAS),0.16683,-0.4529,-1.0997,0,No drought,0
+Odisha,2017-08-01,2017,8,2010,Monsoon (JJAS),-0.74784,-0.61744,-1.0857,0,No drought,0
+Odisha,2017-09-01,2017,9,2010,Monsoon (JJAS),-0.93847,-0.99009,-1.7012,0,No drought,0
+Odisha,2017-10-01,2017,10,2010,Post-monsoon (OND),0.8191,-0.48799,-1.1413,0,No drought,0
+Odisha,2017-11-01,2017,11,2010,Post-monsoon (OND),0.34614,-0.56763,-1.0026,0,No drought,0
+Odisha,2017-12-01,2017,12,2010,Post-monsoon (OND),-0.98463,-0.12151,-0.98919,0,No drought,0
+Odisha,2018-01-01,2018,1,2010,Winter (JF),-1.9351,0.32374,-0.98219,1,Severe,0
+Odisha,2018-02-01,2018,2,2010,Winter (JF),-1.7068,-1.2892,-0.98484,1,Severe,0
+Odisha,2018-03-01,2018,3,2010,Pre-monsoon (MAM),-1.4555,-2.4262,-1.1621,1,Moderate,0
+Odisha,2018-04-01,2018,4,2010,Pre-monsoon (MAM),1.5766,-0.22414,-0.6292,0,No drought,0
+Odisha,2018-05-01,2018,5,2010,Pre-monsoon (MAM),1.7752,1.3059,-0.057741,0,No drought,0
+Odisha,2018-06-01,2018,6,2010,Monsoon (JJAS),-0.5552,0.78098,-0.24037,0,No drought,0
+Odisha,2018-07-01,2018,7,2010,Monsoon (JJAS),0.59047,1.1885,-0.03222,0,No drought,0
+Odisha,2018-08-01,2018,8,2010,Monsoon (JJAS),0.13317,0.64776,0.30976,0,No drought,0
+Odisha,2018-09-01,2018,9,2010,Monsoon (JJAS),-0.14146,-0.053445,0.55186,0,No drought,0
+Odisha,2018-10-01,2018,10,2010,Post-monsoon (OND),-0.67566,-0.0025305,0.13474,0,No drought,0
+Odisha,2018-11-01,2018,11,2010,Post-monsoon (OND),-1.7995,-0.57109,-0.047875,1,Severe,0
+Odisha,2018-12-01,2018,12,2010,Post-monsoon (OND),2.1975,-0.14055,0.36834,0,No drought,0
+Odisha,2019-01-01,2019,1,2010,Winter (JF),-0.8522,-0.17966,0.40901,0,No drought,0
+Odisha,2019-02-01,2019,2,2010,Winter (JF),0.3108,0.56932,0.58067,0,No drought,0
+Odisha,2019-03-01,2019,3,2010,Pre-monsoon (MAM),0.82394,1.3459,0.76875,0,No drought,0
+Odisha,2019-04-01,2019,4,2010,Pre-monsoon (MAM),0.55217,0.50233,0.5496,0,No drought,0
+Odisha,2019-05-01,2019,5,2010,Pre-monsoon (MAM),0.79724,1.0164,0.21226,0,No drought,0
+Odisha,2019-06-01,2019,6,2010,Monsoon (JJAS),-0.49925,0.28883,0.23514,0,No drought,0
+Odisha,2019-07-01,2019,7,2010,Monsoon (JJAS),-0.77355,-0.40922,-0.2633,0,No drought,0
+Odisha,2019-08-01,2019,8,2010,Monsoon (JJAS),1.0934,0.095622,0.13192,0,No drought,0
+Odisha,2019-09-01,2019,9,2010,Monsoon (JJAS),1.3178,0.50129,0.65682,0,No drought,0
+Odisha,2019-10-01,2019,10,2010,Post-monsoon (OND),0.87775,1.0062,1.0088,0,No drought,0
+Odisha,2019-11-01,2019,11,2010,Post-monsoon (OND),-0.48655,1.403,1.085,0,No drought,0
+Odisha,2019-12-01,2019,12,2010,Post-monsoon (OND),0.61857,1.0261,0.73977,0,No drought,0
+Odisha,2020-01-01,2020,1,2020,Winter (JF),0.71848,0.55906,0.83809,0,No drought,0
+Odisha,2020-02-01,2020,2,2020,Winter (JF),1.3403,0.51518,0.94098,0,No drought,0
+Odisha,2020-03-01,2020,3,2020,Pre-monsoon (MAM),1.6308,1.5028,1.074,0,No drought,0
+Odisha,2020-04-01,2020,4,2020,Pre-monsoon (MAM),2.1739,2.2811,1.4381,0,No drought,0
+Odisha,2020-05-01,2020,5,2020,Pre-monsoon (MAM),0.95162,2.2295,1.4961,0,No drought,0
+Odisha,2020-06-01,2020,6,2020,Monsoon (JJAS),1.1784,2.0332,2.062,0,No drought,0
+Odisha,2020-07-01,2020,7,2020,Monsoon (JJAS),-1.6482,0.84047,1.7992,1,Severe,0
+Odisha,2020-08-01,2020,8,2020,Monsoon (JJAS),1.6252,0.98651,1.8527,0,No drought,0
+Odisha,2020-09-01,2020,9,2020,Monsoon (JJAS),-1.3987,0.1817,1.2709,1,Moderate,0
+Odisha,2020-10-01,2020,10,2020,Post-monsoon (OND),0.74103,-0.10877,1.1677,0,No drought,0
+Odisha,2020-11-01,2020,11,2020,Post-monsoon (OND),-0.72027,0.57682,1.1804,0,No drought,0
+Odisha,2020-12-01,2020,12,2020,Post-monsoon (OND),-1.4523,-0.67417,1.1396,1,Moderate,0
+Odisha,2021-01-01,2021,1,2020,Winter (JF),-0.92985,0.02775,1.0604,0,No drought,0
+Odisha,2021-02-01,2021,2,2020,Winter (JF),-1.2483,-1.868,0.82529,1,Moderate,0
+Odisha,2021-03-01,2021,3,2020,Pre-monsoon (MAM),-1.3629,-2.1182,0.4817,1,Moderate,0
+Odisha,2021-04-01,2021,4,2020,Pre-monsoon (MAM),-0.32223,-1.644,-0.06793,0,No drought,0
+Odisha,2021-05-01,2021,5,2020,Pre-monsoon (MAM),1.8324,0.68117,0.3767,0,No drought,0
+Odisha,2021-06-01,2021,6,2020,Monsoon (JJAS),-0.084889,0.53962,-0.17234,0,No drought,0
+Odisha,2021-07-01,2021,7,2020,Monsoon (JJAS),-0.78889,0.19271,0.14217,0,No drought,0
+Odisha,2021-08-01,2021,8,2020,Monsoon (JJAS),-2.0671,-0.82709,-1.34,1,Extreme,0
+Odisha,2021-09-01,2021,9,2020,Monsoon (JJAS),1.8043,-0.56297,-0.2057,0,No drought,0
+Odisha,2021-10-01,2021,10,2020,Post-monsoon (OND),-0.35551,-0.72312,-0.67878,0,No drought,0
+Odisha,2021-11-01,2021,11,2020,Post-monsoon (OND),1.1634,-0.12728,-0.37018,0,No drought,0
+Odisha,2021-12-01,2021,12,2020,Post-monsoon (OND),2.0866,1.4448,0.039171,0,No drought,0
+Odisha,2022-01-01,2022,1,2020,Winter (JF),1.7597,1.0553,-0.00063478,0,No drought,0
+Odisha,2022-02-01,2022,2,2020,Winter (JF),0.3908,1.7385,0.19183,0,No drought,0
+Odisha,2022-03-01,2022,3,2020,Pre-monsoon (MAM),-1.0657,0.87697,0.20203,1,Moderate,0
+Odisha,2022-04-01,2022,4,2020,Pre-monsoon (MAM),-0.71606,0.039262,0.14285,0,No drought,0
+Odisha,2022-05-01,2022,5,2020,Pre-monsoon (MAM),0.58452,-0.4227,-0.23949,0,No drought,0
+Odisha,2022-06-01,2022,6,2020,Monsoon (JJAS),-1.0469,-1.2737,-0.56498,1,Moderate,0
+Odisha,2022-07-01,2022,7,2020,Monsoon (JJAS),0.79445,-0.14959,0.016741,0,No drought,0
+Odisha,2022-08-01,2022,8,2020,Monsoon (JJAS),1.4394,0.84255,1.3359,0,No drought,0
+Odisha,2022-09-01,2022,9,2020,Monsoon (JJAS),-0.54843,0.49868,0.60708,0,No drought,0
+Odisha,2022-10-01,2022,10,2020,Post-monsoon (OND),0.54856,0.9997,0.7406,0,No drought,0
+Odisha,2022-11-01,2022,11,2020,Post-monsoon (OND),-0.55775,0.64898,0.50507,0,No drought,0
+Odisha,2022-12-01,2022,12,2020,Post-monsoon (OND),-0.52525,-0.38612,0.32293,0,No drought,0
+Odisha,2023-01-01,2023,1,2020,Winter (JF),-0.82585,-0.055183,0.059873,0,No drought,0
+Odisha,2023-02-01,2023,2,2020,Winter (JF),-1.4272,-1.6366,-0.17564,1,Moderate,0
+Odisha,2023-03-01,2023,3,2020,Pre-monsoon (MAM),1.2868,-0.12086,0.23731,0,No drought,0
+Odisha,2023-04-01,2023,4,2020,Pre-monsoon (MAM),0.93492,0.37297,0.46976,0,No drought,0
+Odisha,2023-05-01,2023,5,2020,Pre-monsoon (MAM),-0.26714,0.30984,0.32157,0,No drought,0
+Odisha,2023-06-01,2023,6,2020,Monsoon (JJAS),-0.73664,-0.015001,0.41747,0,No drought,0
+Odisha,2023-07-01,2023,7,2020,Monsoon (JJAS),0.038947,-0.36503,0.070262,0,No drought,0
+Odisha,2023-08-01,2023,8,2020,Monsoon (JJAS),-1.061,-1.1583,-1.0047,1,Moderate,0
+Odisha,2023-09-01,2023,9,2020,Monsoon (JJAS),1.1728,-0.3138,-0.34804,0,No drought,0
+Odisha,2023-10-01,2023,10,2020,Post-monsoon (OND),-0.17044,-0.15437,-0.63094,0,No drought,0
+Odisha,2023-11-01,2023,11,2020,Post-monsoon (OND),-0.045021,-0.2202,-0.57398,0,No drought,0
+Odisha,2023-12-01,2023,12,2020,Post-monsoon (OND),1.4192,0.64655,-0.45195,0,No drought,0
+Odisha,2024-01-01,2024,1,2020,Winter (JF),0.86045,0.11556,-0.26143,0,No drought,0
+Odisha,2024-02-01,2024,2,2020,Winter (JF),0.22483,0.39686,-0.053541,0,No drought,0
+Odisha,2024-03-01,2024,3,2020,Pre-monsoon (MAM),1.3448,1.2805,-0.0076128,0,No drought,0
+Odisha,2024-04-01,2024,4,2020,Pre-monsoon (MAM),-1.0867,0.45827,-0.32037,1,Moderate,0
+Odisha,2024-05-01,2024,5,2020,Pre-monsoon (MAM),0.10826,0.36165,-0.26368,0,No drought,0
+Odisha,2024-06-01,2024,6,2020,Monsoon (JJAS),-0.73153,-0.39798,-0.30822,0,No drought,0
+Odisha,2024-07-01,2024,7,2020,Monsoon (JJAS),0.016735,-0.75179,-0.31198,0,No drought,0
+Odisha,2024-08-01,2024,8,2020,Monsoon (JJAS),0.017472,-0.40808,0.1613,0,No drought,0
+Odisha,2024-09-01,2024,9,2020,Monsoon (JJAS),0.33351,-0.2288,-0.21834,0,No drought,0
+Odisha,2024-10-01,2024,10,2020,Post-monsoon (OND),-0.57481,-0.11969,-0.28822,0,No drought,0
+Odisha,2024-11-01,2024,11,2020,Post-monsoon (OND),-0.35487,-0.25976,-0.31161,0,No drought,0
+Odisha,2024-12-01,2024,12,2020,Post-monsoon (OND),1.2612,-0.11319,-0.2804,0,No drought,0
+Odisha,2025-01-01,2025,1,2020,Winter (JF),-1.4717,-0.68212,-0.40989,1,Moderate,0
+Odisha,2025-02-01,2025,2,2020,Winter (JF),-0.72877,-0.81135,-0.55149,0,No drought,0
+Odisha,2025-03-01,2025,3,2020,Pre-monsoon (MAM),-0.28754,-0.58091,-0.86082,0,No drought,0
+Odisha,2025-04-01,2025,4,2020,Pre-monsoon (MAM),1.4699,-0.04955,-0.43283,0,No drought,0
+Odisha,2025-05-01,2025,5,2020,Pre-monsoon (MAM),2.037,1.5052,0.1937,0,No drought,0
+Odisha,2025-06-01,2025,6,2020,Monsoon (JJAS),0.8892,1.8042,0.82802,0,No drought,0
+Odisha,2025-07-01,2025,7,2020,Monsoon (JJAS),0.22943,1.5974,0.78487,0,No drought,0
+Odisha,2025-08-01,2025,8,2020,Monsoon (JJAS),-1.3831,0.40344,0.24184,1,Moderate,0
+Odisha,2025-09-01,2025,9,2020,Monsoon (JJAS),0.5625,-0.029748,0.28537,0,No drought,0
+Odisha,2025-10-01,2025,10,2020,Post-monsoon (OND),1.0984,0.12218,0.87297,0,No drought,0
+Odisha,2025-11-01,2025,11,2020,Post-monsoon (OND),-1.2621,-0.19128,0.85839,1,Moderate,0
+Odisha,2025-12-01,2025,12,2020,Post-monsoon (OND),-1.3028,0.71074,0.70206,1,Moderate,0
